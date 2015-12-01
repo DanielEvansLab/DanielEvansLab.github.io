@@ -17,4 +17,10 @@ A central theme in our project is to develop insights relating molecular and phy
 
 Our [scientific team](http://DanielEvansLab.github.io/members) includes experts in human and model organism aging, genetic epidemiology of aging, statistical genetics, chemical informatics, and pharmaceutical development. The steering committee includes the three PIs (Steve Cummings, Nik Schork, and Simon Melov), an NIA project scientist (Nalini Raghavachari), and the project director (Dan Evans). The Integrative Data Resource Committee (IDRC) will assemble multiple genomic data resources and perform integrative data analysis. The Computational Informatics Committee (CIC) will develop software tools that will enable novel integrative genomic analyses that will include Mendelian Randomization analysis. The Research Planning Committee (RPC) will meet annually to evaluate evidence from our statistical analyses and to develop pilot projects that will be performed to advance the translation of findings into health-promoting therapeutics. In addition, an External Advisory Board (EAB) will be formed to provide relevant scientific expertise and to foster connections with the pharmaceutical industry.
 
+### Updates
+
 In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. Methods and results from our analyses will be made publicly available as well.
+
+### Contact
+
+Please contact the project director Dan Evans <devans@psg.ucsf.edu>
