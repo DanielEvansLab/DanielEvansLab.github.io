@@ -3,8 +3,6 @@ layout: page
 title: Members
 ---
 
-Members
-
 ### Steering Committee
 * Steve Cummings - CPMCRI
 * Nik Schork - JCVI
