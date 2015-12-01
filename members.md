@@ -26,5 +26,5 @@ title: Members
 * Tyler Backman - UCR
 
 ### Research Planning Committee (RPC)
-* PI: Simon Melov - Buck Institute
+* PI: Simon Melov - Buck Institute for Research on Aging
 
