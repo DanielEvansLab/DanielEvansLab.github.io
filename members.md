@@ -6,7 +6,7 @@ title: Members
 ### Steering Committee
 * Steve Cummings - CPMCRI
 * Nik Schork - JCVI
-* Simon Melov - Buck Institute
+* Simon Melov - Buck Institute for Research on Aging
 * Nalini Raghavachari - NIA
 * Dan Evans - CPMCRI
 
