@@ -22,7 +22,7 @@ title: Members
 ### Computational Informatics Committee (CIC)
 * PI: Nik Schork - J. Craig Venter Institute (JCVI)
 * Dan Evans - CPMCRI
-* Thomas Girke - University of California Riverside (UCR)
+* Thomas Girke - University of California, Riverside (UCR)
 * Tyler Backman - UCR
 
 ### Research Planning Committee (RPC)
