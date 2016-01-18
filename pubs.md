@@ -7,7 +7,7 @@ group: navigation
 
 <br>
 
-## Selection of Recent Publications
+## Selection of Related Publications
 
 <br>
 
