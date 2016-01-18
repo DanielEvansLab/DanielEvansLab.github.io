@@ -63,6 +63,6 @@ vignette("longevityTools")
 {% endhighlight %}
 
 Now, users want to follow the instructions given in the vignette (_e.g._ [longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
-To avoid typing and/or tedious copy and paste routines when executing code, users should load the corresponding source file ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R) 
-or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd)) into their working environment.  
+To avoid typing and/or tedious copy&paste routines for executing code, users should load the corresponding source file ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R) 
+or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd)) into their working environment and then use code sending or sourcing functionalities.  
 
