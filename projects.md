@@ -19,7 +19,9 @@ also download them via URLs provided in the corresponding sections of the
 vignettes or directly from the
 [Downloads](http://www.longevitygenomics.org/downloads/) page of this site. While
 improving transparancy for external users, the chosen analysis strategy also greatly 
-facilitates collaborations among team members of this project.
+facilitates collaborations among team members of this project. Where appropriate,
+finalized analysis results will also be shared with the public using web-based
+solutions such as [Shiny](http://shiny.rstudio.com/) and [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html).
 
 ## B. Current projects
 
