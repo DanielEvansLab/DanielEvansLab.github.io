@@ -5,8 +5,10 @@ header: Software
 group: navigation
 ---
 
-* [GTEx](http://www.gtexportal.org/home/){:target="_blank"}
-* [LongevityMap](http://genomics.senescence.info/longevity){:target="_blank"}
-* [GeneAge](http://genomics.senescence.info/genes/){:target="_blank"}
-* [Connectivity Map](https://www.broadinstitute.org/cmap/){:target="_blank"}
-* [LINCS](http://www.lincsproject.org/data/){:target="_blank"}
+## This project
+
+* [longevityTools (R Package on GitHub)](https://github.com/tgirke/longevityTools){:target="_blank"}
+
+## External projects
+
+* [PLINK](http://pngu.mgh.harvard.edu/~purcell/plink/){:target="_blank"}

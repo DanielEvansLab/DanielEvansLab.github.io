@@ -5,11 +5,7 @@ header : Publications
 group: navigation
 ---
 
-<br>
-
 ## Selected Publications Related to this Project 
-
-<br>
 
 0. Sood S, Gallagher I, Lunnon K, Rullman E, Keohane A, Crossland H, Phillips B, Cederholm T, Jensen T, van Loon L, et al (2015) A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status. Genome Biology 16: 185
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26343147){:target="_blank"}
