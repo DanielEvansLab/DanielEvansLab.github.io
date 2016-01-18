@@ -7,7 +7,7 @@ group: navigation
 
 ## A. Overview
 
-See [here](http://www.longevitygenomics.org/projects/).
+See [here]({{site.baseurl}}/).
 
 ## B. Collaboration and Open Access
 
@@ -22,7 +22,8 @@ All analysis results can be fully reproduced by rerunning the commands given in
 the vignettes. Instead of regenerating result files from scratch, users can
 also download them via URLs provided in the corresponding sections of the
 vignettes or directly from the
-[Downloads](http://www.longevitygenomics.org/downloads/) page of this site.
+[Downloads]({{site.baseurl}}/downloads/)
+page of this site.
 While improving transparancy for external users, the chosen analysis strategy
 also greatly facilitates collaborations among the different teams and members 
 of this project. Where appropriate, finalized summary results will also be shared with the
