@@ -57,11 +57,13 @@ biocLite("tgirke/longevityTools", build_vignettes=TRUE, dependencies=TRUE)
 {% endhighlight %}
 
 Subsequently, the vignette of the installed package can be opened in an
-internet browser, from withing RStudio or one can access it with this command:
+internet browser, from within RStudio or one can access it with this command:
 
 {% highlight s %}
 vignette("longevityTools")
 {% endhighlight %}
 
 Now, users want to follow the instructions given in the vignette (_e.g._ [longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
+To execute code without tedious copy and paste routines, users should load the corresponding source files ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R) 
+or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd)) into their working environment.  
 
