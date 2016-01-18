@@ -5,7 +5,7 @@ header: Projects
 group: navigation
 ---
 
-## GWAS
+## eSNPs, eQTL & GWAS
 
 * [GTEx on GitHub](https://github.com/DanielEvansLab/GTEx){:target="_blank"}
 
@@ -14,4 +14,4 @@ group: navigation
 * [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}
 * [longevityTools on GitHub](https://github.com/tgirke/longevityTools){:target="_blank"}
 
-
+## Longevity drugs reference data set for identifying novel drugs and targets
