@@ -17,9 +17,9 @@ All analysis results can be fully reproduced by rerunning the commands given in
 the vignettes. Instead of regenerating result files from scratch, users can
 also download them via URLs provided in the corresponding sections of the
 vignettes or directly from the
-[Downloads](http://www.longevitygenomics.org/downloads/) page of this site. The
-chosen analysis environment also greatly facilitates collaboration among the 
-different team members of this project.
+[Downloads](http://www.longevitygenomics.org/downloads/) page of this site. While
+improving transparancy for external users, the chosen analysis strategy also greatly 
+facilitates collaborations among team members of this project.
 
 ## B. Current projects
 
