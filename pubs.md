@@ -7,10 +7,14 @@ group: navigation
 
 <br>
 
-## Selection of Related Publications
+## Selected Publications Related to this Project 
 
 <br>
 
+0. Sood S, Gallagher I, Lunnon K, Rullman E, Keohane A, Crossland H, Phillips B, Cederholm T, Jensen T, van Loon L, et al (2015) A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status. Genome Biology 16: 185
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26343147){:target="_blank"}
+0. Peters MJ, Joehanes R, Pilling LC, Schurmann C, Conneely KN, Powell J, Reinmaa E, Sutphin GL, Zhernakova A, Schramm K, et al (2015) The transcriptional landscape of age in human peripheral blood. Nat Commun 6: 8570
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26490707){:target="_blank"}
 0. Hu G, Agarwal P (2009) Human disease-drug network based on genomic expression profiles. PLoS One 4: e6536 
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19657382){:target="_blank"}
 0. Huang H, Nguyen T, Ibrahim S, Shantharam S, Yue Z, Chen JY (2015) DMAP: a connectivity map database to enable identification of novel drug repositioning candidates. BMC Bioinformatics 16 Suppl 13: S4
@@ -25,10 +29,6 @@ group: navigation
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23177740){:target="_blank"}
 0. Horvath S (2013) DNA methylation age of human tissues and cell types. Genome Biol 14: R115
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24138928){:target="_blank"}
-0. Peters MJ, Joehanes R, Pilling LC, Schurmann C, Conneely KN, Powell J, Reinmaa E, Sutphin GL, Zhernakova A, Schramm K, et al (2015) The transcriptional landscape of age in human peripheral blood. Nat Commun 6: 8570
-[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26490707){:target="_blank"}
-0. Sood S, Gallagher I, Lunnon K, Rullman E, Keohane A, Crossland H, Phillips B, Cederholm T, Jensen T, van Loon L, et al (2015) A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status. Genome Biology 16: 185
-[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26343147){:target="_blank"}
 
 
 
