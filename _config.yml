@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Longevity Genomics
 tagline:             'Integrative genomic resource to develop translational strategies to promote longevity'
 description:         'Navigation'
-url:                 http://lanyon.getpoole.com
+url:                 https://DanielEvansLab.github.io
 baseurl:             ''
 paginate:            5
 
@@ -17,3 +17,6 @@ author:
   name:              Dan Evans
   url:               http://danielevanslab.github.io/
   email:             devans@psg.ucsf.edu
+
+# Custom vars
+version:             Lanyon

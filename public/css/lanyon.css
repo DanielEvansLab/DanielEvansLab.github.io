@@ -569,7 +569,7 @@ a.pagination-item:hover {
     border-radius: 100px;
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
-    background: url(../images/logo.jpg) no-repeat;
+    background: url(../images/logo.png) no-repeat;
     /*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
@@ -585,7 +585,7 @@ a.pagination-item:hover {
     border-radius: 75px;
     -webkit-border-radius: 75px;
     -moz-border-radius: 75px;
-    background: url(../images/logo.jpg) no-repeat;
+    background: url(../images/logo.png) no-repeat;
     /*box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
