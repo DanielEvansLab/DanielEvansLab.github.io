@@ -26,8 +26,8 @@ vignettes or directly from the
 page of this site.
 While improving transparancy for external users, the chosen analysis strategy
 also greatly facilitates collaborations among the different teams and members 
-of this project. Where appropriate, finalized summary results will also be shared with the
-public using web-based solutions such as [Shiny](http://shiny.rstudio.com/) and
+of this project. Where appropriate, finalized summary results will be shared with the public 
+at a later stage using web-based solutions such as [Shiny](http://shiny.rstudio.com/) and
 [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html).
 
 ## C. Current projects
