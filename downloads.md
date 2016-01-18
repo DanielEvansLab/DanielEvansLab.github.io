@@ -9,7 +9,9 @@ group: navigation
 
 ### Analysis results 
 
-* [CMAP Queries (.xls)](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap_query.xls)
+* Connectivity Map Analysis
+    * [DEG Results (.xls)](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
+    * [Enrichment Results (.xls)](...)
 
 ### Software
 
