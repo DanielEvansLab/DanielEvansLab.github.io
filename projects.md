@@ -27,7 +27,7 @@ page of this site.
 While improving transparency for external users, the chosen analysis strategy
 also greatly facilitates collaborations among the different teams and members 
 of this project. Where appropriate, finalized summary results will also be made 
-accessible via web-based solutions such as [Shiny](http://shiny.rstudio.com/) and
+accessible via web-based solutions in the future such as [Shiny](http://shiny.rstudio.com/) and
 [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html).
 
 ## C. Current projects
