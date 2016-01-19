@@ -35,9 +35,9 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 * [GTEx on GitHub](https://github.com/DanielEvansLab/GTEx){:target="_blank"}
 
-### Linking small molecules to expression profiles and genes
+### Connecting drug- and age-related gene expression signatures
 
-* [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"} ([longevityTools R package on GitHub](https://github.com/tgirke/longevityTools){:target="_blank"})
+* [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"} ([longevityTools R package on GitHub](https://github.com/tgirke/longevityTools){:target="_blank"})
 
 ### Longevity drug collection 
 
