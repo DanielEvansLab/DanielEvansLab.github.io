@@ -33,15 +33,15 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### Overview
 
-* [longevityTools Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}: overiew of data structures and methods developed by this project.
+* [longevityTools](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"} Overview Vignette: introduction into data structures and methods developed by this project.
 
 ### Analysis of eSNPs, eQTL & GWAS data
 
-* [longevityTools_eQTL Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
+* [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"} Vignette
 
 ### Connecting drug- and age-related gene expression signatures
 
-* [longevityTools_CMAP Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"} 
+* [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"} Vignette 
 
 ### Longevity drug collection 
 
