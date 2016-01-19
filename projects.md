@@ -31,7 +31,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ## C. Current projects
 
-### Overview
+### Overview Vignette
 
 * [longevityTools](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"} Overview Vignette: introduction into data structures and methods developed by this project.
 
