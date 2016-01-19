@@ -33,7 +33,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### Overview
 
-* [Overview Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}: provides overiew of object classes and methods developed by this project.
+* [Overview Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}: overiew of data structures and methods developed by this project.
 
 ### eSNPs, eQTL & GWAS
 
