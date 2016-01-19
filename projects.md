@@ -33,19 +33,22 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### Overview Vignette
 
-* [longevityTools](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"} Overview: introduction into data structures and methods developed by this project.
+* [longevityTools](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}
 
-### Analysis of eSNPs, eQTL & GWAS data
+1. **Analysis of eSNPs, eQTL & GWAS data**
 
-* [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
+    * Analysis protocol: [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
+    * Results: [Downloads]({{site.baseurl}}/downloads/)
 
-### Connecting drug- and age-related gene expression signatures
+2. **Connecting drug- and age-related gene expression signatures**
 
-* [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}
+    * Analysis protocol: [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}
+    * Results: [Downloads]({{site.baseurl}}/downloads/)
 
-### Longevity drug collection 
+3. **Longevity drug collection** 
 
-* longevityTools_Drugs: will be added soon
+    * Analysis protocol: longevityTools_Drugs: will be added soon
+    * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 ## D. Getting started
 To install a chosen R package, user want to open R in their favorite environemt
