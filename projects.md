@@ -63,7 +63,7 @@ Subsequently, the vignettes of the installed package can be opened in an
 internet browser, from within RStudio or one can access them with this command:
 
 {% highlight s %}
-vignette(package="longevityTools", "longevityTools")
+vignette(topic="longevityTools", package="longevityTools")
 {% endhighlight %}
 
 Now, users want to follow the instructions given in the vignette (_e.g._ [longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
