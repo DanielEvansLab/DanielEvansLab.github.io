@@ -33,7 +33,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### eSNPs, eQTL & GWAS
 
-* [GTEx on GitHub](https://github.com/DanielEvansLab/GTEx){:target="_blank"}
+* [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}
 
 ### Connecting drug- and age-related gene expression signatures
 
