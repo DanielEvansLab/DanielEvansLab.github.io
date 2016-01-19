@@ -33,7 +33,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### eSNPs, eQTL & GWAS
 
-* [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}
+* [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
 
 ### Connecting drug- and age-related gene expression signatures
 
