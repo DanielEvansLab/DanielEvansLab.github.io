@@ -37,17 +37,17 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 1. **Analysis of eSNPs, eQTL & GWAS data**
 
-    * Analysis protocol: [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
+    * Analysis vignette: [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
     * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 2. **Connecting drug- and age-related gene expression signatures**
 
-    * Analysis protocol: [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}
+    * Analysis vignette: [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}
     * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 3. **Longevity drug collection** 
 
-    * Analysis protocol: longevityTools_Drugs: will be added soon
+    * Analysis vignette: longevityTools_Drugs: will be added soon
     * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 ## D. Getting started
