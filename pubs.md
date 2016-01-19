@@ -7,7 +7,7 @@ group: navigation
 
 ## Publications of this Project 
 
-Will appear here soon. 
+Will appear here. 
 
 ## Selected Publications Related to this Project 
 
