@@ -45,7 +45,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### Longevity drug collection 
 
-* longevityDrugs: coming soon
+* Analysis Vignette: will be added soon
 
 ## D. Getting started
 To install a chosen R package, user want to open R in their favorite environemt
