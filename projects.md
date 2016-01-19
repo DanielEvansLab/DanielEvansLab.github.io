@@ -31,6 +31,8 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ## C. Current projects
 
+* [Overview Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}: provides overiew of object classes and methods developed by this project.
+
 ### eSNPs, eQTL & GWAS
 
 * [Analysis Vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"}
@@ -41,7 +43,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 ### Longevity drug collection 
 
-* [longevityDrugs](http://bioconductor.org/packages/devel/bioc/html/longevityDrugs.html){:target="_blank"}: under development
+* longevityDrugs: coming soon
 
 ## D. Getting started
 To install a chosen R package, user want to open R in their favorite environemt
