@@ -51,7 +51,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
     * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 ## D. Getting started
-To install a chosen R package, user want to open R in their favorite environemt
+To install an R package from GitHub, user want to open R in their favorite environemt
 (_e.g._ [RStudio](https://www.rstudio.com/), [ESS](http://ess.r-project.org/)
 or [VIM-R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r/vim-r))
 and then execute the following commands (here for [longevityTools](https://github.com/tgirke/longevityTools)) from the 
@@ -60,6 +60,7 @@ R console:
 {% highlight s %}
 source("http://bioconductor.org/biocLite.R")
 biocLite("tgirke/longevityTools", build_vignettes=TRUE, dependencies=TRUE)
+library(longevityTools)
 {% endhighlight %}
 
 Subsequently, the vignettes of the installed package can be opened in an
