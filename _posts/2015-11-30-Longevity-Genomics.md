@@ -6,12 +6,19 @@ title: Longevity genomics
 ### Welcome
 
 The navigation menu can be found via **☰** link in top corner. This site contains the following:
+
 * Description of the overall goals of our NIA funded [research project](http://www.longevitygenomics.org/).
+
 * Project [members](http://www.longevitygenomics.org/members).
+
 * Specific research [projects](http://www.longevitygenomics.org/projects) along with their github repositories containing code and vignettes illustrating code usage.
+
 * [Software](http://www.longevitygenomics.org/software) developed and used by our project. Links to GitHub repositories are provided for all software developed by our project.
+
 * [Downloads](http://www.longevitygenomics.org/downloads) of analysis results and links to reference data.
+
 * [Publications](http://www.longevitygenomics.org/pubs) resulting from and related to our project.
+
 * [Internal](http://www.longevitygenomics.org/internal) resources related to management of our project.
 
 
