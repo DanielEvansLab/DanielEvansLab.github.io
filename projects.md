@@ -82,6 +82,6 @@ following command, while the the content in the corresponding vignette will be u
 This includes all its text, code, tables, images and all results written to files.
 
 {% highlight bash %}
-$ echo "rmarkdown::render('longevityTools.Rmd')" | R -slave; R CMD Stangle longevityTools.Rmd
+$ echo "rmarkdown::render('longevityTools.Rmd')" | R --slave; R CMD Stangle longevityTools.Rmd
 {% endhighlight %}
 
