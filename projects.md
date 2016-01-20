@@ -70,7 +70,18 @@ internet browser, from within RStudio or one can access them with this command:
 vignette(topic="longevityTools", package="longevityTools")
 {% endhighlight %}
 
-Now, users want to follow the instructions given in the vignette (_e.g._ [longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
-To avoid typing and/or tedious copy&paste routines for executing code, users should load the corresponding source file ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R) 
-or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd)) into their R working environment and then make use of built-in code sending or sourcing functionalities.  
+Now, users want to follow the instructions given in the vignette (_e.g._
+[longevityTools
+vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
+To avoid typing and/or tedious copy&paste routines for executing code, users
+should load the corresponding source file
+([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R)
+or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd))
+into their R working environment and then make use of built-in code sending or
+sourcing functionalities. In addition, the entire workflow can be run with the
+following command, while the vignette will be updated in real time. 
+
+{% highlight bash %}
+$ echo "rmarkdown::render('longevityTools.Rmd')" | R -slave; R CMD Stangle longevityTools.Rmd
+{% endhighlight %}
 
