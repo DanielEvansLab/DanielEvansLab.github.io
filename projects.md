@@ -80,7 +80,7 @@ or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vigne
 into their R working environment and then make use of built-in code sending or
 sourcing functionalities. In addition, an entire workflow can be re-run with the
 following command, while the the content in the corresponding vignette will be updated in real time. 
-This inclused all its text, code, tables, images and all results written to files.
+This included all its text, code, tables, images and all results written to files.
 
 {% highlight bash %}
 $ echo "rmarkdown::render('longevityTools.Rmd')" | R -slave; R CMD Stangle longevityTools.Rmd
