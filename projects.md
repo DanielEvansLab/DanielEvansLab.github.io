@@ -78,7 +78,7 @@ should load the corresponding source file
 or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd))
 into their R working environment and then make use of built-in code sending or
 sourcing functionalities. In addition, an entire workflow can be re-run with the
-following command, while the the content in the corresponding vignette will be updated in real time. 
+following command or by pushing the `built` button in RStudio, while the the content in the corresponding vignette will be updated in real time. 
 This includes all its text, code, tables, images and all results written to files.
 
 {% highlight r %}
