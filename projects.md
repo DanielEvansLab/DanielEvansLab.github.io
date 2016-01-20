@@ -81,7 +81,7 @@ sourcing functionalities. In addition, an entire workflow can be re-run with the
 following command, while the the content in the corresponding vignette will be updated in real time. 
 This includes all its text, code, tables, images and all results written to files.
 
-{% highlight bash %}
-$ echo "rmarkdown::render('longevityTools.Rmd')" | R --slave; R CMD Stangle longevityTools.Rmd
+{% highlight r %}
+rmarkdown::render('longevityTools.Rmd'); Stangle("longevityTools.Rmd")
 {% endhighlight %}
 
