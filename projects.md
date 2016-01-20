@@ -59,7 +59,7 @@ R console:
 
 {% highlight s %}
 source("http://bioconductor.org/biocLite.R")
-biocLite("tgirke/longevityTools", build_vignettes=TRUE, dependencies=TRUE)
+biocLite("tgirke/longevityTools", build_vignettes=TRUE)
 library(longevityTools)
 {% endhighlight %}
 
