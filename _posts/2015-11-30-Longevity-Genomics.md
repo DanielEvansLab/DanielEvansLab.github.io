@@ -3,7 +3,17 @@ layout: post
 title: Longevity genomics
 ---
 
-Navigation menu can be found via **☰** link in top corner.
+### Welcome
+
+The navigation menu can be found via **☰** link in top corner. This site contains the following:
+* Description of the overall goals of our NIA funded [research project](http://www.longevitygenomics.org/).
+* Project [members](http://www.longevitygenomics.org/members).
+* Specific research [projects](http://www.longevitygenomics.org/projects) along with their github repositories containing code and vignettes illustrating code usage.
+* [Software](http://www.longevitygenomics.org/software) developed and used by our project. Links to GitHub repositories are provided for all software developed by our project.
+* [Downloads](http://www.longevitygenomics.org/downloads) of analysis results and links to reference data.
+* [Publications](http://www.longevitygenomics.org/pubs) resulting from and related to our project.
+* [Internal](http://www.longevitygenomics.org/internal) resources related to management of our project.
+
 
 ### Project Summary
 
@@ -19,7 +29,7 @@ Our [scientific team](http://DanielEvansLab.github.io/members) includes experts 
 
 ### Updates
 
-In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. Methods and results from our analyses will be made publicly available as well.
+Many components of this site are under heavy development. In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. Results from our analyses will be made available for download [here](http://www.longevitygenomics.org/downloads).
 
 ### Contact
 
