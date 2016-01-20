@@ -78,8 +78,9 @@ should load the corresponding source file
 ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R)
 or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd))
 into their R working environment and then make use of built-in code sending or
-sourcing functionalities. In addition, the entire workflow can be run with the
-following command, while the vignette will be updated in real time. 
+sourcing functionalities. In addition, an entire workflow can be run with the
+following command, while the the content in the corresponding vignette will be updated in real time. 
+This inclused all its text, code, tables and images.
 
 {% highlight bash %}
 $ echo "rmarkdown::render('longevityTools.Rmd')" | R -slave; R CMD Stangle longevityTools.Rmd
