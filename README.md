@@ -1,6 +1,6 @@
 ### Longevity Genomics Website
 
-To view the site, click [here](http://www.longevitygenomics.org/).
+This is the code repository for the Longevity Genomics website. The actual site can be viewed [here](http://www.longevitygenomics.org/).
 
 
 
