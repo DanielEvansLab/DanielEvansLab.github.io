@@ -71,14 +71,14 @@ vignette(topic="longevityTools", package="longevityTools")
 {% endhighlight %}
 
 Now, users want to follow the instructions given in the vignette (_e.g._
-[longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html){:target="_blank"}).
+[longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}).
 To avoid typing and/or tedious copy&paste routines for executing code, users
 should load the corresponding source file
 ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R)
 or [\*.Rmd](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.Rmd))
 into their R working environment and then make use of built-in code sending or
 sourcing functionalities. In addition, an entire workflow can be re-run with the
-following command or by pushing the `built` button in RStudio, while the the content in the corresponding vignette will be updated in real time. 
+following command or by pushing the `built` button in RStudio, while the content in the corresponding vignette will be updated in real time. 
 This includes all its text, code, tables, images and all results written to files.
 
 {% highlight r %}
