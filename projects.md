@@ -7,7 +7,11 @@ group: navigation
 
 ## A. Overview
 
-See [here]({{site.baseurl}}/).
+An overview of the Longevity Genomics project is given on the [landing
+page]({{site.baseurl}}/) of this site. This page provides acess to technical
+descriptions of the individual project components. Most of them are or will be
+accompanied by a detailed vignette providing a rationale and a reproducible
+analysis protocol (for details see below). 
 
 ## B. Collaboration and Open Access
 
