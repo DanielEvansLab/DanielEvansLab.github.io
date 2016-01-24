@@ -7,6 +7,9 @@ group: navigation
 
 ## This project
 
+This page provides direct downloads of various resources genereated or used by this project. Details about
+their content are provided in the corresponding analysis vignettes listed on the [projects]({{site.baseurl}}/projects/) page.
+
 ### Analysis results 
 
 * Connectivity Drug/Disease Analysis ([protocol](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"})
