@@ -46,7 +46,7 @@ accessible via web-based solutions in the future such as [Shiny](http://shiny.rs
 
 2. **Connecting drug- and age-related gene expression signatures**
 
-    * Analysis vignette: [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}
+    * Analysis vignette: [longevityTools_eDRUG](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eDRUG.html){:target="_blank"}
     * Results: [Downloads]({{site.baseurl}}/downloads/)
 
 3. **Longevity drug collection** 
@@ -75,7 +75,7 @@ vignette(topic="longevityTools", package="longevityTools")
 {% endhighlight %}
 
 Now, users want to follow the instructions given in the vignette (_e.g._
-[longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"}).
+[longevityTools vignette](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eDRUG.html){:target="_blank"}).
 To avoid typing and/or tedious copy&paste routines for executing code, users
 should load the corresponding source file
 ([\*.R](https://raw.githubusercontent.com/tgirke/longevityTools/master/vignettes/longevityTools.R)

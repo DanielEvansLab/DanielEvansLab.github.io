@@ -16,7 +16,7 @@ page for details).
 1. **Analysis of eSNPs, eQTL & GWAS data** (vignette: [longevityTools_eQTL](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eQTL.html){:target="_blank"})
     * Will be added soon.
 
-2. **Connecting drug- and age-related gene expression signatures** (vignette: [longevityTools_CMAP](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"})
+2. **Connecting drug- and age-related gene expression signatures** (vignette: [longevityTools_eDRUG](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eDRUG.html){:target="_blank"})
     * DEG Results for 3,318 contrasts of 7,056 CEL files: [degMA.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
     * DEG overlaps with Peters et al. (2015): [degOL.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
     * Connectivity Drug Enrichment Results: [drugcmap2.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/drugcmap2.xls)
