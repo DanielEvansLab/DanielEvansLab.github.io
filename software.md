@@ -5,7 +5,7 @@ header: Software
 group: navigation
 ---
 
-> This page lists software developed or used by this project.
+> This page lists software developed and/or used by this project.
 
 ## Developed by this project
 
