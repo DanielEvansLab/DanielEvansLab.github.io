@@ -6,7 +6,8 @@ group: navigation
 ---
 
 This page provides downloads of resources generated or used by this project. Details about
-them are provided in the corresponding analysis vignettes (see also [projects]({{site.baseurl}}/projects/) page).
+them are provided in the corresponding analysis vignettes (see [Projects]({{site.baseurl}}/projects/) 
+page for details).
 
 ## This project
 
