@@ -12,7 +12,7 @@ them are provided in the corresponding analysis vignettes listed on the [project
 
 ### Analysis results 
 
-    * Connectivity Drug/Disease Analysis ([protocol](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"})
+* Connectivity Drug/Disease Analysis ([protocol](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_CMAP.html){:target="_blank"})
     * DEG Results for 3,318 contrasts of 7,056 CEL files: [degMA.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
     * DEG overlaps with Peters et al. (2015): [degOL.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
     * Connectivity Drug Enrichment Results: [drugcmap2.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/drugcmap2.xls)
