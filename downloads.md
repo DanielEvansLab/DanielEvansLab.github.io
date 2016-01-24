@@ -5,8 +5,8 @@ header: Downloads
 group: navigation
 ---
 
-This page provides direct downloads of various resources generated or used by this project. Details about
-them are provided in the corresponding analysis vignettes.
+This page provides downloads of resources generated or used by this project. Details about
+them are provided in the corresponding analysis vignettes (also [projects]({{site.baseurl}}/projects/) site).
 
 ## This project
 
