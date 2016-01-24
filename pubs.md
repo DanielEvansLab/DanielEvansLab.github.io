@@ -5,6 +5,8 @@ header : Publications
 group: navigation
 ---
 
+> This page lists publications resulting from and related to this project.
+
 ## Publications of this Project 
 
 Will appear here. 
