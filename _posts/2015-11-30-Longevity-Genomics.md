@@ -7,7 +7,7 @@ title: Longevity genomics
 
 The navigation menu can be found via **☰** link in top corner. 
 
-> This site contains a description of the overall goals of our NIA funded [research project](http://www.longevitygenomics.org/). It includes a list of [members]({{site.baseurl}}/members/), analysis protocols (in the form of vignettes), links to reference [data]({{site.baseurl}}/downloads/), [publications]({{site.baseurl}}/pubs/) resulting from and related to our project, and links to [internal]({{site.baseurl}}/internal/) resources related to management of our project. Downloads are provided for [software]({{site.baseurl}}/projects/) developed and used by our project as well as [analysis results]({{site.baseurl}}/downloads/). Users should be aware that this site is still a work in progress due to the early stage of the project.
+> This site contains a description of the overall goals of our NIA funded [research project](http://www.longevitygenomics.org/). It includes a list of [members]({{site.baseurl}}/members/), [analysis protocols]({{site.baseurl}}/projects/) (in the form of vignettes), links to reference [data]({{site.baseurl}}/downloads/), [publications]({{site.baseurl}}/pubs/) resulting from and related to our project, and links to [internal]({{site.baseurl}}/internal/) resources related to management of our project. Downloads are provided for [software]({{site.baseurl}}/software/) developed and used by our project as well as [analysis results]({{site.baseurl}}/downloads/). Users should be aware that this site is still a work in progress due to the early stage of the project.
 
 ### Project Summary
 
