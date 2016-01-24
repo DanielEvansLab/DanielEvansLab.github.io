@@ -10,7 +10,7 @@ group: navigation
 An overview of the Longevity Genomics project is given on the [landing
 page]({{site.baseurl}}/) of this web site. This Projects page provides acess to
 technical descriptions of the individual project components. Most of them are
-or will be accompanied by a vignettes providing detailed analysis protocols
+or will be accompanied by vignettes providing detailed analysis protocols
 along with well defined objectives, descriptions of findings and downloads
 of all relevant results (for details see below). 
 
