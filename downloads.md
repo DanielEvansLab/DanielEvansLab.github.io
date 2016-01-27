@@ -18,7 +18,8 @@ page).
 
 2. **Connecting drug- and age-related gene expression signatures** (vignette: [longevityTools_eDRUG](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eDRUG.html){:target="_blank"})
     * DEG Results for 3,318 contrasts of 7,056 CEL files: [degMA.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
-    * DEG overlaps with Peters et al. (2015): [degOL.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degMA.xls)
+    * DEG overlaps with Peters et al. (2015): [degOL_PMID26490707.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degOL_PMID26490707.xls)
+    * DEG overlaps with Sood et al. (2015): [degOL_PMID26343147.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/degOL_PMID26343147.xls)
     * Connectivity Drug Enrichment Results: [drugcmap2.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/drugcmap2.xls)
     * Connectivity Disease Enrichment Results: [diseasecmap2.xls](http://biocluster.ucr.edu/~tgirke/projects/longevity/cmap/results/diseasecmap2.xls)
 
