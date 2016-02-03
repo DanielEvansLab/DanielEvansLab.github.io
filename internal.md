@@ -5,7 +5,7 @@ header: Internal
 group: navigation
 ---
 
-> This page provides links to password protected resources that are only relevant to the members
+> This page provides a link to password protected resources that are only relevant to the members
 of this project.
 
 ## Project Management [private]
