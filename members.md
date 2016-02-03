@@ -19,10 +19,10 @@ title: Members
 * Joanne Murabito - Boston University
 * Kathryn Lunetta - Boston University
 * Douglas Kiel - Harvard University
-* Andrew Johnson - NHLBI
+* Andrew Johnson - NIH/NHLBI
 
 ### Computational Informatics Committee (CIC)
-* PI: Nik Schork - J. Craig Venter Institute (JCVI)
+* PI: Nik Schork - JCVI
 * Dan Evans - CPMCRI
 * Thomas Girke - University of California, Riverside (UCR)
 * Tyler Backman - UCR
@@ -37,7 +37,7 @@ title: Members
 * Luigi Ferrucci - NIH/NIA
 
 ### External Advisory Board
-* Maria Glymour - UCSF
+* Maria Glymour - University of California, San Francisco (UCSF)
 * Nadeem Sarwar - Eisai
 * John Carulli - Biogen/IDEC
 * John Irwin - UCSF
