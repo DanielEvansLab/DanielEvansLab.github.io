@@ -10,6 +10,7 @@ tagline:             'Integrative genomic resource to develop translational stra
 description:         'Navigation'
 url:                 https://DanielEvansLab.github.io
 baseurl:             ''
+gems:                [jekyll-paginate, jekyll-gist]
 paginate:            5
 
 # About/contact
