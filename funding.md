@@ -5,7 +5,7 @@ header: Funding
 group: navigation
 ---
 
-> This project is funded by NIH grant U24AG051129 awarded by the National Intitute on Aging (NIA).
+> This project is funded by NIH grant U24AG051129 awarded by the National Institute on Aging (NIA).
 
 ![nia](/public/images/nia_logo80.jpg){: .center-image }
 
