@@ -386,7 +386,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="398.33496"
+     inkscape:cx="264.30819"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -478,9 +478,9 @@
        id="text9037"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4420">GWAS of</tspan><tspan
+         id="tspan4401">GWAS of</tspan><tspan
          sodipodi:role="line"
-         id="tspan4422">longevity</tspan></text>
+         id="tspan4403">longevity</tspan></text>
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect9045"
@@ -570,18 +570,18 @@
        y="874.89221" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="11.091871"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="59.156647"
        y="896.15161"
        id="text9951"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan11867"
-         x="11.091871"
+         x="59.156647"
          y="896.15161">Age-associated</tspan><tspan
          sodipodi:role="line"
          id="tspan11869"
-         x="11.091871"
+         x="59.156647"
          y="911.77661">gene expression</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9965)"
@@ -677,17 +677,17 @@
        y="839.76807" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="310.57233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="327.21014"
        y="862.8761"
        id="text10123"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10125"
-         x="310.57233"
+         x="327.21014"
          y="862.8761">eQTL,</tspan><tspan
          sodipodi:role="line"
-         x="310.57233"
+         x="327.21014"
          y="878.5011"
          id="tspan10127">GTEx</tspan></text>
     <path
