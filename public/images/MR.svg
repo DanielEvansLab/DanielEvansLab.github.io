@@ -389,13 +389,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="322.07835"
+     inkscape:cx="335.94319"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="778"
+     inkscape:window-height="775"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -408,7 +408,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -476,23 +476,15 @@
        y="707.58984" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="420.40482"
        y="730.69794"
        id="text4463"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4836"
-         x="422.39456"
-         y="730.69794">Confounder is a common cause of </tspan><tspan
+         id="tspan5202">Confounder is a common cause of </tspan><tspan
          sodipodi:role="line"
-         id="tspan4838"
-         x="420.40482"
-         y="746.32294">predictor and outcome, e.g.,</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4840"
-         x="420.40482"
-         y="761.94794">healthy lipid profile</tspan></text>
+         id="tspan5204">predictor and outcome</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 397.02645,778.76268 c -114.616,69.32419 -114.616,69.32419 -114.616,69.32419"
