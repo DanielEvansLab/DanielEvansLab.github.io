@@ -477,25 +477,18 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="324.43723"
-       y="733.47089"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="329.98315"
+       y="743.63843"
        id="text4398"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5981">Confounder - a common cause of</tspan><tspan
+         id="tspan5981"
+         x="331.9729"
+         y="743.63843">Confounder </tspan><tspan
          sodipodi:role="line"
-         id="tspan5983"></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="323.88599"
-       y="750.88165"
-       id="text5985"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5987"
-         x="323.88599"
-         y="750.88165">the predictor and outcome</tspan></text>
+         id="tspan5983"
+         x="329.98315"
+         y="759.26343" /></text>
   </g>
 </svg>
