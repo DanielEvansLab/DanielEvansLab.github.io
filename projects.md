@@ -11,24 +11,37 @@ group: navigation
 page]({{site.baseurl}}/) of this web site. This page provides descriptions 
 of the individual projects. 
 
-Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. 
+Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
 
 ![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
 
-* LAG identification from longevity-associated variants (LAVs). 
-LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. LAVs are additionally identified as variants with evidence for pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. Association regions marked by LAVs and SNPs in linkage disequilibrium (LD) are typically broad and encompass multiple genes. We use functional genomic annotation to prioritize candidate LAGs within association regions. 
+* **Identification of longevity-associated variants (LAVs)**
 
-* LAG identification from gene expression.
+LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. We will contribute to LAV identification by searching for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
+
+* **LAG identification from longevity-associated variants (LAVs)**
+
+Association regions marked by LAVs and SNPs in linkage disequilibrium (LD) are typically broad and encompass multiple genes. We use functional genomic annotation to prioritize candidate LAGs within association regions. 
+
+* **LAG identification from gene expression**
+
 Published reports of gene expression profiles associated with age and age-related diseases directly provide candidate LAGs. 
 
-* LAG identification from model organisms.
+* **LAG identification from model organisms**
+
 Human orthologs of genes associated with lifespan extension in model organisms.
 
-* Genetic Instrumental Variables (gIVs) for LAGs
-Tissue-specific gIVs for LAGs will be identified using various eQTL resources, including GTEx.
+* **Genetic Instrumental Variables (gIVs) for LAGs**
 
-* Mendelian Randomization (MR) analysis
-Mendelian Randomization analysis to identify causal connections between gene products and healthy aging. Healthy aging phenotypes will be based on data from longitudinal cohort studies, which will include incident disability, incident disease and chronic conditions, and change in physical and cognitive function. Results from these analyses will serve as a foundation for the search for small molecule compounds that might mimic the collective effect of genetic instrumental variables. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and disseminated to the research community.
+Genetic predictors of LAG expression can be used as genetic Instrumental Variables (gIVs) to be later used in MR analysis. Tissue-specific gIVs for LAGs will be identified using various eQTL resources, including GTEx.
+
+* **Mendelian Randomization (MR) analysis**
+
+Mendelian Randomization analysis will utilize gIVs to identify causal associations between gene products and healthy aging. Healthy aging phenotypes will be based on data from longitudinal cohort studies, which will include incident disability, incident disease and chronic conditions, and change in physical and cognitive function. 
+
+* **Drug identification for translational strategies**
+
+Convincing evidence linking LAGs to longevity will serve as a foundation for the search for small molecule compounds that might mimic the collective effect of genetic instrumental variables. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and pilot studies can be designed. These findings will be disseminated to the research community.
 
 ## Collaboration and Open Access
 
@@ -42,13 +55,15 @@ All analysis results can be fully reproduced by rerunning the commands given in 
 
 ## Current projects
 
-1. **MR analysis of eSNPs and longevity**
+1. **Pleiotropy analysis to identify LAVs**
 
+2. **Prioritize LAGs within association regions using functional genomic annotation**
 
-2. **Connecting drug- and age-related gene expression signatures**
+3. **Identification of gIVs and performing MR analysis of eSNPs and longevity**
 
+4. **Connecting drug- and age-related gene expression signatures**
 
-3. **Longevity drug collection** 
+5. **Longevity drug collection** 
 This collection will consist of drugs identified in the "Connecting drug- and age-related gene expression signatures" project, as well as drugs that target gene products identified in the "MR analysis of eSNPs and longevity" project. 
 
 
