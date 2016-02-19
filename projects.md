@@ -13,7 +13,7 @@ of the individual projects.
 
 Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), and then to test the potential that the LAGs can form the basis of translational strategies by performing Mendelian Randomization (MR) analysis. 
 
-![overallFlowchart](public/images/overallFlowchart.svg){: .center-image }
+![overallFlowchart](public/images/overallFlowchart.svg)
 
 Candidate genetic variants will be identified for in-depth analysis, and genes likely to be modulated by candidate genetic variants will be identified using functional genomic annotation resources. Tissue-specific genetic instrumental variables for these genes will be constructed to enable Mendelian Randomization analysis to identify causal connections between gene products and healthy aging. Healthy aging phenotypes will be based on data from longitudinal cohort studies, which will include incident disability, incident disease and chronic conditions, and change in physical and cognitive function. Results from these analyses will serve as a foundation for the search for small molecule compounds that might mimic the collective effect of genetic instrumental variables. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and disseminated to the research community.
 
