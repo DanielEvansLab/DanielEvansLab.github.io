@@ -483,8 +483,10 @@
        id="text4398"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4404">Confounder - a common cause of</tspan><tspan
+         id="tspan4398">Confounder - a common cause of</tspan><tspan
          sodipodi:role="line"
-         id="tspan4406">the predictor and outcome</tspan></text>
+         id="tspan4400"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan4402">the predictor and outcome</tspan></text>
   </g>
 </svg>
