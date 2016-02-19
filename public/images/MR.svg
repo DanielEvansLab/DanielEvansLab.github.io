@@ -389,7 +389,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="335.94319"
+     inkscape:cx="201.91642"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -474,17 +474,6 @@
        height="66.551224"
        x="297.46994"
        y="707.58984" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="420.40482"
-       y="730.69794"
-       id="text4463"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5202">Confounder is a common cause of </tspan><tspan
-         sodipodi:role="line"
-         id="tspan5204">predictor and outcome</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 397.02645,778.76268 c -114.616,69.32419 -114.616,69.32419 -114.616,69.32419"
@@ -535,5 +524,20 @@
        d="m 120.16193,895.22732 46.21613,0"
        id="path5265"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="418.71814"
+       y="735.31952"
+       id="text5207"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5209"
+         x="418.71814"
+         y="735.31952">Confounder - a common cause of</tspan><tspan
+         sodipodi:role="line"
+         x="418.71814"
+         y="750.94452"
+         id="tspan5211">the predictor and outcome</tspan></text>
   </g>
 </svg>

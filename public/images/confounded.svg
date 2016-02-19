@@ -460,17 +460,6 @@
        height="66.551224"
        x="205.46994"
        y="707.58984" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="328.40482"
-       y="730.69794"
-       id="text4463"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5206">Confounder is a common cause of </tspan><tspan
-         sodipodi:role="line"
-         id="tspan5208">predictor and outcome</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 305.02645,778.76268 c -114.616,69.32419 -114.616,69.32419 -114.616,69.32419"
@@ -486,5 +475,16 @@
        d="m 253.26438,896.28681 155.2862,0"
        id="path4821"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="324.43723"
+       y="733.47089"
+       id="text4398"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4404">Confounder - a common cause of</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4406">the predictor and outcome</tspan></text>
   </g>
 </svg>
