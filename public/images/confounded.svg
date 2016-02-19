@@ -375,7 +375,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="469.96996"
+     inkscape:cx="335.94319"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -394,7 +394,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -407,13 +407,7 @@
        y="853.42596"
        x="84.953743"
        id="image4494"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAABRCAYAAAC6w8avAAAABHNCSVQICAgIfAhkiAAAAPlJREFU
-eJzt0jENgAAQwMCHkGAEXQhEGg6YQEYH7hR06DLzvgOR45hnrSPAhORMSM6E5ExIzoTkTEjOhORM
-SM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjO
-hORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTk
-TEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExI
-zoTkTEhuO8+56gj+a9/n/gBcJQZBvDk0sgAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAABRCAYAAAC6w8avAAAABHNCSVQICAgIfAhkiAAAAPlJREFU eJzt0jENgAAQwMCHkGAEXQhEGg6YQEYH7hR06DLzvgOR45hnrSPAhORMSM6E5ExIzoTkTEjOhORM SM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjO hORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTk TEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExIzoTkTEjOhORMSM6E5ExI zoTkTEhuO8+56gj+a9/n/gBcJQZBvDk0sgAAAABJRU5ErkJggg== "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="81"
@@ -474,11 +468,11 @@ zoTkTEhuO8+56gj+a9/n/gBcJQZBvDk0sgAAAABJRU5ErkJggg==
        id="text4463"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4836">Confounder is a common cause of </tspan><tspan
+         id="tspan7798">Confounder is a common cause of </tspan><tspan
          sodipodi:role="line"
-         id="tspan4838">predictor and outcome, e.g.,</tspan><tspan
+         id="tspan7800">predictor and outcome, e.g.,</tspan><tspan
          sodipodi:role="line"
-         id="tspan4840">healthy lipid profile</tspan></text>
+         id="tspan7802">healthy lipid profile</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 305.02645,778.76268 c -114.616,69.32419 -114.616,69.32419 -114.616,69.32419"
