@@ -15,6 +15,8 @@ Our overall approach is to employ multiple approaches to identify potential long
 
 ![overallFlowchart](public/images/overallFlowchart.svg){: .center-image }
 
+![overallFlowchart](public/images/overallFlowchart.png){: .center-image }
+
 * LAG identification from longevity-associated variants (LAVs). 
 LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. LAVs are additionally identified as variants with evidence for pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. Association regions marked by LAVs and SNPs in linkage disequilibrium (LD) are typically broad and encompass multiple genes. We use functional genomic annotation to prioritize candidate LAGs within association regions. 
 
