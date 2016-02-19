@@ -400,7 +400,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="365.98367"
+     inkscape:cx="352.11883"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -720,23 +720,47 @@
        height="68.399872"
        x="138.79974"
        y="969.17316" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="221.36716"
-       y="990.75146"
-       id="text4521"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4819">Drugs matching</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4821">expression profile</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4823">or targeting LAG activity</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 221.48107,963.62719 0,-32.35129"
        id="path4555"
        inkscape:connector-curvature="0" />
+    <g
+       id="g4512"
+       transform="translate(2,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4500"
+         y="986.73529"
+         x="218.84227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="986.73529"
+           x="218.84227"
+           id="tspan4502"
+           sodipodi:role="line">Drugs matching</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4504"
+         y="1004.3731"
+         x="218.59508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1004.3731"
+           x="218.59508"
+           id="tspan4506"
+           sodipodi:role="line">LAG expression profile</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4508"
+         y="1022.0109"
+         x="218.72935"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1022.0109"
+           x="218.72935"
+           id="tspan4510"
+           sodipodi:role="line">or targeting LAG activity</tspan></text>
+    </g>
   </g>
 </svg>
