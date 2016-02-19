@@ -35,6 +35,10 @@ MR is an approach that is designed to largely avoid the influence of confounders
 
 Details of our projects and our use of MR can be found on the [Projects]({{site.baseurl}}/projects/) page.
 
+![overallFlowchart](public/images/overallFlowchart.svg){: .center-image }
+
+![overallFlowchart](public/images/overallFlowchart.png){: .center-image }
+
 ### Updates
 
 Users should be aware that this site is still a work in progress due to the early stage of the project. Many components of this site are under heavy development. In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. Results from our analyses will be made available for [download]({{site.baseurl}}/downloads).
