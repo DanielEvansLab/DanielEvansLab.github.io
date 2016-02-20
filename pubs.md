@@ -17,6 +17,10 @@ Will appear here.
 
 ## Selected Publications Related to this Project 
 
+0. Fortney K, Dobriban E, Garagnani P, Pirazzini C, Monti D, Mari D, Atzmon G, Barzilai N, Franceschi C, Owen AB, et al (2015) Genome-Wide Scan Informed by Age-Related Disease Identifies Loci for Exceptional Human Longevity. PLoS Genet 11: e1005728
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26677855){:target="_blank"}
+0. Pilling LC, Atkins JL, Bowman K, Jones SE, Tyrrell J, Beaumont RN, Ruth KS, Tuke MA, Yaghootkar H, Wood AR, et al (2016) HUMAN LONGEVITY IS INFLUENCED BY MANY GENETIC VARIANTS: EVIDENCE FROM 75,000 UK BIOBANK PARTICIPANTS. bioRxiv 038430
+[biorxiv](http://biorxiv.org/content/early/2016/02/01/038430){:target="_blank"}
 0. Sood S, Gallagher I, Lunnon K, Rullman E, Keohane A, Crossland H, Phillips B, Cederholm T, Jensen T, van Loon L, et al (2015) A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status. Genome Biology 16: 185
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26343147){:target="_blank"}
 0. Peters MJ, Joehanes R, Pilling LC, Schurmann C, Conneely KN, Powell J, Reinmaa E, Sutphin GL, Zhernakova A, Schramm K, et al (2015) The transcriptional landscape of age in human peripheral blood. Nat Commun 6: 8570
