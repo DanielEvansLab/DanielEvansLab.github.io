@@ -1,10 +1,9 @@
 ---
 layout: page
-header: Projects
+title: Projects
+header: Downloads
 group: navigation
 ---
-
-# Projects
 
 <img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
 
