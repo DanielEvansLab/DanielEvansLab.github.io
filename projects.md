@@ -47,6 +47,8 @@ Mendelian Randomization analysis will utilize gIVs to identify causal associatio
 
 Convincing evidence linking LAGs to longevity will serve as a foundation for the search for small molecule compounds that might mimic the collective effect of genetic instrumental variables. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and pilot studies can be designed. These findings will be disseminated to the research community.
 
+![overallFlowchart](/public/images/cluster_image.svg){: .center-image }
+
 ## Collaboration and Open Access
 
 To maximize shareability and reproducibility of the data analysis results
