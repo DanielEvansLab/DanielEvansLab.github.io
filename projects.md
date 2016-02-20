@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-header: Downloads
+header: Projects
 group: navigation
 ---
 
