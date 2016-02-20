@@ -32,8 +32,24 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 ### Computational Informatics Committee (CIC)
 * PI: Nik Schork - J. Craig Venter Institute (JCVI)
 * Dan Evans - California Pacific Medical Center Research Institute (CPMCRI)
-* Thomas Girke - University of California, Riverside (UCR)
 * Tyler Backman - University of California, Riverside (UCR)
+
+### Thomas Girke - University of California, Riverside (UCR)
+<img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
+[[Home page](http://girke.bioinformatics.ucr.edu)]
+
+Thomas Girke is a Professor of Bioinformatics at the University California,
+Riverside. He received his Ph.D. from the University Hamburg, Germany. His
+research focuses on the development of computational data analysis methods for
+genome biology and small molecule discovery. 
+This includes discovery-oriented data mining projects, as well as algorithm and software development projects
+for data types from a variety of high-throughput technologies such as next
+generation sequencing (NGS), genome-wide profiling approaches and chemical
+genomics. As part of the multidisciplinary nature of his field, he frequently
+collaborates with experimental scientists on data analysis projects of complex
+biological networks. Another important activity is the development of
+integrated data analysis systems for the open source software projects R and
+Bioconductor.
 
 ### Research Planning Committee (RPC)
 * PI: Simon Melov - Buck Institute for Research on Aging
