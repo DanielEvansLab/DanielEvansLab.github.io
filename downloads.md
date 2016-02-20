@@ -5,6 +5,10 @@ header: Downloads
 group: navigation
 ---
 
+<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
+
+<br><br><br><br>
+
 > This page provides downloads of resources generated or used by this project. Details about
 them are provided in the corresponding analysis vignettes (also see [Projects]({{site.baseurl}}/projects/) 
 page).

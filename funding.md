@@ -5,6 +5,10 @@ header: Funding
 group: navigation
 ---
 
+<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
+
+<br><br><br><br>
+
 > This project is funded by NIH grant U24AG051129 awarded by the National Institute on Aging (NIA).
 
 ![nia](/public/images/nia_logo80.jpg){: .center-image }

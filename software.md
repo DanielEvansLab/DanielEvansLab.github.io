@@ -5,6 +5,10 @@ header: Software
 group: navigation
 ---
 
+<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
+
+<br><br><br><br>
+
 > This page lists software developed and/or used by this project.
 
 ## Developed by this project
