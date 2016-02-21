@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               Longevity Genomics
-tagline:             'Integrative genomic resource to develop translational strategies to promote longevity <img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>'
+tagline:             'Integrative genomic resource to develop translational strategies to promote longevity <img align="right" title="longevitylogo" src="/public/images/longevity_nia.png"><img/>'
 description:         'Navigation'
 url:                 https://DanielEvansLab.github.io
 baseurl:             ''
