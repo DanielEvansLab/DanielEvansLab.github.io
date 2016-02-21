@@ -28,8 +28,8 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 ### Computational Informatics Committee (CIC)
 * PI: [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
-* Tyler Backman - University of California, Riverside (UCR)
-* Thomas Girke - University of California, Riverside (UCR)
+* [Tyler Backman]({{site.baseurl}}/members#tylerbackman) - University of California, Riverside (UCR)
+* [Thomas Girke]({{site.baseurl}}/members#thomasgirke) - University of California, Riverside (UCR)
 
 ### Research Planning Committee (RPC)
 * PI: Simon Melov - Buck Institute for Research on Aging
@@ -128,7 +128,7 @@ worm C. elegans.
 
 --- 
 
-### Tyler Backman - University of California, Riverside (UCR)
+### <a name="tylerbackman"></a> Tyler Backman - University of California, Riverside (UCR)
 <img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
 [[Home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman/)]
 
@@ -141,7 +141,7 @@ small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
-### Thomas Girke - University of California, Riverside (UCR)
+### <a name="thomasgirke"></a> Thomas Girke - University of California, Riverside (UCR)
 <img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
 [[Home page](http://girke.bioinformatics.ucr.edu)]
 
