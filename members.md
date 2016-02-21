@@ -64,6 +64,15 @@ Understanding and comparing population-specific genetic variation in complex hum
 --- 
 
 ### Tyler Backman - University of California, Riverside (UCR)
+<img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
+[[Home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman/)]
+
+Tyler Backman is a graduate student at the Bioengineering program at the
+University California, Riverside.
+His research interests include computational drug design and discovery,
+mathematical modeling of biological feedback systems, and inference from weak
+and noisy data. I am currently developing computational tools to identify new
+small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
