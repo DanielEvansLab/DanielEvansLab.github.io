@@ -20,7 +20,7 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 
 ### PI: Steve Cummings - California Pacific Medical Center Research Institute (CPMCRI)
 
-<img align="right" title="Steve Cummings" src="/public/images/members/steve_cummings.jpg"><img/>
+<img align="right" title="Steve Cummings" src="/public/images/members/steve_cummings.png"><img/>
 [[Home page](http://www.cpmc.org/professionals/research/programs/science/cummings.html)]
 
 Dr. Steven R. Cummings is Director of the SF Coordinating Center, a joint research operation of the California Pacific Medical Center Research Institute and the University of California Department of Epidemiology and Biostatistics. Dr Cummings is an emeritus Professor of Medicine, Epidemiology and Biostatistics, and Associate Chair for Clinical Research at the University of California, San Francisco. 
@@ -50,7 +50,7 @@ With support of the Daniel and Phyllis Da Costa Fund, Dr. Cummings is collaborat
 
 ### Dan Evans - California Pacific Medical Center Research Institute (CPMCRI)
 
-<img align="right" title="Dan Evans" src="/public/images/members/dan_evans.jpg"><img/>
+<img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
 [[Home page](http://www.cpmc.org/professionals/research/programs/science/evans.html)]
 
 Dan Evans and colleagues at CPMCRI and the San Francisco Coordinating Center are using high-throughput and sequencing methods to study age-related diseases. Their research focuses on three areas:
