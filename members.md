@@ -32,7 +32,7 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 * [Thomas Girke]({{site.baseurl}}/members#thomasgirke) - University of California, Riverside (UCR)
 
 ### Research Planning Committee (RPC)
-* PI: Simon Melov - Buck Institute for Research on Aging
+* PI: [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
 * Atul Butte - University of California, San Francisco (UCSF)
 * Manolis Kellis - Massachusetts Institute of Technology (MIT)
 * Stuart Lipton - University of California, San Diego (UCSD)
