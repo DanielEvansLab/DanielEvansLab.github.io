@@ -3,10 +3,6 @@ layout: page
 title: Members
 ---
 
-<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
-
-<br><br><br><br>
-
 > Members and committees of this project are listed here.
 
 ## Organizational Structure

@@ -5,10 +5,6 @@ header: Projects
 group: navigation
 ---
 
-<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
-
-<br><br><br>
-
 ## Overview
 
 > An overview of the Longevity Genomics project is given on the [landing

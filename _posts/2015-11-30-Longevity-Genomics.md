@@ -3,11 +3,6 @@ layout: post
 title: Longevity genomics
 ---
 
-<img align="right" title="longevitylogo" src="/public/images/longevity.png"><img/>
-
-<br><br><br>
-
-
 ### Welcome
 
 You have reached the website for the Longevity Genomics research project, a resource-related cooperative agreement project with the National Institute on Aging (NIA). Here you will find a description of the project and its overall goals. Pages accessed via the navigation menu **☰** in the top corner list the members and describe the organizational structure, describe the specific research projects, and provide access to open source data, tools, and resources used and developed by this project.
