@@ -102,7 +102,7 @@ Biostatistics at Harvard University. During 1999 and 2000, Dr. Schork took a
 sponsored leave of absence from CWRU to conduct research as the Vice President
 of Statistical Genomics at the French biotechnology company, Genset, where he
 helped guide efforts to construct the first high-density map of the human
-genome. - See more at: http://www.jcvi.org/cms/about/bios/nschork/#sthash.iqMhFD7k.dpuf
+genome.
 
 --- 
 
