@@ -67,11 +67,9 @@ With support of the Daniel and Phyllis Da Costa Fund, Dr. Cummings is collaborat
 
 --- 
 
-### <a name="danevans"></a> Dan Evans - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
-[[Home page](http://www.cpmc.org/professionals/research/programs/science/evans.html)]
-
 Dan Evans and colleagues at CPMCRI and the San Francisco Coordinating Center are using high-throughput and sequencing methods to study age-related diseases. Their research focuses on three areas:
 
 Genome-wide association studies (GWAS) of osteoarthritis to identify genetic variants associated with this condition, which affects approximately 40% of people aged 70 and older. Projects are underway to uncover the functional impact of associated genetic variants, which will help shed light on the biological processes underlying osteoarthritis.
@@ -82,10 +80,9 @@ Understanding and comparing population-specific genetic variation in complex hum
 
 --- 
 
-### <a name="nikschork"></a> Nik Schork - J. Craig Venter Institute (JCVI)
-<img align="right" title="Nik Schork" src="/public/images/members/nik_schork.png"><img/>
-[[Home page](http://www.jcvi.org/cms/about/bios/nschork/)]
+### <a name="nikschork"></a> [Nik Schork](http://www.jcvi.org/cms/about/bios/nschork/) - J. Craig Venter Institute (JCVI)
 
+<img align="right" title="Nik Schork" src="/public/images/members/nik_schork.png"><img/>
 Nicholas J. Schork is a Professor and Director of Human Biology at the J. Craig
 Venter Institute (JCVI). He is also an adjunct Professor of Psychiatry and
 Family and Preventive Medicine (Division of Biostatistics) at the University of
@@ -106,10 +103,9 @@ genome.
 
 --- 
 
-### <a name="simonmelov"></a> Simon Melov - Buck Institute for Research on Aging
-<img align="right" title="Nik Schork" src="/public/images/members/simon_melov.png"><img/>
-[[Home page](http://www.buckinstitute.org/melovLab)]
+### <a name="simonmelov"></a> [Simon Melov](http://www.buckinstitute.org/melovLab) - Buck Institute for Research on Aging
 
+<img align="right" title="Simon Melov" src="/public/images/members/simon_melov.png"><img/>
 Simon Melov, who heads the Institute’s Genomic Core, explores the role of the
 energy-making units inside cells, the mitochondria, which produce a chemical
 fuel that powers the cell’s work but which also release damaging “free
@@ -128,10 +124,9 @@ worm C. elegans.
 
 --- 
 
-### <a name="tylerbackman"></a> Tyler Backman - University of California, Riverside (UCR)
-<img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
-[[Home page](http://girke.bioinformatics.ucr.edu/members/tyler-backman/)]
+### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/) - University of California, Riverside (UCR)
 
+<img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
 Tyler Backman is a graduate student at the Bioengineering program at the
 University California, Riverside.
 His research interests include computational drug design and discovery,
@@ -141,10 +136,9 @@ small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
-### <a name="thomasgirke"></a> Thomas Girke - University of California, Riverside (UCR)
-<img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
-[[Home page](http://girke.bioinformatics.ucr.edu/manuals)]
+### <a name="thomasgirke"></a> [Thomas Girke](http://girke.bioinformatics.ucr.edu/manuals) - University of California, Riverside (UCR)
 
+<img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
 Thomas Girke is a Professor of Bioinformatics at the University California,
 Riverside. He received his Ph.D. from the University Hamburg, Germany. His
 research focuses on the development of computational data analysis methods for
