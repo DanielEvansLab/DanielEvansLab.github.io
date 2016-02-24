@@ -53,11 +53,9 @@ Longevity Genomics Research Group members include experts in human and model org
 ## More About Members
 
 
-### <a name="stevecummings"></a> PI: Steve Cummings - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="stevecummings"></a> PI: [Steve Cummings](http://www.cpmc.org/professionals/research/programs/science/cummings.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
-<img align="right" title="Steve Cummings" src="/public/images/members/steve_cummings.png"><img/>
-[[Home page](http://www.cpmc.org/professionals/research/programs/science/cummings.html)]
-
+<img align="left" title="Steve Cummings" src="/public/images/members/steve_cummings.png"><img/>
 Dr. Steven R. Cummings is Director of the SF Coordinating Center, a joint research operation of the California Pacific Medical Center Research Institute and the University of California Department of Epidemiology and Biostatistics. Dr Cummings is an emeritus Professor of Medicine, Epidemiology and Biostatistics, and Associate Chair for Clinical Research at the University of California, San Francisco. 
 
 The Coordinating Center specializes in coordinating multi-center studies in women’s health, aging, cognitive function, cardiovascular disease, breast cancer prevention, osteoporosis, arthritis, and dementia. The Coordinating Center is also the center for a major NIA-sponsored effort to identify genetic variants controlling longevity and aging. 
