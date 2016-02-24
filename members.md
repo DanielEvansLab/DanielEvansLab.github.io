@@ -3,20 +3,22 @@ layout: page
 title: Members
 ---
 
-> Members and committees of this project are listed here.
+> This page describes the organizational structure, functions of the committees, and members of the Longevity Genomics Research Group.
 
 ## Organizational Structure
 
-Our [scientific team](http://www.longevitygenomics.org/members) includes experts in human and model organism aging, genetic epidemiology of aging, statistical genetics, chemical informatics, and pharmaceutical development. The steering committee includes the three PIs (Steve Cummings, Nik Schork, and Simon Melov), an NIA project scientist (Nalini Raghavachari), and the project director (Dan Evans). The Integrative Data Resource Committee (IDRC) will assemble multiple genomic data resources and perform integrative data analysis. The Computational Informatics Committee (CIC) will develop software tools that will enable novel integrative genomic analyses that will include Mendelian Randomization analysis. The Research Planning Committee (RPC) will meet annually to evaluate evidence from our statistical analyses and to develop pilot projects that will be performed to advance the translation of findings into health-promoting therapeutics. In addition, an External Advisory Board (EAB) will be formed to provide relevant scientific expertise and to foster connections with the pharmaceutical industry.
+![Organizational Chart](/public/images/OrgChart.svg){: .center-image }
 
-### Steering Committee
+Longevity Genomics Research Group members include experts in human and model organism aging, genetic epidemiology of aging, statistical genetics, and chemical informatics. The [Steering Committee]({{site.baseurl}}/members#SC), [NIA project scientist]({{site.baseurl}}/members#nalini), and the [Project Director]({{site.baseurl}}/members#danevans) provide oversight of all project activities. The [Integrative Data Resource Committee]({{site.baseurl}}/members#IDRC) assembles genome-wide association study (GWAS) results for pleiotropy analysis, individual-level genetic and phenotype data, eQTL data, and functional genomic annotation in order to perform integrative data analysis. The [Computational Informatics Committee]({{site.baseurl}}/members#CIC) develops software tools to enable novel integrative genomic analyses that will include Mendelian Randomization analysis. At an annual meeting of the Longevity Genomics Research Group, the [Research Planning Committee]({{site.baseurl}}/members#RPC) will evaluate statistical methods and translational strategies presented by the Longevity Genomics Research Group, prioritize strategies, and design pilot studies to follow-up the most promising strategies with the goal of advancing the translation of findings into health-promoting therapeutics. In addition, an [External Advisory Board]({{site.baseurl}}/members#EAB) composed of members with expertise in our approaches attends the annual meeting and provides recommendations on strategy prioritization, analytical approaches, and pilot studies. The EAB ensures that scientific members are aware of relevant resources and the EAB members will foster connections with the pharmaceutical industry where appropriate. The EAB will hold an executive session at the end of each annual meeting to formulate their recommendations, followed by a conference call among EAB members to create consensus recommendations that will then be communicated to the Longevity Genomics Research Group in the form of a written document.
+
+### <a name="SC"></a> Steering Committee
 * [Steve Cummings]({{site.baseurl}}/members#stevecummings) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
 * [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
-* Nalini Raghavachari - National Institute on Aging (NIA)/National Institutes of Health (NIH)
-* Dan Evans - California Pacific Medical Center Research Institute (CPMCRI)
+* <a name="nalini"></a> Nalini Raghavachari - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+* [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 
-### Integrative Data Resource Committee (IDRC)
+### <a name="IDRC"></a> Integrative Data Resource Committee (IDRC)
 * PI: [Steve Cummings]({{site.baseurl}}/members#stevecummings) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 * Greg Tranah - California Pacific Medical Center Research Institute (CPMCRI)
@@ -25,13 +27,13 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 * Douglas Kiel - Harvard University
 * Andrew Johnson - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
-### Computational Informatics Committee (CIC)
+### <a name="CIC"></a> Computational Informatics Committee (CIC)
 * PI: [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Tyler Backman]({{site.baseurl}}/members#tylerbackman) - University of California, Riverside (UCR)
 * [Thomas Girke]({{site.baseurl}}/members#thomasgirke) - University of California, Riverside (UCR)
 
-### Research Planning Committee (RPC)
+### <a name="RPC"></a> Research Planning Committee (RPC)
 * PI: [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
 * Atul Butte - University of California, San Francisco (UCSF)
 * Manolis Kellis - Massachusetts Institute of Technology (MIT)
@@ -40,7 +42,7 @@ Our [scientific team](http://www.longevitygenomics.org/members) includes experts
 * Judith Campisi - Buck Institute for Research on Aging
 * Luigi Ferrucci - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
-### External Advisory Board
+### <a name="EAB"></a> External Advisory Board
 * Maria Glymour - University of California, San Francisco (UCSF)
 * Nadeem Sarwar - Eisai Co., Ltd.
 * John Carulli - Biogen
