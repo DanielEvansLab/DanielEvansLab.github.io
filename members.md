@@ -21,10 +21,10 @@ Longevity Genomics Research Group members include experts in human and model org
 ### <a name="IDRC"></a> Integrative Data Resource Committee (IDRC)
 * PI: [Steve Cummings]({{site.baseurl}}/members#stevecummings) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
-* Greg Tranah - California Pacific Medical Center Research Institute (CPMCRI)
+* [Greg Tranah]({{site.baseurl}}/members#tranah) - California Pacific Medical Center Research Institute (CPMCRI)
 * Joanne Murabito - Boston University
 * Kathryn Lunetta - Boston University
-* Douglas Kiel - Harvard University
+* [Douglas Kiel]({{site.baseurl}}/members#kiel) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School 
 * Andrew Johnson - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
 ### <a name="CIC"></a> Computational Informatics Committee (CIC)
@@ -153,4 +153,21 @@ integrated data analysis systems for the open source software projects R and
 Bioconductor.
 
 --- 
+
+### <a name="tranah"></a> [Greg Tranah](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - California Pacific Medical Center Research Institute (CPMCRI)
+
+<img align="right" title="Greg Tranah" src="/public/images/members/Tranah.JPG"><img/>
+Dr. Tranah is a Scientist at California Pacific Medical Center Research Institute (CPMCRI). 
+Dr. Tranah received his Ph.D. in ecology from the University of California, Davis, and completed postdoctoral work in epidemiology at the Harvard School of Public Health in Boston, Massachusetts.
+Research in the Tranah lab focuses on the genetics and epidemiology of aging and age-related diseases.
+Dr. Tranah leads deep sequencing studies to identify inherited and acquired mitochondrial DNA mutations that impact age-related declines in cognitive, sensory and physical functioning. He leads large-scale genetic studies of aging and disease in several population-based cohorts, and conducts analyses in multiple international genetics consortia. 
+
+---
+
+### <a name="kiel"></a> [Douglas Kiel](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
+
+<img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
+Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
+
+
 
