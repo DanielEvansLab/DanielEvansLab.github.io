@@ -23,7 +23,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Greg Tranah]({{site.baseurl}}/members#tranah) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Joanne Murabito]({{site.baseurl}}/members#murabito) - Boston University School of Medicine
-* [Kathryn Lunetta]({{site.baseurl}}/members#lunetta) - Boston University School of Medicine
+* [Kathryn Lunetta]({{site.baseurl}}/members#lunetta) - Boston University School of Public Health
 * [Douglas Kiel]({{site.baseurl}}/members#kiel) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School 
 * Andrew Johnson - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
@@ -140,6 +140,12 @@ Dr. Tranah leads deep sequencing studies to identify inherited and acquired mito
 ### <a name="murabito"></a> [Joanne Murabito](https://www.framinghamheartstudy.org/investigators/joanne-murabito.php) - Boston University School of Medicine
 <img align="right" title="Joanne Murabito" src="/public/images/members/murabito.jpg"><img/>
 Dr. Joanne Murabito graduated from the University of Rochester in 1981 and received her medical degree from Mount Sinai School of Medicine in New York in 1985. She completed a residency in internal medicine at Boston University Hospital followed by a research fellowship at the Framingham Heart Study and a master's degree in epidemiology at the Harvard School of Public Health. Dr. Murabito is Director of the Clinic at the Framingham Heart Study and she is an Associate Professor of Medicine at Boston University School of Medicine. Her research interests include the epidemiology and genetics of longevity, healthy aging, reproductive aging and peripheral artery disease. Dr Murabito is a member of the Genetics of Longevity Consortium sponsored by NIA. She continues to practice primary care at Boston Medical Center.
+
+---
+
+### <a name="lunetta"></a> [Kathryn Lunetta](http://www.bu.edu/sph/profile/kathryn-lunetta/) - Boston University School of Public Health
+<img align="right" title="Kathryn Lunetta" src="/public/images/members/lunetta.jpg"><img/>
+Kathryn L. Lunetta, Ph.D. joined the Department of Biostatistics in the fall of 2004 as an Associate Professor. Prior to her arrival, she held positions in the biotechnology industry, and was on the faculty in the Biostatistics department at the Harvard School of Public Health and Dana-Farber Cancer Institute. Dr. Lunetta’s research focuses on statistical problems and study design and analysis issues in human genetics, particularly in the mapping of complex genetic diseases. Dr. Lunetta collaborates as a statistical geneticist on several projects studying the genetic components of complex traits such as Huntington Disease, cardiovascular disease, and successful aging/longevity.
 
 ---
 
