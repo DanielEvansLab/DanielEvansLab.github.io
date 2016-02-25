@@ -37,7 +37,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * PI: [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
 * [Atul Butte]({{site.baseurl}}/members#butte) - University of California, San Francisco (UCSF)
 * [Manolis Kellis]({{site.baseurl}}/members#kellis) - Massachusetts Institute of Technology (MIT)
-* Stuart Lipton - University of California, San Diego (UCSD)
+* [Stuart Lipton]({{site.baseurl}}/members#lipton) - University of California, San Diego (UCSD)
 * Dan Tagle - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
 * Judith Campisi - Buck Institute for Research on Aging
 * Luigi Ferrucci - National Institute on Aging (NIA)/National Institutes of Health (NIH)
@@ -204,4 +204,15 @@ Atul Butte, MD, PhD is the Director of the new Institute of Computational Health
 
 <img align="right" title="Manolis Kellis" src="/public/images/members/kellis.jpg"><img/>
 Manolis Kellis is an Associate Professor of Computer Science at MIT, a member of the Computer Science and Artificial Intelligence Laboratory and of the Broad Institute of MIT and Harvard, where he directs the MIT Computational Biology Group (compbio.mit.edu). His group has recently been funded to lead the integrative analysis efforts of the modENCODE project for Drosophila melanogaster, and also for integrative analysis of the NIH Epigenome Roadmap Project. He has received the US Presidential Early Career Award in Science and Engineering (PECASE) for his NIH R01 work in Computational Genomics, the NSF CAREER award, the Alfred P. Sloan Fellowship, the Karl Van Tassel chair in EECS, the Distinguished Alumnus 1964 chair, and the Ruth and Joel Spira Teaching Award in EECS. He was recognized for his research in genomics as one of the top young innovators under the age of 35 by Technology Review Magazine, one of the principal investigators of the future by Genome Technology magazine, and one of three young scientists representing the next generation in biotechnology by the Boston Museum of Science. He obtained his Ph.D. from MIT, where he received the Sprowls award for the best doctorate thesis in computer science, and the first Paris Kanellakis graduate fellowship. Prior to computational biology, he worked on artificial intelligence, sketch and image recognition, robotics, and computational geometry, at MIT and at the Xerox Palo Alto Research Center. He lived in Greece and France before moving to the US.
+
+---
+
+### <a name="lipton"></a> [Stuart Lipton](http://biomedsci.ucsd.edu/faculty/faculty_descrip.aspx?id=211) - University of California, San Diego (UCSD)
+<img align="right" title="Stuart Lipton" src="/public/images/members/lipton.jpg"><img/>
+The Lipton laboratory studies molecular mechanisms of neurodegenerative diseases and stroke, including the role of excessive stimulation of ion channels and intracellular signaling pathways in nerve cells. Among the laboratory's accomplishments and ongoing activities are (i) development of the first glutamate receptor/channel antagonist drug (Memantine/Namenda®), representing the most recent therapeutic to to be clinically approved for the treatment of Alzheimer's disease by the European Union and the FDA, (ii) discovery witih colleagues of the posttranslational protein modification termed S-nitrosylation (reaction of NO with a critical thiol group to control protein function), (iii) characterization of signaling events leading to neuronal injury and apoptosis in AIDS, and (iv) discovery and cloning of the transcription factor MEF2C that programs Embryonic Stem Cells to become nerve cells in the brain and whose knock down in the brain of rodents and humans causes Autism Spectrum Disorders (ASD). These studies have led to the development of the first neuroprotective drugs to be administered successfully to humans to combat various neurodegenerative and vascular diseases of the brain.
+
+
+
+
+
 
