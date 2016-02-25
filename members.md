@@ -52,7 +52,6 @@ Longevity Genomics Research Group members include experts in human and model org
 
 ## More About Members
 
-
 ### <a name="stevecummings"></a> PI: [Steve Cummings](http://www.cpmc.org/professionals/research/programs/science/cummings.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Steve Cummings" src="/public/images/members/steve_cummings.png"><img/>
@@ -63,20 +62,6 @@ The Coordinating Center specializes in coordinating multi-center studies in wome
 In 1996, Dr. Cummings was elected to the American Association of Physicians and to the Council of the American Society for Bone and Mineral Research. In 2000, he was elected to the Institute of Medicine in the National Academy of Science. 
 
 With support of the Daniel and Phyllis Da Costa Fund, Dr. Cummings is collaborating with researchers at the Royal Marsden Hospital in London, whose mission is to find ways to identify women at high risk for breast cancer. Together, they plan to develop new methods that can predict a woman’s chance of developing the disease, as well as learn about potential means for prevention. 
-
-
---- 
-
-### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
-
-<img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
-Dan Evans and colleagues at CPMCRI and the San Francisco Coordinating Center are using high-throughput and sequencing methods to study age-related diseases. Their research focuses on three areas:
-
-Genome-wide association studies (GWAS) of osteoarthritis to identify genetic variants associated with this condition, which affects approximately 40% of people aged 70 and older. Projects are underway to uncover the functional impact of associated genetic variants, which will help shed light on the biological processes underlying osteoarthritis.
-
-Identification of genetic variants associated with sleep traits: Changes in the timing and quality of sleep occur as humans age. A highly conserved set of genes, termed “clock genes,” regulate circadian processes including sleep in diverse organisms. Dr. Evans and colleagues found that genetic variants in clock genes are associated with sleep timing and quality in the elderly. They are investigating the relationship between clock gene variants and other age-related traits to better understand the connection between circadian biology and aging. 
-
-Understanding and comparing population-specific genetic variation in complex human traits: Most GWAS have been conducted in European populations; performing GWAS in non-European populations can help identify novel genetic associations due to population-specific genetic variation. Dr. Evans’ cross-population studies focus on complex heritable quantitative traits related to heart function, specifically the conduction of excitatory electrical signals. 
 
 --- 
 
@@ -124,6 +109,30 @@ worm C. elegans.
 
 --- 
 
+### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
+
+<img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
+Dan Evans is an Associate Scientist at California Pacific Medical Center Research Institute (CPMCRI). Dr. Evans received a PhD from the Department of Molecular and Cell Biology and a MPH from the School of Public Health from the University of California at Berkeley. Use personal statement from biosketch.
+
+--- 
+
+### <a name="tranah"></a> [Greg Tranah](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - California Pacific Medical Center Research Institute (CPMCRI)
+
+<img align="right" title="Greg Tranah" src="/public/images/members/Tranah.JPG"><img/>
+Dr. Tranah is a Scientist at California Pacific Medical Center Research Institute (CPMCRI). 
+Dr. Tranah received his Ph.D. in ecology from the University of California, Davis, and completed postdoctoral work in epidemiology at the Harvard School of Public Health in Boston, Massachusetts.
+Research in the Tranah lab focuses on the genetics and epidemiology of aging and age-related diseases.
+Dr. Tranah leads deep sequencing studies to identify inherited and acquired mitochondrial DNA mutations that impact age-related declines in cognitive, sensory and physical functioning. He leads large-scale genetic studies of aging and disease in several population-based cohorts, and conducts analyses in multiple international genetics consortia. 
+
+---
+
+### <a name="kiel"></a> [Douglas Kiel](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
+
+<img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
+Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
+
+---
+
 ### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/) - University of California, Riverside (UCR)
 
 <img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
@@ -151,23 +160,6 @@ collaborates with experimental scientists on data analysis projects of complex
 biological networks. Another important activity is the development of
 integrated data analysis systems for the open source software projects R and
 Bioconductor.
-
---- 
-
-### <a name="tranah"></a> [Greg Tranah](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - California Pacific Medical Center Research Institute (CPMCRI)
-
-<img align="right" title="Greg Tranah" src="/public/images/members/Tranah.JPG"><img/>
-Dr. Tranah is a Scientist at California Pacific Medical Center Research Institute (CPMCRI). 
-Dr. Tranah received his Ph.D. in ecology from the University of California, Davis, and completed postdoctoral work in epidemiology at the Harvard School of Public Health in Boston, Massachusetts.
-Research in the Tranah lab focuses on the genetics and epidemiology of aging and age-related diseases.
-Dr. Tranah leads deep sequencing studies to identify inherited and acquired mitochondrial DNA mutations that impact age-related declines in cognitive, sensory and physical functioning. He leads large-scale genetic studies of aging and disease in several population-based cohorts, and conducts analyses in multiple international genetics consortia. 
-
----
-
-### <a name="kiel"></a> [Douglas Kiel](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
-
-<img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
-Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
 
 
 
