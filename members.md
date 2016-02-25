@@ -5,6 +5,8 @@ title: Members
 
 > This page describes the organizational structure, functions of the committees, and members of the Longevity Genomics Research Group.
 
+Each project - databases for that project, tools to do that, worked examples. 
+
 ## Organizational Structure
 
 ![Organizational Chart](/public/images/OrgChart.svg){: .center-image }
