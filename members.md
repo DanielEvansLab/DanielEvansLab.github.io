@@ -22,8 +22,8 @@ Longevity Genomics Research Group members include experts in human and model org
 * PI: [Steve Cummings]({{site.baseurl}}/members#stevecummings) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Greg Tranah]({{site.baseurl}}/members#tranah) - California Pacific Medical Center Research Institute (CPMCRI)
-* Joanne Murabito - Boston University
-* Kathryn Lunetta - Boston University
+* [Joanne Murabito]({{site.baseurl}}/members#murabito) - Boston University School of Medicine
+* [Kathryn Lunetta]({{site.baseurl}}/members#lunetta) - Boston University School of Medicine
 * [Douglas Kiel]({{site.baseurl}}/members#kiel) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School 
 * Andrew Johnson - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
@@ -126,7 +126,13 @@ Dr. Tranah leads deep sequencing studies to identify inherited and acquired mito
 
 ---
 
-### <a name="kiel"></a> [Douglas Kiel](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
+### <a name="murabito"></a> [Joanne Murabito](https://www.framinghamheartstudy.org/investigators/joanne-murabito.php) - Boston University School of Medicine
+<img align="right" title="Joanne Murabito" src="/public/images/members/murabito.jpg"><img/>
+Dr. Joanne Murabito graduated from the University of Rochester in 1981 and received her medical degree from Mount Sinai School of Medicine in New York in 1985. She completed a residency in internal medicine at Boston University Hospital followed by a research fellowship at the Framingham Heart Study and a master's degree in epidemiology at the Harvard School of Public Health. Dr. Murabito is Director of the Clinic at the Framingham Heart Study and she is an Associate Professor of Medicine at Boston University School of Medicine. Her research interests include the epidemiology and genetics of longevity, healthy aging, reproductive aging and peripheral artery disease. Dr Murabito is a member of the Genetics of Longevity Consortium sponsored by NIA. She continues to practice primary care at Boston Medical Center.
+
+---
+
+### <a name="kiel"></a> [Douglas Kiel](http://www.instituteforagingresearch.org/scientists/team-profiles-and-bios/douglas-p-kiel-md-mph) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
 
 <img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
 Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
