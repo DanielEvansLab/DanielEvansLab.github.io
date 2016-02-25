@@ -25,7 +25,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Joanne Murabito]({{site.baseurl}}/members#murabito) - Boston University School of Medicine
 * [Kathryn Lunetta]({{site.baseurl}}/members#lunetta) - Boston University School of Public Health
 * [Douglas Kiel]({{site.baseurl}}/members#kiel) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School 
-* Andrew Johnson - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
+* [Andrew Johnson]({{site.baseurl}}/members#johnson) - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
 ### <a name="CIC"></a> Computational Informatics Committee (CIC)
 * PI: [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
@@ -153,6 +153,13 @@ Kathryn L. Lunetta, Ph.D. joined the Department of Biostatistics in the fall of 
 
 <img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
 Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
+
+---
+
+### <a name="johnson"></a> [Andrew Johnson](http://www.nhlbi.nih.gov/research/intramural/researchers/pi/johnson-andrew) - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
+
+<img align="right" title="Andrew Johnson" src="/public/images/members/johnson.jpg"><img/>
+Andrew Johnson earned a B.S. in vertebrate physiology from the Pennsylvania State University in 1998. He subsequently worked on gene regulatory research in C. elegans and neuroelectrophysiology in rodents before entering graduate school in 2003. He earned a Ph.D. in biomedical sciences from Ohio State University in 2007 with dual emphases in bioinformatics and pharmacogenomics. He came to the NIH for post-doctoral training in 2007 and became a tenure track investigator in 2012. Dr. Johnson has been nominated for and received numerous awards including the NHLBI Lenfant Fellowship and Genome Technology’s Young Investigator Award, and was elected as a Fellow of the American Heart Association. He has published more than 100 papers and has served as a reviewer for more than 20 journals. Dr. Johnson is active on several committees of the Functional Genomics and Translational Biology Council of the American Heart Association. He is also a member of the American Society for Human Genetics and the International Society for Computational Biology. Dr. Johnson is interested in the pharmacogenetics of anti-platelet treatments and resulting CVD outcomes. His laboratory applies population-scale approaches to the problem including genetic studies, collaboration with clinician-scientists, studies of gene expression variability in human tissues, and bioinformatics and systems biology approaches. His group makes particular use of the Framingham Heart Study and the rich amount of epidemiologic and genetic data it has accumulated over the years. Additionally, the Johnson laboratory creates and applies cutting edge genomic and bioinformatics resources. To date these resources include [SNAP](http://www.broadinstitute.org/mpg/snap/), a fast human linkage disequilibrium query and annotation interface for worldwide population genetic samples; and [GRASP](http://grasp.nhlbi.nih.gov/Overview.aspx), one of the largest and deepest databases of human genetic associations.
 
 ---
 
