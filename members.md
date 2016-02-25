@@ -112,7 +112,7 @@ worm C. elegans.
 ### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
-Dan Evans is an Associate Scientist at California Pacific Medical Center Research Institute (CPMCRI). Dr. Evans received a PhD from the Department of Molecular and Cell Biology and a MPH from the School of Public Health from the University of California at Berkeley. Use personal statement from biosketch.
+Dan Evans is an Associate Scientist at California Pacific Medical Center Research Institute (CPMCRI). Dan received a PhD from the Department of Molecular and Cell Biology and a MPH from the School of Public Health from the University of California at Berkeley. The focus of his research is to identify and characterize genetic factors associated with age-related diseases. He takes genome-wide approaches and integrate results from these approaches with functional studies to reveal insights into the biological mechanisms of human disease. He participates in large-scale GWAS meta-analyses by leading the meta-analysis and/or by contributing results from the Health ABC study, the MrOS study, or the SOF. To perform sophisticated genetic analyses, he has led the development of a high-performance computing cluster at his institution. 
 
 --- 
 
