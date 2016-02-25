@@ -15,7 +15,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Steve Cummings]({{site.baseurl}}/members#stevecummings) - California Pacific Medical Center Research Institute (CPMCRI)
 * [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
 * [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
-* <a name="nalini"></a> Nalini Raghavachari - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+* [Nalini Raghavachari]({{site.baseurl}}/members#nalini) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
 
 ### <a name="IDRC"></a> Integrative Data Resource Committee (IDRC)
@@ -108,6 +108,17 @@ activity in various animals, including human beings, mice, and the nematode
 worm C. elegans.
 
 --- 
+
+### <a name="nalini"></a> [Nalini Raghavachari](https://www.nia.nih.gov/about/staff/dgcg/raghavachari-nalini) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+
+<img align="right" title="Nalini Raghavachari" src="/public/images/members/nalini.jpg"><img/>
+Nalini Raghavachari joined NIA’s Division of Geriatrics and Clinical Gerontology in 2013 as a program officer and is currently focusing on building research programs on the genetics of exceptional longevity, healthy aging, and translational genomics.
+
+Dr. Raghavachari began her NIH career at the Clinical Center in 2003 as director of the Sickle Cell Genomics Program in the Critical Care Medicine Department. She then took up a dual appointment with the intramural division of the National Heart, Lung and Blood Institute in 2005 as director of the Genomics Core Facility and served as an associate investigator in human genetic studies on vascular diseases, including the Framingham Heart Study, to identify disease mechanisms, biomarkers, and therapeutic drug targets. Prior to joining NIH, Dr. Raghavachari worked as a senior research scientist in Corning Life Sciences, developing microarray-based genomic and proteomic tools and technologies. She has also worked as a senior scientist for Procertus Biopharm Inc. in Madison, WI.
+
+Dr. Raghavachari received her Ph.D. in biochemistry from the University of Madras, India. She performed post-doctoral training in the Plant Genetic Engineering Laboratory in Las Cruces, NM, Baylor College of Medicine in Houston, and Texas A& M University in College Station, focusing on cardiovascular genetics and genomics. She was later a NIH research fellow at the University of Nebraska-Lincoln studying senile cataractogeneisis.
+
+---
 
 ### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
