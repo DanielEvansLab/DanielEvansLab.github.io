@@ -35,7 +35,7 @@ Longevity Genomics Research Group members include experts in human and model org
 
 ### <a name="RPC"></a> Research Planning Committee (RPC)
 * PI: [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
-* Atul Butte - University of California, San Francisco (UCSF)
+* [Atul Butte]({{site.baseurl}}/members#butte) - University of California, San Francisco (UCSF)
 * Manolis Kellis - Massachusetts Institute of Technology (MIT)
 * Stuart Lipton - University of California, San Diego (UCSD)
 * Dan Tagle - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
@@ -190,6 +190,13 @@ collaborates with experimental scientists on data analysis projects of complex
 biological networks. Another important activity is the development of
 integrated data analysis systems for the open source software projects R and
 Bioconductor.
+
+---
+
+### <a name="butte"></a> [Atul Butte](http://profiles.ucsf.edu/atul.butte) - University of California, San Francisco (UCSF)
+
+<img align="right" title="Atul Butte" src="/public/images/members/butte.jpeg"><img/>
+Atul Butte, MD, PhD is the Director of the new Institute of Computational Health Sciences (ICHS) at the University of California, San Francisco, and a Professor of Pediatrics. Dr. Butte trained in Computer Science at Brown University, worked as a software engineer at Apple and Microsoft, received his MD at Brown University, trained in Pediatrics and Pediatric Endocrinology at Children's Hospital Boston, then received his PhD in Health Sciences and Technology from Harvard Medical School and MIT.  Dr. Butte then spent 10 years at Stanford, culminating in his role as Chief of the Division of Systems Medicine at Stanford.  Dr. Butte is also a founder of three investor-backed companies: Personalis, providing clinical interpretation of whole genome sequences, Carmenta, discovering diagnostics for pregnancy complications, and NuMedii, finding new uses for drugs through open molecular data. Dr. Butte's research laboratory builds and applies tools that convert more than 400 trillion points of molecular, clinical, and epidemiological data – measured by researchers and clinicians over the past decade and now colloquially known as “big data” – into diagnostics, therapeutics, and new insights into disease. Examples of this method includes work on cancer drug discovery published in the Proceedings of the National Academy of Science (2000), on type 2 diabetes published in the Proceedings of the National Academy of Science (2003 and 2012), on fat cell formation published in Nature Cell Biology (2005), on obesity in Bioinformatics (2007), and in transplantation published in Proceedings of the National Academy of Science (2009).  
 
 
 
