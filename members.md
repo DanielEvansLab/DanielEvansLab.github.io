@@ -151,7 +151,7 @@ small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
-### <a name="thomasgirke"></a> [Thomas Girke](http://girke.bioinformatics.ucr.edu/manuals) - University of California, Riverside (UCR)
+### <a name="thomasgirke"></a> [Thomas Girke](http://girke.bioinformatics.ucr.edu/) - University of California, Riverside (UCR)
 
 <img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
 Thomas Girke is a Professor of Bioinformatics at the University California,
