@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1: Pleiotropy analysis
+title: Project 1 Pleiotropy analysis
 ---
 
 
