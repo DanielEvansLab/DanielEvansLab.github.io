@@ -5,8 +5,6 @@ title: Members
 
 > This page describes the organizational structure, functions of the committees, and members of the Longevity Genomics Research Group.
 
-Each project - databases for that project, tools to do that, worked examples. 
-
 ## Organizational Structure
 
 ![Organizational Chart](/public/images/OrgChart.svg){: .center-image }
@@ -37,19 +35,19 @@ Longevity Genomics Research Group members include experts in human and model org
 
 ### <a name="RPC"></a> Research Planning Committee (RPC)
 * PI: [Simon Melov]({{site.baseurl}}/members#simonmelov) - Buck Institute for Research on Aging
+* [Judith Campisi]({{site.baseurl}}/members#campisi) - Buck Institute for Research on Aging
+* [Luigi Ferrucci]({{site.baseurl}}/members#luigi) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 * [Atul Butte]({{site.baseurl}}/members#butte) - University of California, San Francisco (UCSF)
 * [Manolis Kellis]({{site.baseurl}}/members#kellis) - Massachusetts Institute of Technology (MIT)
 * [Stuart Lipton]({{site.baseurl}}/members#lipton) - University of California, San Diego (UCSD)
 * [Dan Tagle]({{site.baseurl}}/members#tagle) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
-* [Judith Campisi]({{site.baseurl}}/members#campisi) - Buck Institute for Research on Aging
-* [Luigi Ferrucci]({{site.baseurl}}/members#luigi) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
 ### <a name="EAB"></a> External Advisory Board
+* [Michael Snyder]({{site.baseurl}}/members#snyder) - Stanford University
 * [Maria Glymour]({{site.baseurl}}/members#glymour) - University of California, San Francisco (UCSF)
 * [Nadeem Sarwar]({{site.baseurl}}/members#sarwar) - Eisai Co., Ltd.
 * [John Carulli]({{site.baseurl}}/members#carulli) - Biogen
 * [John Irwin]({{site.baseurl}}/members#irwin) - University of California, San Francisco (UCSF)
-* [Michael Snyder]({{site.baseurl}}/members#snyder) - Stanford University
 
 <br>
 
@@ -194,6 +192,21 @@ biological networks. Another important activity is the development of
 integrated data analysis systems for the open source software projects R and
 Bioconductor.
 
+## Research Planning Committee
+
+### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
+
+<img align="right" title="Judith Campisi" src="/public/images/members/campisi.png"><img/>
+Judith Campisi has received international recognition for her contributions to understanding why age is the largest single risk factor for developing a panoply of diseases, ranging from neurodegeneration to cancer. Her highly acclaimed research integrates the genetic, environmental and evolutionary forces that result in aging and age-related diseases, and identifies pathways that can be modified to mitigate basic aging processes. 
+Dr. Campisi received a PhD in Biochemistry from the State University New York at Stony Brook and completed postdoctoral training at the Harvard Medical School. As an assistant professor at the Boston University Medical School, she became interested in the control of cellular senescence and its role in tumor suppression and aging. She joined the Lawrence Berkeley National Laboratory as a Senior Scientist in 1991. She established a second laboratory at the Buck Institute in 2002. At both institutions, she established a broad program to understand various aspects of aging, with an emphasis on the interface between cancer and aging. The Campisi laboratory has made several pioneering discoveries in these areas, and her research continues to challenge and alter existing paradigms. In recognition of the quality of her research and leadership in the field, she has received numerous awards, including two MERIT awards from the US National Institute on Aging, and awards from the AlliedSignal Corporation, Gerontological Society of America, American Federation for Aging Research, and, most recently, the Longevity prize from the IPSEN Foundation. She currently serves on numerous national and international editorial and advisory boards.
+
+---
+
+### <a name="luigi"></a> [Luigi Ferrucci](https://www.irp.nia.nih.gov/branches/irp/lferrucci.htm) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+
+<img align="right" title="Luigi Ferrucci" src="/public/images/members/luigi.png"><img/>
+Dr. Luigi Ferrucci is a geriatrician and an epidemiologist who conducts research on the causal pathways leading to progressive physical and cognitive decline in older persons. In September 2002, he became the Chief of the Longitudinal Studies Section at NIA and the Director of the Baltimore Longitudinal Study on Aging. Dr. Ferrucci received a Medical Degree and Board Certification in 1980, a Board Certification in Geriatrics in 1982 and Ph.D. in Biology and Pathophysiology of Aging in 1998 at the University of Florence, Italy. He spent a 2-year internship at the Intensive Care Unit of the Florence Institute of Gerontology and Geriatrics, and was for many years Associate Professor of Biology, Human Physiology and Statistics at the University of Florence. Between 1985 and 2002 he was Chief of Geriatric Rehabilitation at the Department of Geriatric Medicine and Director of the Laboratory of Clinical Epidemiology at the Italian National Institute of Aging. During the same period, he collaborated with the NIA Laboratory of Epidemiology, Demography, and Biometry where he spent several periods as Visiting Scientist. Dr. Ferrucci has made major contributions in the design of many epidemiological studies conducted in the U.S. and in Europe, including the European Longitudinal Study on Aging, the "ICare Dicomano Study," the AKEA study of Centenarians in Sardinia and the Women's Health and Aging Study. He was also the Principal Investigator of the InCHIANTI study, a longitudinal study conducted in the Chianti Geographical area (Tuscany, Italy) looking at risk factors for mobility disability in older persons. Dr. Ferrucci is currently refining the design of the BLSA to focus more on normal aging and the development of age-associated frailty. Dr. Ferrucci is Scientific Director, NIA since May 2011. 
+
 ---
 
 ### <a name="butte"></a> [Atul Butte](http://profiles.ucsf.edu/atul.butte) - University of California, San Francisco (UCSF)
@@ -225,21 +238,12 @@ Prior to joining NINDS in 2001, Tagle was an investigator and section head of mo
 
 Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State University School of Medicine in 1990. He was an NIH National Research Service Award postdoctoral fellow in human genetics in the laboratory of Francis S. Collins, M.D., Ph.D., at the University of Michigan. Tagle has authored more than 150 scientific publications and has garnered numerous awards and patents.
 
----
+## External Advisory Board
 
-### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
+### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
 
-<img align="right" title="Judith Campisi" src="/public/images/members/campisi.png"><img/>
-Judith Campisi has received international recognition for her contributions to understanding why age is the largest single risk factor for developing a panoply of diseases, ranging from neurodegeneration to cancer. Her highly acclaimed research integrates the genetic, environmental and evolutionary forces that result in aging and age-related diseases, and identifies pathways that can be modified to mitigate basic aging processes. 
-Dr. Campisi received a PhD in Biochemistry from the State University New York at Stony Brook and completed postdoctoral training at the Harvard Medical School. As an assistant professor at the Boston University Medical School, she became interested in the control of cellular senescence and its role in tumor suppression and aging. She joined the Lawrence Berkeley National Laboratory as a Senior Scientist in 1991. She established a second laboratory at the Buck Institute in 2002. At both institutions, she established a broad program to understand various aspects of aging, with an emphasis on the interface between cancer and aging. The Campisi laboratory has made several pioneering discoveries in these areas, and her research continues to challenge and alter existing paradigms. In recognition of the quality of her research and leadership in the field, she has received numerous awards, including two MERIT awards from the US National Institute on Aging, and awards from the AlliedSignal Corporation, Gerontological Society of America, American Federation for Aging Research, and, most recently, the Longevity prize from the IPSEN Foundation. She currently serves on numerous national and international editorial and advisory boards.
-
----
-
-### <a name="luigi"></a> [Luigi Ferrucci](https://www.irp.nia.nih.gov/branches/irp/lferrucci.htm) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
-
-<img align="right" title="Luigi Ferrucci" src="/public/images/members/luigi.png"><img/>
-Dr. Luigi Ferrucci is a geriatrician and an epidemiologist who conducts research on the causal pathways leading to progressive physical and cognitive decline in older persons. In September 2002, he became the Chief of the Longitudinal Studies Section at NIA and the Director of the Baltimore Longitudinal Study on Aging. Dr. Ferrucci received a Medical Degree and Board Certification in 1980, a Board Certification in Geriatrics in 1982 and Ph.D. in Biology and Pathophysiology of Aging in 1998 at the University of Florence, Italy. He spent a 2-year internship at the Intensive Care Unit of the Florence Institute of Gerontology and Geriatrics, and was for many years Associate Professor of Biology, Human Physiology and Statistics at the University of Florence. Between 1985 and 2002 he was Chief of Geriatric Rehabilitation at the Department of Geriatric Medicine and Director of the Laboratory of Clinical Epidemiology at the Italian National Institute of Aging. During the same period, he collaborated with the NIA Laboratory of Epidemiology, Demography, and Biometry where he spent several periods as Visiting Scientist. Dr. Ferrucci has made major contributions in the design of many epidemiological studies conducted in the U.S. and in Europe, including the European Longitudinal Study on Aging, the "ICare Dicomano Study," the AKEA study of Centenarians in Sardinia and the Women's Health and Aging Study. He was also the Principal Investigator of the InCHIANTI study, a longitudinal study conducted in the Chianti Geographical area (Tuscany, Italy) looking at risk factors for mobility disability in older persons. Dr. Ferrucci is currently refining the design of the BLSA to focus more on normal aging and the development of age-associated frailty. Dr. Ferrucci is Scientific Director, NIA since May 2011. 
-
+<img align="right" title="Michael Snyder" src="/public/images/members/snyder.jpg"><img/>
+Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the Director of the Center of Genomics and Personalized Medicine. Dr. Snyder received his Ph.D. training at the California Institute of Technology and carried out postdoctoral training at Stanford University. He is a leader in the field of functional genomics and proteomics, and one of the major participants of the ENCODE project. His laboratory study was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks. Seminal findings from the Snyder laboratory include the discovery that much more of the human genome is transcribed and contains regulatory information than was previously appreciated, and a high diversity of transcription factor binding occurs both between and within species. He has also combined different state-of–the-art “omics” technologies to perform the first longitudinal detailed integrative personal omics profile (iPOP) of person and used this to assess disease risk and monitor disease states for personalized medicine. He is a cofounder of several biotechnology companies, including Protometrix (now part of Life Technologies), Affomix (now part of Illumina), Excelix, and Personalis, and he presently serves on the board of a number of companies.
 
 ---
 
@@ -269,14 +273,4 @@ My laboratory applies genetics and genome science to drug discovery and developm
 
 <img align="right" title="John Irwin" src="/public/images/members/irwin.jpg"><img/>
 John Irwin is Adjunct Associate Professor in the Department of Pharmaceutical Chemistry at the University of California San Francisco. John works on methods to discover new reagents for biological targets using target- and ligand-based methods. He applies these methods to various projects, and particiates in numerous collaborations. John develops the ZINC database of commercially available compounds for virtual screening, the DUDE database for benchmarking virtual screening methods, the DOCK Blaster family of products for web-based virtual screening, and the SEA method of comparing proteins by the ligands they bind. 
-
----
-
-### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
-
-<img align="right" title="Michael Snyder" src="/public/images/members/snyder.jpg"><img/>
-Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the Director of the Center of Genomics and Personalized Medicine. Dr. Snyder received his Ph.D. training at the California Institute of Technology and carried out postdoctoral training at Stanford University. He is a leader in the field of functional genomics and proteomics, and one of the major participants of the ENCODE project. His laboratory study was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks. Seminal findings from the Snyder laboratory include the discovery that much more of the human genome is transcribed and contains regulatory information than was previously appreciated, and a high diversity of transcription factor binding occurs both between and within species. He has also combined different state-of–the-art “omics” technologies to perform the first longitudinal detailed integrative personal omics profile (iPOP) of person and used this to assess disease risk and monitor disease states for personalized medicine. He is a cofounder of several biotechnology companies, including Protometrix (now part of Life Technologies), Affomix (now part of Illumina), Excelix, and Personalis, and he presently serves on the board of a number of companies.
-
-
-
 
