@@ -66,7 +66,7 @@ With support of the Daniel and Phyllis Da Costa Fund, Dr. Cummings is collaborat
 
 --- 
 
-### <a name="nikschork"></a> [Nik Schork](http://www.jcvi.org/cms/about/bios/nschork/) - J. Craig Venter Institute (JCVI)
+### <a name="nikschork"></a> PI: [Nik Schork](http://www.jcvi.org/cms/about/bios/nschork/) - J. Craig Venter Institute (JCVI)
 
 <img align="right" title="Nik Schork" src="/public/images/members/nik_schork.png"><img/>
 Nicholas J. Schork is a Professor and Director of Human Biology at the J. Craig
@@ -89,7 +89,7 @@ genome.
 
 --- 
 
-### <a name="simonmelov"></a> [Simon Melov](http://www.buckinstitute.org/melovLab) - Buck Institute for Research on Aging
+### <a name="simonmelov"></a> PI: [Simon Melov](http://www.buckinstitute.org/melovLab) - Buck Institute for Research on Aging
 
 <img align="right" title="Simon Melov" src="/public/images/members/simon_melov.png"><img/>
 Simon Melov, who heads the Institute’s Genomic Core, explores the role of the
@@ -121,7 +121,7 @@ Dr. Raghavachari received her Ph.D. in biochemistry from the University of Madra
 
 ---
 
-### <a name="danevans"></a> [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="danevans"></a> Project Director: [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
 Dan Evans is an Associate Scientist at California Pacific Medical Center Research Institute (CPMCRI). Dan received a PhD from the Department of Molecular and Cell Biology and a MPH from the School of Public Health from the University of California at Berkeley. The focus of his research is to identify and characterize genetic factors associated with age-related diseases. He takes genome-wide approaches and integrate results from these approaches with functional studies to reveal insights into the biological mechanisms of human disease. He participates in large-scale GWAS meta-analyses by leading the meta-analysis and/or by contributing results from the Health ABC study, the MrOS study, or the SOF. To perform sophisticated genetic analyses, he has led the development of a high-performance computing cluster at his institution. 
@@ -192,7 +192,9 @@ biological networks. Another important activity is the development of
 integrated data analysis systems for the open source software projects R and
 Bioconductor.
 
-## Research Planning Committee
+---
+
+# **Research Planning Committee**
 
 ### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
 
@@ -238,7 +240,9 @@ Prior to joining NINDS in 2001, Tagle was an investigator and section head of mo
 
 Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State University School of Medicine in 1990. He was an NIH National Research Service Award postdoctoral fellow in human genetics in the laboratory of Francis S. Collins, M.D., Ph.D., at the University of Michigan. Tagle has authored more than 150 scientific publications and has garnered numerous awards and patents.
 
-## External Advisory Board
+---
+
+# **External Advisory Board**
 
 ### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
 
