@@ -196,6 +196,8 @@ Bioconductor.
 
 # **Research Planning Committee**
 
+---
+
 ### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
 
 <img align="right" title="Judith Campisi" src="/public/images/members/campisi.png"><img/>
@@ -243,6 +245,8 @@ Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State Univ
 ---
 
 # **External Advisory Board**
+
+---
 
 ### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
 
