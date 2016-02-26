@@ -41,15 +41,15 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Manolis Kellis]({{site.baseurl}}/members#kellis) - Massachusetts Institute of Technology (MIT)
 * [Stuart Lipton]({{site.baseurl}}/members#lipton) - University of California, San Diego (UCSD)
 * [Dan Tagle]({{site.baseurl}}/members#tagle) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
-* Judith Campisi - Buck Institute for Research on Aging
-* Luigi Ferrucci - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+* [Judith Campisi]({{site.baseurl}}/members#campisi) - Buck Institute for Research on Aging
+* [Luigi Ferrucci]({{site.baseurl}}/members#luigi) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
 ### <a name="EAB"></a> External Advisory Board
-* Maria Glymour - University of California, San Francisco (UCSF)
-* Nadeem Sarwar - Eisai Co., Ltd.
-* John Carulli - Biogen
-* John Irwin - University of California, San Francisco (UCSF)
-* Michael Snyder - Stanford University
+* [Maria Glymour]({{site.baseurl}}/members#glymour) - University of California, San Francisco (UCSF)
+* [Nadeem Sarwar]({{site.baseurl}}/members#sarwar) - Eisai Co., Ltd.
+* [John Carulli]({{site.baseurl}}/members#carulli) - Biogen
+* [John Irwin]({{site.baseurl}}/members#irwin) - University of California, San Francisco (UCSF)
+* [Michael Snyder]({{site.baseurl}}/members#snyder) - Stanford University
 
 <br>
 
@@ -225,6 +225,57 @@ Prior to joining NINDS in 2001, Tagle was an investigator and section head of mo
 
 Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State University School of Medicine in 1990. He was an NIH National Research Service Award postdoctoral fellow in human genetics in the laboratory of Francis S. Collins, M.D., Ph.D., at the University of Michigan. Tagle has authored more than 150 scientific publications and has garnered numerous awards and patents.
 
+---
+
+### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
+
+<img align="right" title="Judith Campisi" src="/public/images/members/campisi.png"><img/>
+Judith Campisi has received international recognition for her contributions to understanding why age is the largest single risk factor for developing a panoply of diseases, ranging from neurodegeneration to cancer. Her highly acclaimed research integrates the genetic, environmental and evolutionary forces that result in aging and age-related diseases, and identifies pathways that can be modified to mitigate basic aging processes. 
+Dr. Campisi received a PhD in Biochemistry from the State University New York at Stony Brook and completed postdoctoral training at the Harvard Medical School. As an assistant professor at the Boston University Medical School, she became interested in the control of cellular senescence and its role in tumor suppression and aging. She joined the Lawrence Berkeley National Laboratory as a Senior Scientist in 1991. She established a second laboratory at the Buck Institute in 2002. At both institutions, she established a broad program to understand various aspects of aging, with an emphasis on the interface between cancer and aging. The Campisi laboratory has made several pioneering discoveries in these areas, and her research continues to challenge and alter existing paradigms. In recognition of the quality of her research and leadership in the field, she has received numerous awards, including two MERIT awards from the US National Institute on Aging, and awards from the AlliedSignal Corporation, Gerontological Society of America, American Federation for Aging Research, and, most recently, the Longevity prize from the IPSEN Foundation. She currently serves on numerous national and international editorial and advisory boards.
+
+---
+
+### <a name="luigi"></a> [Luigi Ferrucci](https://www.irp.nia.nih.gov/branches/irp/lferrucci.htm) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+
+<img align="right" title="Luigi Ferrucci" src="/public/images/members/luigi.png"><img/>
+Dr. Luigi Ferrucci is a geriatrician and an epidemiologist who conducts research on the causal pathways leading to progressive physical and cognitive decline in older persons. In September 2002, he became the Chief of the Longitudinal Studies Section at NIA and the Director of the Baltimore Longitudinal Study on Aging. Dr. Ferrucci received a Medical Degree and Board Certification in 1980, a Board Certification in Geriatrics in 1982 and Ph.D. in Biology and Pathophysiology of Aging in 1998 at the University of Florence, Italy. He spent a 2-year internship at the Intensive Care Unit of the Florence Institute of Gerontology and Geriatrics, and was for many years Associate Professor of Biology, Human Physiology and Statistics at the University of Florence. Between 1985 and 2002 he was Chief of Geriatric Rehabilitation at the Department of Geriatric Medicine and Director of the Laboratory of Clinical Epidemiology at the Italian National Institute of Aging. During the same period, he collaborated with the NIA Laboratory of Epidemiology, Demography, and Biometry where he spent several periods as Visiting Scientist. Dr. Ferrucci has made major contributions in the design of many epidemiological studies conducted in the U.S. and in Europe, including the European Longitudinal Study on Aging, the "ICare Dicomano Study," the AKEA study of Centenarians in Sardinia and the Women's Health and Aging Study. He was also the Principal Investigator of the InCHIANTI study, a longitudinal study conducted in the Chianti Geographical area (Tuscany, Italy) looking at risk factors for mobility disability in older persons. Dr. Ferrucci is currently refining the design of the BLSA to focus more on normal aging and the development of age-associated frailty. Dr. Ferrucci is Scientific Director, NIA since May 2011. 
+
+
+---
+
+### <a name="glymour"></a> [Maria Glymour](http://profiles.ucsf.edu/maria.glymour) - University of California, San Francisco (UCSF)
+
+<img align="right" title="Maria Glymour" src="/public/images/members/glymour.jpg"><img/>
+My research focuses on how social factors experienced across the lifecourse, from infancy to adulthood, influence cognitive function, dementia, stroke, and other health outcomes in old age. A separate theme of my research focuses on overcoming methodological challenges encountered in analyses of social determinants of health, and cognitive outcomes in particular. Many of these challenges are being addressed in the MELODEM (MEthods in LOngitudinal research on DEMentia) initiative, an international group of researchers focusing on analytic challenges in research on dementia and cognitive aging. MELODEM is organized into working groups on measurement, selection/survival, time-scale definitions, complex confounding, high-dimensional data. 
+
+I have advocated the use of causal directed acyclic graphs (DAGs) as a standard research tool to represent our causal hypotheses and help elucidate potential biases in proposed analyses. In other cases, the methodological problems require more analytical solutions that have been developed elsewhere in epidemiology or in other disciplines, but are rarely applied to these research questions. Instrumental variables analyses of natural or induced experiments are one promising example. Genetic variations have recently been advanced as possible instrumental variables to estimate the health effects of a wide range of phenotypes, an approach sometimes called “Mendelian Randomization.” Using genetic polymorphisms as instrumental variables could provide a very powerful tool for social epidemiology, but the inferences from such analyses rest on strong assumptions. Thus I am currently working with a team to explore approaches to evaluating the plausibility of those assumptions in applications for social epidemiology. 
+
+---
+
+### <a name="sarwar"></a> Nadeem Sarwar - Eisai Co., Ltd.
+
+Nadeem Sarwar is the Director of the Integrated Human Genomics (IHGx) Research Unit of Eisai. Eisai's IHGx Research Unit combines dedicated quantitative, wet-lab biology and chemistry expertise and resources within an autonomous and highly collaborative R&D innovation unit. IHGx focuses predominantly on neurodegenerative diseases, auto-immune diseases and cancer immunity, employing entrepreneurial and collaborative business models, to catalyze delivery of novel and targeted therapeutics from human genetics to patients.
+
+---
+
+### <a name="carulli"></a> [John Carulli](https://www.biogen-international.com/en/research-pipeline/meet-our-scientists/scientist-detail.carulli_john.html) - Biogen
+
+<img align="right" title="John Carulli" src="/public/images/members/carulli.jpg"><img/>
+My laboratory applies genetics and genome science to drug discovery and development. We integrate molecular and computational tools for drug pathway discovery, target validation and biomarker discovery. The team uses a range of tools in human genetics and genomics, including high-throughput gene expression, microarrays and next-generation sequencing. A focus of the team is applications of human genetics to drug target discovery and patient stratification. We seek to discover novel genetic associations with disease or drug response, and to unravel the biology of known and novel genetic variants. These studies increasingly rely on integrating genomic, transcriptomic and clinical data. By working closely with clinical researchers and computational biologists, we aim to translate basic research discoveries into new drug targets and biomarkers.
+
+---
+
+### <a name="irwin"></a> [John Irwin](http://irwinlab.compbio.ucsf.edu/) - University of California, San Francisco (UCSF)
+
+<img align="right" title="John Irwin" src="/public/images/members/irwin.jpg"><img/>
+John Irwin is Adjunct Associate Professor in the Department of Pharmaceutical Chemistry at the University of California San Francisco. John works on methods to discover new reagents for biological targets using target- and ligand-based methods. He applies these methods to various projects, and particiates in numerous collaborations. John develops the ZINC database of commercially available compounds for virtual screening, the DUDE database for benchmarking virtual screening methods, the DOCK Blaster family of products for web-based virtual screening, and the SEA method of comparing proteins by the ligands they bind. 
+
+---
+
+### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
+
+<img align="right" title="Michael Snyder" src="/public/images/members/snyder.jpg"><img/>
+Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the Director of the Center of Genomics and Personalized Medicine. Dr. Snyder received his Ph.D. training at the California Institute of Technology and carried out postdoctoral training at Stanford University. He is a leader in the field of functional genomics and proteomics, and one of the major participants of the ENCODE project. His laboratory study was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks. Seminal findings from the Snyder laboratory include the discovery that much more of the human genome is transcribed and contains regulatory information than was previously appreciated, and a high diversity of transcription factor binding occurs both between and within species. He has also combined different state-of–the-art “omics” technologies to perform the first longitudinal detailed integrative personal omics profile (iPOP) of person and used this to assess disease risk and monitor disease states for personalized medicine. He is a cofounder of several biotechnology companies, including Protometrix (now part of Life Tehcnologies), Affomix (now part of Illumina), Excelix, and Personalis, and he presently serves on the board of a number of companies.
 
 
 
