@@ -9,9 +9,13 @@ You have reached the website for the Longevity Genomics research project, a reso
 
 ### Project Summary
 
-Human longevity is heritable, and statistically and biologically compelling genetic associations with longevity and age-related traits have been identified.  The translation of these genetic associations into insights that can lead to pharmacological interventions designed to promote healthy aging requires an approach and infrastructure that integrates multiple genomic resources. 
+Human longevity is heritable, and statistically and biologically compelling genetic associations with longevity and age-related traits have been identified. The translation of these genetic associations into insights that can lead to pharmacological interventions designed to promote healthy aging requires an approach and infrastructure that integrates multiple genomic resources. 
 
-To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded research project]({{site.baseurl}}/funding/) with **two primary goals**. 
+To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/funding/). Our overall approach, as described in more detail on the [Projects]({{site.baseurl}}/projects/) page, is to identify potential longevity-associated genes (LAGs) from multiple sources of information, followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
+
+![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
+
+### Project Goals 
 
 1. Create a research resource that is publicly available through this website to enable scientists to develop translational strategies to promote human longevity. Our publicly-available infrastructure will include the following.
   + **Software tools** in the form of R packages and analysis walkthroughs in the form of vignettes that will enable researchers to adopt and extend our analytical methods. 
@@ -20,20 +24,6 @@ To address this challenge, we have established the [Longevity Genomics](http://w
   + Armed with our data resources and software tools, outside researchers will be able to reproduce our results and extend our approaches to their own datasets. For those who prefer to browse results, our results will be available as [downloadable files]({{site.baseurl}}/downloads/) and through web-based solutions such as [Shiny](http://shiny.rstudio.com/) and [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html), where appropriate. 
 
 2. Develop translational strategies to promote human longevity using our research resource. Our translational strategies are based on the identification of modifiable factors that can be pharmacologically targeted and that are causally related to healthy human aging. Together with our Research Planning Committee, we will design pilot studies to test the feasibility of prioritized translational strategies and we will provide small funding opportunities for scientists to perform these pilot studies. 
-
-### Approach
-
-A central theme in our project is to develop insights relating molecular and physiologic factors that can be pharmacologically manipulated to promote healthy aging based on hypotheses rooted in genetic association studies of longevity. To develop causal associations with human longevity, we employ a Mendelian Randomization approach.
-
-The Mendelian Randomization (MR) approach has been described in Davey Smith G, Ebrahim S. 'Mendelian randomization': can genetic epidemiology contribute to understanding environmental determinants of disease? Int J Epidemiol. 2003; 32:1-22. The appeal of MR is that this approach can be used to identify causal associations between a potentially modifiable risk factor and an outcome. A major challenge for observational studies is to identify causal associations, which is due, at least in part, to the influence of confounding factors. A confounder is a third factor that is a common cause of a risk factor and the outcome.
-
-![confounded](public/images/confounded.svg){: .center-image }
-
-MR is an approach that is designed to largely avoid the influence of confounders by employing genetic variants associated with the risk factor of interest. Genetic variants are determined at conception, and as such, are not subject to the effects of confounders. In other words, very few potential confounders can alter a person's DNA in all of the tissues relevant to the disease under study. The term Mendelian Randomization refers to the fact that the random assortment of a risk-factor associated allele at conception is analogous to the random assignment of treatment in a randomized controlled trial. Genetic predictors of risk factors can be used as instrumental variables to approximate a lifetime exposure to a risk factor of interest, e.g., increased HDL levels or increased expression of a particular gene, and these genetic instrumental variables (gIVs) can then be used to estimate the unconfounded association between the risk factor and the outcome. 
-
-![MR](public/images/MR.svg){: .center-image }
-
-Details of our projects and our use of MR can be found on the [Projects]({{site.baseurl}}/projects/) page.
 
 ### Updates
 
