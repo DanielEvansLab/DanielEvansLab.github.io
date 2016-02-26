@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project3 Mendelian Randomization
+title: Project_3 Mendelian Randomization
 ---
 
 
