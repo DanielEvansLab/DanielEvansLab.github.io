@@ -40,7 +40,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Atul Butte]({{site.baseurl}}/members#butte) - University of California, San Francisco (UCSF)
 * [Manolis Kellis]({{site.baseurl}}/members#kellis) - Massachusetts Institute of Technology (MIT)
 * [Stuart Lipton]({{site.baseurl}}/members#lipton) - University of California, San Diego (UCSD)
-* Dan Tagle - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
+* [Dan Tagle]({{site.baseurl}}/members#tagle) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
 * Judith Campisi - Buck Institute for Research on Aging
 * Luigi Ferrucci - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
@@ -49,6 +49,7 @@ Longevity Genomics Research Group members include experts in human and model org
 * Nadeem Sarwar - Eisai Co., Ltd.
 * John Carulli - Biogen
 * John Irwin - University of California, San Francisco (UCSF)
+* Michael Snyder - Stanford University
 
 <br>
 
@@ -213,6 +214,16 @@ Manolis Kellis is an Associate Professor of Computer Science at MIT, a member of
 <img align="right" title="Stuart Lipton" src="/public/images/members/lipton.jpg"><img/>
 The Lipton laboratory studies molecular mechanisms of neurodegenerative diseases and stroke, including the role of excessive stimulation of ion channels and intracellular signaling pathways in nerve cells. Among the laboratory's accomplishments and ongoing activities are (i) development of the first glutamate receptor/channel antagonist drug (Memantine/Namenda®), representing the most recent therapeutic to to be clinically approved for the treatment of Alzheimer's disease by the European Union and the FDA, (ii) discovery witih colleagues of the posttranslational protein modification termed S-nitrosylation (reaction of NO with a critical thiol group to control protein function), (iii) characterization of signaling events leading to neuronal injury and apoptosis in AIDS, and (iv) discovery and cloning of the transcription factor MEF2C that programs Embryonic Stem Cells to become nerve cells in the brain and whose knock down in the brain of rodents and humans causes Autism Spectrum Disorders (ASD). These studies have led to the development of the first neuroprotective drugs to be administered successfully to humans to combat various neurodegenerative and vascular diseases of the brain.
 
+---
+
+### <a name="tagle"></a> [Dan Tagle](https://ncats.nih.gov/staff/tagled) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
+
+<img align="right" title="Dan Tagle" src="/public/images/members/tagle.jpg"><img/>
+Dan Tagle is associate director for special initiatives at NCATS. He also recently served as acting director of the NCATS Office of Grants Management and Scientific Review and currently serves as executive secretary to the NCATS Advisory Council and Cures Acceleration Network Review Board. Prior to joining NCATS, Tagle was a program director for neurogenetics at the National Institute of Neurological Disorders and Stroke (NINDS), where he was involved in developing programs concerning genomics-based approaches for basic and translational research in inherited brain disorders.
+
+Prior to joining NINDS in 2001, Tagle was an investigator and section head of molecular neurogenetics at the National Human Genome Research Institute and has been involved in the highly collaborative effort toward the positional cloning of genes for Huntington’s disease, ataxia-telangiectasia and Niemann-Pick disease type C. He has served on numerous committees and advisory boards, including the editorial boards of the journals Gene and the International Journal of Biotechnology.
+
+Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State University School of Medicine in 1990. He was an NIH National Research Service Award postdoctoral fellow in human genetics in the laboratory of Francis S. Collins, M.D., Ph.D., at the University of Michigan. Tagle has authored more than 150 scientific publications and has garnered numerous awards and patents.
 
 
 
