@@ -53,7 +53,7 @@ Longevity Genomics Research Group members include experts in human and model org
 
 ## More About Members
 
-### <a name="stevecummings"></a> PI: [Steve Cummings](http://www.cpmc.org/professionals/research/programs/science/cummings.html) - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="stevecummings"></a> PI: [Steve Cummings](http://www.cpmc.org/professionals/research/programs/science/cummings.html){:target="_blank"} - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Steve Cummings" src="/public/images/members/steve_cummings.png"><img/>
 Dr. Steven R. Cummings is Director of the SF Coordinating Center, a joint research operation of the California Pacific Medical Center Research Institute and the University of California Department of Epidemiology and Biostatistics. Dr Cummings is an emeritus Professor of Medicine, Epidemiology and Biostatistics, and Associate Chair for Clinical Research at the University of California, San Francisco. 
@@ -66,7 +66,7 @@ With support of the Daniel and Phyllis Da Costa Fund, Dr. Cummings is collaborat
 
 --- 
 
-### <a name="nikschork"></a> PI: [Nik Schork](http://www.jcvi.org/cms/about/bios/nschork/) - J. Craig Venter Institute (JCVI)
+### <a name="nikschork"></a> PI: [Nik Schork](http://www.jcvi.org/cms/about/bios/nschork/){:target="_blank"} - J. Craig Venter Institute (JCVI)
 
 <img align="right" title="Nik Schork" src="/public/images/members/nik_schork.png"><img/>
 Nicholas J. Schork is a Professor and Director of Human Biology at the J. Craig
@@ -89,7 +89,7 @@ genome.
 
 --- 
 
-### <a name="simonmelov"></a> PI: [Simon Melov](http://www.buckinstitute.org/melovLab) - Buck Institute for Research on Aging
+### <a name="simonmelov"></a> PI: [Simon Melov](http://www.buckinstitute.org/melovLab){:target="_blank"} - Buck Institute for Research on Aging
 
 <img align="right" title="Simon Melov" src="/public/images/members/simon_melov.png"><img/>
 Simon Melov, who heads the Institute’s Genomic Core, explores the role of the
@@ -110,7 +110,7 @@ worm C. elegans.
 
 --- 
 
-### <a name="nalini"></a> [Nalini Raghavachari](https://www.nia.nih.gov/about/staff/dgcg/raghavachari-nalini) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+### <a name="nalini"></a> [Nalini Raghavachari](https://www.nia.nih.gov/about/staff/dgcg/raghavachari-nalini){:target="_blank"} - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
 <img align="right" title="Nalini Raghavachari" src="/public/images/members/nalini.jpg"><img/>
 Nalini Raghavachari joined NIA’s Division of Geriatrics and Clinical Gerontology in 2013 as a program officer and is currently focusing on building research programs on the genetics of exceptional longevity, healthy aging, and translational genomics.
@@ -121,14 +121,14 @@ Dr. Raghavachari received her Ph.D. in biochemistry from the University of Madra
 
 ---
 
-### <a name="danevans"></a> Project Director: [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html) - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="danevans"></a> Project Director: [Dan Evans](http://www.cpmc.org/professionals/research/programs/science/evans.html){:target="_blank"} - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Dan Evans" src="/public/images/members/dan_evans.png"><img/>
 Dan Evans is an Associate Scientist at California Pacific Medical Center Research Institute (CPMCRI). Dan received a PhD from the Department of Molecular and Cell Biology and a MPH from the School of Public Health from the University of California at Berkeley. The focus of his research is to identify and characterize genetic factors associated with age-related diseases. He takes genome-wide approaches and integrate results from these approaches with functional studies to reveal insights into the biological mechanisms of human disease. He participates in large-scale GWAS meta-analyses by leading the meta-analysis and/or by contributing results from the Health ABC study, the MrOS study, or the SOF. To perform sophisticated genetic analyses, he has led the development of a high-performance computing cluster at his institution. 
 
 --- 
 
-### <a name="tranah"></a> [Greg Tranah](http://www.cpmc.org/professionals/research/programs/science/tranah.html) - California Pacific Medical Center Research Institute (CPMCRI)
+### <a name="tranah"></a> [Greg Tranah](http://www.cpmc.org/professionals/research/programs/science/tranah.html){:target="_blank"} - California Pacific Medical Center Research Institute (CPMCRI)
 
 <img align="right" title="Greg Tranah" src="/public/images/members/Tranah.JPG"><img/>
 Dr. Tranah is a Scientist at California Pacific Medical Center Research Institute (CPMCRI). 
@@ -138,33 +138,33 @@ Dr. Tranah leads deep sequencing studies to identify inherited and acquired mito
 
 ---
 
-### <a name="murabito"></a> [Joanne Murabito](https://www.framinghamheartstudy.org/investigators/joanne-murabito.php) - Boston University School of Medicine
+### <a name="murabito"></a> [Joanne Murabito](https://www.framinghamheartstudy.org/investigators/joanne-murabito.php){:target="_blank"} - Boston University School of Medicine
 <img align="right" title="Joanne Murabito" src="/public/images/members/murabito.jpg"><img/>
 Dr. Joanne Murabito graduated from the University of Rochester in 1981 and received her medical degree from Mount Sinai School of Medicine in New York in 1985. She completed a residency in internal medicine at Boston University Hospital followed by a research fellowship at the Framingham Heart Study and a master's degree in epidemiology at the Harvard School of Public Health. Dr. Murabito is Director of the Clinic at the Framingham Heart Study and she is an Associate Professor of Medicine at Boston University School of Medicine. Her research interests include the epidemiology and genetics of longevity, healthy aging, reproductive aging and peripheral artery disease. Dr Murabito is a member of the Genetics of Longevity Consortium sponsored by NIA. She continues to practice primary care at Boston Medical Center.
 
 ---
 
-### <a name="lunetta"></a> [Kathryn Lunetta](http://www.bu.edu/sph/profile/kathryn-lunetta/) - Boston University School of Public Health
+### <a name="lunetta"></a> [Kathryn Lunetta](http://www.bu.edu/sph/profile/kathryn-lunetta/){:target="_blank"} - Boston University School of Public Health
 <img align="right" title="Kathryn Lunetta" src="/public/images/members/lunetta.jpg"><img/>
 Kathryn L. Lunetta, Ph.D. joined the Department of Biostatistics in the fall of 2004 as an Associate Professor. Prior to her arrival, she held positions in the biotechnology industry, and was on the faculty in the Biostatistics department at the Harvard School of Public Health and Dana-Farber Cancer Institute. Dr. Lunetta’s research focuses on statistical problems and study design and analysis issues in human genetics, particularly in the mapping of complex genetic diseases. Dr. Lunetta collaborates as a statistical geneticist on several projects studying the genetic components of complex traits such as Huntington Disease, cardiovascular disease, and successful aging/longevity.
 
 ---
 
-### <a name="kiel"></a> [Douglas Kiel](http://www.instituteforagingresearch.org/scientists/team-profiles-and-bios/douglas-p-kiel-md-mph) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
+### <a name="kiel"></a> [Douglas Kiel](http://www.instituteforagingresearch.org/scientists/team-profiles-and-bios/douglas-p-kiel-md-mph){:target="_blank"} - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School
 
 <img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
 Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
 
 ---
 
-### <a name="johnson"></a> [Andrew Johnson](http://www.nhlbi.nih.gov/research/intramural/researchers/pi/johnson-andrew) - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
+### <a name="johnson"></a> [Andrew Johnson](http://www.nhlbi.nih.gov/research/intramural/researchers/pi/johnson-andrew){:target="_blank"} - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
 <img align="right" title="Andrew Johnson" src="/public/images/members/johnson.jpg"><img/>
-Andrew Johnson earned a B.S. in vertebrate physiology from the Pennsylvania State University in 1998. He subsequently worked on gene regulatory research in C. elegans and neuroelectrophysiology in rodents before entering graduate school in 2003. He earned a Ph.D. in biomedical sciences from Ohio State University in 2007 with dual emphases in bioinformatics and pharmacogenomics. He came to the NIH for post-doctoral training in 2007 and became a tenure track investigator in 2012. Dr. Johnson has been nominated for and received numerous awards including the NHLBI Lenfant Fellowship and Genome Technology’s Young Investigator Award, and was elected as a Fellow of the American Heart Association. He has published more than 100 papers and has served as a reviewer for more than 20 journals. Dr. Johnson is active on several committees of the Functional Genomics and Translational Biology Council of the American Heart Association. He is also a member of the American Society for Human Genetics and the International Society for Computational Biology. Dr. Johnson is interested in the pharmacogenetics of anti-platelet treatments and resulting CVD outcomes. His laboratory applies population-scale approaches to the problem including genetic studies, collaboration with clinician-scientists, studies of gene expression variability in human tissues, and bioinformatics and systems biology approaches. His group makes particular use of the Framingham Heart Study and the rich amount of epidemiologic and genetic data it has accumulated over the years. Additionally, the Johnson laboratory creates and applies cutting edge genomic and bioinformatics resources. To date these resources include [SNAP](http://www.broadinstitute.org/mpg/snap/), a fast human linkage disequilibrium query and annotation interface for worldwide population genetic samples; and [GRASP](http://grasp.nhlbi.nih.gov/Overview.aspx), one of the largest and deepest databases of human genetic associations.
+Andrew Johnson earned a B.S. in vertebrate physiology from the Pennsylvania State University in 1998. He subsequently worked on gene regulatory research in C. elegans and neuroelectrophysiology in rodents before entering graduate school in 2003. He earned a Ph.D. in biomedical sciences from Ohio State University in 2007 with dual emphases in bioinformatics and pharmacogenomics. He came to the NIH for post-doctoral training in 2007 and became a tenure track investigator in 2012. Dr. Johnson has been nominated for and received numerous awards including the NHLBI Lenfant Fellowship and Genome Technology’s Young Investigator Award, and was elected as a Fellow of the American Heart Association. He has published more than 100 papers and has served as a reviewer for more than 20 journals. Dr. Johnson is active on several committees of the Functional Genomics and Translational Biology Council of the American Heart Association. He is also a member of the American Society for Human Genetics and the International Society for Computational Biology. Dr. Johnson is interested in the pharmacogenetics of anti-platelet treatments and resulting CVD outcomes. His laboratory applies population-scale approaches to the problem including genetic studies, collaboration with clinician-scientists, studies of gene expression variability in human tissues, and bioinformatics and systems biology approaches. His group makes particular use of the Framingham Heart Study and the rich amount of epidemiologic and genetic data it has accumulated over the years. Additionally, the Johnson laboratory creates and applies cutting edge genomic and bioinformatics resources. To date these resources include [SNAP](http://www.broadinstitute.org/mpg/snap/){:target="_blank"}, a fast human linkage disequilibrium query and annotation interface for worldwide population genetic samples; and [GRASP](http://grasp.nhlbi.nih.gov/Overview.aspx){:target="_blank"}, one of the largest and deepest databases of human genetic associations.
 
 ---
 
-### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/) - University of California, Riverside (UCR)
+### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/){:target="_blank"} - University of California, Riverside (UCR)
 
 <img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
 Tyler Backman is a graduate student at the Bioengineering program at the
@@ -176,7 +176,7 @@ small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
-### <a name="thomasgirke"></a> [Thomas Girke](http://girke.bioinformatics.ucr.edu/) - University of California, Riverside (UCR)
+### <a name="thomasgirke"></a> [Thomas Girke](http://girke.bioinformatics.ucr.edu/){:target="_blank"} - University of California, Riverside (UCR)
 
 <img align="right" title="Thomas Girke" src="/public/images/members/thomas_girke.png"><img/>
 Thomas Girke is a Professor of Bioinformatics at the University California,
@@ -198,7 +198,7 @@ Bioconductor.
 
 ---
 
-### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab) - Buck Institute for Research on Aging
+### <a name="campisi"></a> [Judith Campisi](https://www.buckinstitute.org/campisiLab){:target="_blank"} - Buck Institute for Research on Aging
 
 <img align="right" title="Judith Campisi" src="/public/images/members/campisi.png"><img/>
 Judith Campisi has received international recognition for her contributions to understanding why age is the largest single risk factor for developing a panoply of diseases, ranging from neurodegeneration to cancer. Her highly acclaimed research integrates the genetic, environmental and evolutionary forces that result in aging and age-related diseases, and identifies pathways that can be modified to mitigate basic aging processes. 
@@ -206,34 +206,34 @@ Dr. Campisi received a PhD in Biochemistry from the State University New York at
 
 ---
 
-### <a name="luigi"></a> [Luigi Ferrucci](https://www.irp.nia.nih.gov/branches/irp/lferrucci.htm) - National Institute on Aging (NIA)/National Institutes of Health (NIH)
+### <a name="luigi"></a> [Luigi Ferrucci](https://www.irp.nia.nih.gov/branches/irp/lferrucci.htm){:target="_blank"} - National Institute on Aging (NIA)/National Institutes of Health (NIH)
 
 <img align="right" title="Luigi Ferrucci" src="/public/images/members/luigi.png"><img/>
 Dr. Luigi Ferrucci is a geriatrician and an epidemiologist who conducts research on the causal pathways leading to progressive physical and cognitive decline in older persons. In September 2002, he became the Chief of the Longitudinal Studies Section at NIA and the Director of the Baltimore Longitudinal Study on Aging. Dr. Ferrucci received a Medical Degree and Board Certification in 1980, a Board Certification in Geriatrics in 1982 and Ph.D. in Biology and Pathophysiology of Aging in 1998 at the University of Florence, Italy. He spent a 2-year internship at the Intensive Care Unit of the Florence Institute of Gerontology and Geriatrics, and was for many years Associate Professor of Biology, Human Physiology and Statistics at the University of Florence. Between 1985 and 2002 he was Chief of Geriatric Rehabilitation at the Department of Geriatric Medicine and Director of the Laboratory of Clinical Epidemiology at the Italian National Institute of Aging. During the same period, he collaborated with the NIA Laboratory of Epidemiology, Demography, and Biometry where he spent several periods as Visiting Scientist. Dr. Ferrucci has made major contributions in the design of many epidemiological studies conducted in the U.S. and in Europe, including the European Longitudinal Study on Aging, the "ICare Dicomano Study," the AKEA study of Centenarians in Sardinia and the Women's Health and Aging Study. He was also the Principal Investigator of the InCHIANTI study, a longitudinal study conducted in the Chianti Geographical area (Tuscany, Italy) looking at risk factors for mobility disability in older persons. Dr. Ferrucci is currently refining the design of the BLSA to focus more on normal aging and the development of age-associated frailty. Dr. Ferrucci is Scientific Director, NIA since May 2011. 
 
 ---
 
-### <a name="butte"></a> [Atul Butte](http://profiles.ucsf.edu/atul.butte) - University of California, San Francisco (UCSF)
+### <a name="butte"></a> [Atul Butte](http://profiles.ucsf.edu/atul.butte){:target="_blank"} - University of California, San Francisco (UCSF)
 
 <img align="right" title="Atul Butte" src="/public/images/members/butte.jpeg"><img/>
 Atul Butte, MD, PhD is the Director of the new Institute of Computational Health Sciences (ICHS) at the University of California, San Francisco, and a Professor of Pediatrics. Dr. Butte trained in Computer Science at Brown University, worked as a software engineer at Apple and Microsoft, received his MD at Brown University, trained in Pediatrics and Pediatric Endocrinology at Children's Hospital Boston, then received his PhD in Health Sciences and Technology from Harvard Medical School and MIT.  Dr. Butte then spent 10 years at Stanford, culminating in his role as Chief of the Division of Systems Medicine at Stanford.  Dr. Butte is also a founder of three investor-backed companies: Personalis, providing clinical interpretation of whole genome sequences, Carmenta, discovering diagnostics for pregnancy complications, and NuMedii, finding new uses for drugs through open molecular data. Dr. Butte's research laboratory builds and applies tools that convert more than 400 trillion points of molecular, clinical, and epidemiological data – measured by researchers and clinicians over the past decade and now colloquially known as “big data” – into diagnostics, therapeutics, and new insights into disease. Examples of this method includes work on cancer drug discovery published in the Proceedings of the National Academy of Science (2000), on type 2 diabetes published in the Proceedings of the National Academy of Science (2003 and 2012), on fat cell formation published in Nature Cell Biology (2005), on obesity in Bioinformatics (2007), and in transplantation published in Proceedings of the National Academy of Science (2009).  
 
 ---
 
-### <a name="kellis"></a> [Manolis Kellis](http://web.mit.edu/manoli/) - Massachusetts Institute of Technology (MIT)
+### <a name="kellis"></a> [Manolis Kellis](http://web.mit.edu/manoli/){:target="_blank"} - Massachusetts Institute of Technology (MIT)
 
 <img align="right" title="Manolis Kellis" src="/public/images/members/kellis.jpg"><img/>
 Manolis Kellis is an Associate Professor of Computer Science at MIT, a member of the Computer Science and Artificial Intelligence Laboratory and of the Broad Institute of MIT and Harvard, where he directs the MIT Computational Biology Group (compbio.mit.edu). His group has recently been funded to lead the integrative analysis efforts of the modENCODE project for Drosophila melanogaster, and also for integrative analysis of the NIH Epigenome Roadmap Project. He has received the US Presidential Early Career Award in Science and Engineering (PECASE) for his NIH R01 work in Computational Genomics, the NSF CAREER award, the Alfred P. Sloan Fellowship, the Karl Van Tassel chair in EECS, the Distinguished Alumnus 1964 chair, and the Ruth and Joel Spira Teaching Award in EECS. He was recognized for his research in genomics as one of the top young innovators under the age of 35 by Technology Review Magazine, one of the principal investigators of the future by Genome Technology magazine, and one of three young scientists representing the next generation in biotechnology by the Boston Museum of Science. He obtained his Ph.D. from MIT, where he received the Sprowls award for the best doctorate thesis in computer science, and the first Paris Kanellakis graduate fellowship. Prior to computational biology, he worked on artificial intelligence, sketch and image recognition, robotics, and computational geometry, at MIT and at the Xerox Palo Alto Research Center. He lived in Greece and France before moving to the US.
 
 ---
 
-### <a name="lipton"></a> [Stuart Lipton](http://biomedsci.ucsd.edu/faculty/faculty_descrip.aspx?id=211) - University of California, San Diego (UCSD)
+### <a name="lipton"></a> [Stuart Lipton](http://biomedsci.ucsd.edu/faculty/faculty_descrip.aspx?id=211){:target="_blank"} - University of California, San Diego (UCSD)
 <img align="right" title="Stuart Lipton" src="/public/images/members/lipton.jpg"><img/>
 The Lipton laboratory studies molecular mechanisms of neurodegenerative diseases and stroke, including the role of excessive stimulation of ion channels and intracellular signaling pathways in nerve cells. Among the laboratory's accomplishments and ongoing activities are (i) development of the first glutamate receptor/channel antagonist drug (Memantine/Namenda®), representing the most recent therapeutic to to be clinically approved for the treatment of Alzheimer's disease by the European Union and the FDA, (ii) discovery witih colleagues of the posttranslational protein modification termed S-nitrosylation (reaction of NO with a critical thiol group to control protein function), (iii) characterization of signaling events leading to neuronal injury and apoptosis in AIDS, and (iv) discovery and cloning of the transcription factor MEF2C that programs Embryonic Stem Cells to become nerve cells in the brain and whose knock down in the brain of rodents and humans causes Autism Spectrum Disorders (ASD). These studies have led to the development of the first neuroprotective drugs to be administered successfully to humans to combat various neurodegenerative and vascular diseases of the brain.
 
 ---
 
-### <a name="tagle"></a> [Dan Tagle](https://ncats.nih.gov/staff/tagled) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
+### <a name="tagle"></a> [Dan Tagle](https://ncats.nih.gov/staff/tagled){:target="_blank"} - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
 
 <img align="right" title="Dan Tagle" src="/public/images/members/tagle.jpg"><img/>
 Dan Tagle is associate director for special initiatives at NCATS. He also recently served as acting director of the NCATS Office of Grants Management and Scientific Review and currently serves as executive secretary to the NCATS Advisory Council and Cures Acceleration Network Review Board. Prior to joining NCATS, Tagle was a program director for neurogenetics at the National Institute of Neurological Disorders and Stroke (NINDS), where he was involved in developing programs concerning genomics-based approaches for basic and translational research in inherited brain disorders.
@@ -248,14 +248,14 @@ Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State Univ
 
 ---
 
-### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/) - Stanford University
+### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/){:target="_blank"} - Stanford University
 
 <img align="right" title="Michael Snyder" src="/public/images/members/snyder.jpg"><img/>
 Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the Director of the Center of Genomics and Personalized Medicine. Dr. Snyder received his Ph.D. training at the California Institute of Technology and carried out postdoctoral training at Stanford University. He is a leader in the field of functional genomics and proteomics, and one of the major participants of the ENCODE project. His laboratory study was the first to perform a large-scale functional genomics project in any organism, and has developed many technologies in genomics and proteomics. These including the development of proteome chips, high resolution tiling arrays for the entire human genome, methods for global mapping of transcription factor binding sites (ChIP-chip now replaced by ChIP-seq), paired end sequencing for mapping of structural variation in eukaryotes, de novo genome sequencing of genomes using high throughput technologies and RNA-Seq. These technologies have been used for characterizing genomes, proteomes and regulatory networks. Seminal findings from the Snyder laboratory include the discovery that much more of the human genome is transcribed and contains regulatory information than was previously appreciated, and a high diversity of transcription factor binding occurs both between and within species. He has also combined different state-of–the-art “omics” technologies to perform the first longitudinal detailed integrative personal omics profile (iPOP) of person and used this to assess disease risk and monitor disease states for personalized medicine. He is a cofounder of several biotechnology companies, including Protometrix (now part of Life Technologies), Affomix (now part of Illumina), Excelix, and Personalis, and he presently serves on the board of a number of companies.
 
 ---
 
-### <a name="glymour"></a> [Maria Glymour](http://profiles.ucsf.edu/maria.glymour) - University of California, San Francisco (UCSF)
+### <a name="glymour"></a> [Maria Glymour](http://profiles.ucsf.edu/maria.glymour){:target="_blank"} - University of California, San Francisco (UCSF)
 
 <img align="right" title="Maria Glymour" src="/public/images/members/glymour.jpg"><img/>
 My research focuses on how social factors experienced across the lifecourse, from infancy to adulthood, influence cognitive function, dementia, stroke, and other health outcomes in old age. A separate theme of my research focuses on overcoming methodological challenges encountered in analyses of social determinants of health, and cognitive outcomes in particular. Many of these challenges are being addressed in the MELODEM (MEthods in LOngitudinal research on DEMentia) initiative, an international group of researchers focusing on analytic challenges in research on dementia and cognitive aging. MELODEM is organized into working groups on measurement, selection/survival, time-scale definitions, complex confounding, high-dimensional data. 
@@ -270,14 +270,14 @@ Nadeem Sarwar is the Director of the Integrated Human Genomics (IHGx) Research U
 
 ---
 
-### <a name="carulli"></a> [John Carulli](https://www.biogen-international.com/en/research-pipeline/meet-our-scientists/scientist-detail.carulli_john.html) - Biogen
+### <a name="carulli"></a> [John Carulli](https://www.biogen-international.com/en/research-pipeline/meet-our-scientists/scientist-detail.carulli_john.html){:target="_blank"} - Biogen
 
 <img align="right" title="John Carulli" src="/public/images/members/carulli.jpg"><img/>
 My laboratory applies genetics and genome science to drug discovery and development. We integrate molecular and computational tools for drug pathway discovery, target validation and biomarker discovery. The team uses a range of tools in human genetics and genomics, including high-throughput gene expression, microarrays and next-generation sequencing. A focus of the team is applications of human genetics to drug target discovery and patient stratification. We seek to discover novel genetic associations with disease or drug response, and to unravel the biology of known and novel genetic variants. These studies increasingly rely on integrating genomic, transcriptomic and clinical data. By working closely with clinical researchers and computational biologists, we aim to translate basic research discoveries into new drug targets and biomarkers.
 
 ---
 
-### <a name="irwin"></a> [John Irwin](http://irwinlab.compbio.ucsf.edu/) - University of California, San Francisco (UCSF)
+### <a name="irwin"></a> [John Irwin](http://irwinlab.compbio.ucsf.edu/){:target="_blank"} - University of California, San Francisco (UCSF)
 
 <img align="right" title="John Irwin" src="/public/images/members/irwin.jpg"><img/>
 John Irwin is Adjunct Associate Professor in the Department of Pharmaceutical Chemistry at the University of California San Francisco. John works on methods to discover new reagents for biological targets using target- and ligand-based methods. He applies these methods to various projects, and particiates in numerous collaborations. John develops the ZINC database of commercially available compounds for virtual screening, the DUDE database for benchmarking virtual screening methods, the DOCK Blaster family of products for web-based virtual screening, and the SEA method of comparing proteins by the ligands they bind. 

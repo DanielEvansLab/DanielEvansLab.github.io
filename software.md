@@ -10,7 +10,7 @@ group: navigation
 ## Developed by this project
 
 * [longevityTools (R Package on GitHub)](https://github.com/tgirke/longevityTools){:target="_blank"}
-* [longevityTools website](http://girke.bioinformatics.ucr.edu/longevityTools/mydoc/home.html)
+* [longevityTools website](http://girke.bioinformatics.ucr.edu/longevityTools/mydoc/home.html){:target="_blank"}
 
 ## Used/extended by this project
 
