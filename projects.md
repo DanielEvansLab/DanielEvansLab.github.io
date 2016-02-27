@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview of projects
-header: Projects
+title: Project overview
+header: Project overview
 group: navigation
 ---
 
@@ -11,7 +11,7 @@ Our overall approach is to employ multiple approaches to identify potential long
 
 The flowchart below describes the steps we take to move from longevity-associated variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization Our projects are denoted in green.
 
-![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
+<object data="/public/images/overallFlowchart.svg"></object>
 
 * **Identification of longevity-associated variants (LAVs) from GWAS of longevity**
 
