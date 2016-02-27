@@ -13,7 +13,7 @@ Statistically and biologically compelling genetic associations with human longev
 
 To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Our overall approach, as described in more detail on the [Projects]({{site.baseurl}}/projects/) page, is to identify potential longevity-associated genes (LAGs) from multiple sources of information, followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
 
-![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
+<object data="/public/images/overallFlowchart.svg"></object>
 
 ### Project Goals 
 
