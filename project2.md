@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 2 Functional annotation based gene prioritization
+title: project 2 Functional annotation based gene prioritization
 ---
 
 
