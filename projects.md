@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Overview of projects
 header: Projects
 group: navigation
 ---
