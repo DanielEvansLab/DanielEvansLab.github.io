@@ -4,7 +4,7 @@ title: Project 3 Mendelian Randomization
 ---
 
 
-### Rationale
+### Background
 
 A central theme in our project is to develop insights relating molecular and physiologic factors that can be pharmacologically manipulated to promote healthy aging based on hypotheses rooted in genetic association studies of longevity. To develop causal associations with human longevity, we employ a Mendelian Randomization approach.
 
@@ -16,16 +16,13 @@ MR is an approach that is designed to largely avoid the influence of confounders
 
 ![MR](/public/images/MR.svg){: .center-image }
 
-
 ### Approach
 
 ### Data
 
+
 We will also share our phenotype harmonization approaches that will enable us and others to analyze meaningful human aging traits. These resources will be provided directly through this website or through links to external resources. We will direct users to external resources that store data collected from longitudinal cohort studies with genome-wide genotype and sequence data. 
 
-### Software
-
-### Example results
 
 
 

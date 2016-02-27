@@ -7,17 +7,17 @@ group: navigation
 
 ## Overview
 
-> An overview of the Longevity Genomics project is given on the [landing
-page]({{site.baseurl}}/) of this web site. This page provides descriptions 
-of the individual projects. 
-
 Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
 
 ![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
 
-* **Identification of longevity-associated variants (LAVs)**
+* **Identification of longevity-associated variants (LAVs) from GWAS of longevity**
 
-LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. We will contribute to LAV identification by searching for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
+LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. Our meta-analysis of the two largest GWAS meta-analyses of reaching age 90 represents the largest GWAS meta-analysis of longevity to-date. 
+
+* **Identification of LAVs from pleiotropy analysis**
+
+To further contribute to LAV identification, we will search for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
 
 * **LAG identification from longevity-associated variants (LAVs)**
 
