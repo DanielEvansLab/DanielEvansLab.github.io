@@ -11,7 +11,7 @@ You have reached the website for the Longevity Genomics research project, a reso
 
 Statistically and biologically compelling genetic associations with human longevity and age-related traits have been identified. The translation of these genetic associations into insights that can lead to pharmacological interventions designed to promote healthy aging requires an approach and infrastructure that integrates multiple genomic resources. 
 
-To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/funding/). Our overall approach, as described in more detail on the [Projects]({{site.baseurl}}/projects/) page, is to identify potential longevity-associated genes (LAGs) from multiple sources of information, followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
+To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Our overall approach, as described in more detail on the [Projects]({{site.baseurl}}/projects/) page, is to identify potential longevity-associated genes (LAGs) from multiple sources of information, followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
 
 ![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
 
@@ -29,7 +29,7 @@ To address this challenge, we have established the [Longevity Genomics](http://w
 
 Users should be aware that this site is still a work in progress due to the early stage of the project. Many components of this site are under heavy development. In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. 
 
-### Funding
+### <a name="funding"></a> Funding
 
 This project is funded by NIH grant U24AG051129 awarded by the National Institute on Aging (NIA).
 
