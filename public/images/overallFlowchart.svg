@@ -479,14 +479,17 @@
          x="424.23169"
          y="912.16315">LAG eSNPs</tspan></text>
     <a
-       id="a4426">
+       id="a4426"
+       style="fill:#008000"
+       xlink:href="http://www.longevitygenomics.org/projects1"
+       target="http://www.longevitygenomics.org/projects1">
       <rect
          y="665.07098"
          x="13.56213"
          height="40.670193"
          width="81.340393"
          id="rect9035"
-         style="fill:#0000ff;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#008000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </a>
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -742,21 +745,26 @@
        d="m 474.95045,900.77326 68.89556,0"
        id="path13303"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="52.518837"
-       y="680.93585"
-       id="text4401"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4403"
-         x="54.508583"
-         y="680.93585">Longevity </tspan><tspan
-         sodipodi:role="line"
+    <a
+       id="a4784"
+       xlink:href="http://www.longevitygenomics.org/projects1"
+       target="http://www.longevitygenomics.org/projects1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4401"
+         y="680.93585"
          x="52.518837"
-         y="696.56085"
-         id="tspan4405">GWAS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="680.93585"
+           x="54.508583"
+           id="tspan4403"
+           sodipodi:role="line">Longevity </tspan><tspan
+           id="tspan4405"
+           y="696.56085"
+           x="52.518837"
+           sodipodi:role="line">GWAS</tspan></text>
+    </a>
     <a
        id="a4441"
        xlink:href="http://www.longevitygenomics.org/projects4"

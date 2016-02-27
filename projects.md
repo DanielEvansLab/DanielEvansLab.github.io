@@ -4,34 +4,15 @@ title: Project overview
 header: Project overview
 group: navigation
 ---
-
-## Overview
-
 Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. 
 
 The flowchart below describes the steps we take to move from longevity-associated variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization Our projects are denoted in green.
 
 <object data="/public/images/overallFlowchart.svg"></object>
 
-* **Identification of longevity-associated variants (LAVs) from GWAS of longevity**
 
-LAVs are identified using published genome-wide association studies (GWAS) of human longevity and lifespan. Our meta-analysis of the two largest GWAS meta-analyses of reaching age 90 represents the largest GWAS meta-analysis of longevity to-date. 
 
-* **Identification of LAVs from pleiotropy analysis**
 
-To further contribute to LAV identification, we will search for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
-
-* **LAG identification from longevity-associated variants (LAVs)**
-
-Association regions marked by LAVs and SNPs in linkage disequilibrium (LD) are typically broad and encompass multiple genes. We use functional genomic annotation to prioritize candidate LAGs within association regions. 
-
-* **LAG identification from gene expression**
-
-Published reports of gene expression profiles associated with age and age-related diseases directly provide candidate LAGs. 
-
-* **LAG identification from model organisms**
-
-Human orthologs of genes associated with lifespan extension in model organisms.
 
 * **Genetic Instrumental Variables (gIVs) for LAGs**
 
