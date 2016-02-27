@@ -15,7 +15,7 @@
    viewBox="0 0 650 400.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="overallFlowchart.svg">
   <defs
      id="defs4">
@@ -401,15 +401,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="277.2487"
+     inkscape:cx="166.32999"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="771"
-     inkscape:window-x="606"
-     inkscape:window-y="35"
+     inkscape:window-x="-14"
+     inkscape:window-y="2"
      inkscape:window-maximized="0"
      units="px" />
   <metadata
@@ -512,7 +512,8 @@
          id="tspan9051">variants (LAVs)</tspan></text>
     <a
        id="a4429"
-       xlink:href="http://www.longevitygenomics.org/project1">
+       xlink:href="http://www.longevitygenomics.org/project1"
+       target="http://www.longevitygenomics.org/project1">
       <rect
          y="734.39514"
          x="14.637806"
@@ -664,7 +665,8 @@
          y="921.78815">associations</tspan></text>
     <a
        id="a4432"
-       xlink:href="http://www.longevitygenomics.org/project2">
+       xlink:href="http://www.longevitygenomics.org/project2"
+       target="http://www.longevitygenomics.org/project2">
       <rect
          y="748.24384"
          x="155.8997"
@@ -673,25 +675,30 @@
          id="rect12891"
          style="fill:#008000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="222.2915"
-       y="763.18433"
-       id="text10271"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12883"
+    <a
+       id="a4440"
+       xlink:href="http://www.longevitygenomics.org/project2"
+       target="http://www.longevitygenomics.org/project2">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10271"
+         y="763.18433"
          x="222.2915"
-         y="763.18433">Functional</tspan><tspan
-         sodipodi:role="line"
-         id="tspan12885"
-         x="222.2915"
-         y="778.80933">annotation-based</tspan><tspan
-         sodipodi:role="line"
-         id="tspan12887"
-         x="222.2915"
-         y="794.43433">gene prioritization</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="763.18433"
+           x="222.2915"
+           id="tspan12883"
+           sodipodi:role="line">Functional</tspan><tspan
+           y="778.80933"
+           x="222.2915"
+           id="tspan12885"
+           sodipodi:role="line">annotation-based</tspan><tspan
+           y="794.43433"
+           x="222.2915"
+           id="tspan12887"
+           sodipodi:role="line">gene prioritization</tspan></text>
+    </a>
     <a
        id="a4435"
        xlink:href="http://www.longevitygenomics.org/project3">
