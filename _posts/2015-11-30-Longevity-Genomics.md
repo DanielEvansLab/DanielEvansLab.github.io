@@ -5,13 +5,11 @@ title: Longevity genomics
 
 ### Welcome
 
-You have reached the website for the Longevity Genomics research project, a resource-related cooperative agreement project with the National Institute on Aging (NIA). Here you will find a description of the project and its overall goals. Pages accessed via the navigation menu **☰** in the top corner list the members and describe the organizational structure, describe the specific research projects, and provide access to open source data, tools, and resources used and developed by this project.
+You have reached the website for the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Through the navigation menu **☰** in the top corner, you will find pages describing our members, research projects, and open source data, tools, and resources that enable us and others to take genetic variants associated with longevity and move them into translational strategies to promote healthy human aging. 
 
 ### Project Summary
 
-Statistically and biologically compelling genetic associations with human longevity and age-related traits have been identified. The translation of these genetic associations into insights that can lead to pharmacological interventions designed to promote healthy aging requires an approach and infrastructure that integrates multiple genomic resources. 
-
-To address this challenge, we have established the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Our overall approach, as described in more detail on the [Projects]({{site.baseurl}}/projects/) page, is to identify potential longevity-associated genes (LAGs) from multiple sources of information, followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
+Our overall approach is outlined in the flowchart below. Click on green icons to learn more about specific projects, and visit our [project overview]({{site.baseurl}}/projects/) page. We use Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. 
 
 <object data="/public/images/overallFlowchart.svg"></object>
 
