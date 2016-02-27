@@ -29,6 +29,14 @@ To address this challenge, we have established the [Longevity Genomics](http://w
 
 Users should be aware that this site is still a work in progress due to the early stage of the project. Many components of this site are under heavy development. In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. 
 
+### Funding
+
+This project is funded by NIH grant U24AG051129 awarded by the National Institute on Aging (NIA).
+
+![nia](/public/images/nia_logo80.jpg){: .center-image }
+
+* [Discussion by Nalini Raghavachari on NIA blog](https://www.nia.nih.gov/research/blog/2015/12/translating-genetic-research-find-new-links-healthy-aging){:target="_blank"}
+
 ### Contact
 
 Researchers interested in learning more about the Longevity Genomics project can contact Dan Evans <devans@psg.ucsf.edu>
