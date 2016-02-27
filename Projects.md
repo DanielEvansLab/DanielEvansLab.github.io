@@ -7,7 +7,9 @@ group: navigation
 
 ## Overview
 
-Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. Our projects are denoted in green.
+Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. 
+
+The flowchart below describes the steps we take to move from longevity-associated variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization Our projects are denoted in green.
 
 ![overallFlowchart](/public/images/overallFlowchart.svg){: .center-image }
 
