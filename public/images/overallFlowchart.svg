@@ -401,7 +401,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0818734"
-     inkscape:cx="166.32999"
+     inkscape:cx="210.69748"
      inkscape:cy="225.05541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -512,8 +512,8 @@
          id="tspan9051">variants (LAVs)</tspan></text>
     <a
        id="a4429"
-       xlink:href="http://www.longevitygenomics.org/project1"
-       target="http://www.longevitygenomics.org/project1">
+       xlink:href="http://www.longevitygenomics.org/projects1"
+       target="http://www.longevitygenomics.org/projects1">
       <rect
          y="734.39514"
          x="14.637806"
@@ -524,8 +524,8 @@
     </a>
     <a
        id="a3109"
-       xlink:href="http://www.longevitygenomics.org/project1/"
-       target="http://www.longevitygenomics.org/project1/">
+       xlink:href="http://www.longevitygenomics.org/projects1/"
+       target="http://www.longevitygenomics.org/projects1/">
       <text
          sodipodi:linespacing="125%"
          id="text9055"
@@ -607,7 +607,8 @@
        inkscape:connector-curvature="0" />
     <a
        id="a4438"
-       xlink:href="http://www.longevitygenomics.org/project3">
+       xlink:href="http://www.longevitygenomics.org/projects3"
+       target="http://www.longevitygenomics.org/projects3">
       <rect
          y="864.72467"
          x="487.28558"
@@ -616,17 +617,22 @@
          id="rect10257"
          style="fill:#008000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="509.4693"
-       y="882.2868"
-       id="text10259"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan13393"
+    <a
+       id="a4451"
+       xlink:href="http://www.longevitygenomics.org/projects3"
+       target="http://www.longevitygenomics.org/projects3">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10259"
+         y="882.2868"
          x="509.4693"
-         y="882.2868">MR</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="882.2868"
+           x="509.4693"
+           id="tspan13393"
+           sodipodi:role="line">MR</tspan></text>
+    </a>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10291)"
        d="m 221.21581,727.92493 0,141.61868"
@@ -665,8 +671,8 @@
          y="921.78815">associations</tspan></text>
     <a
        id="a4432"
-       xlink:href="http://www.longevitygenomics.org/project2"
-       target="http://www.longevitygenomics.org/project2">
+       xlink:href="http://www.longevitygenomics.org/projects2"
+       target="http://www.longevitygenomics.org/projects2">
       <rect
          y="748.24384"
          x="155.8997"
@@ -677,8 +683,8 @@
     </a>
     <a
        id="a4440"
-       xlink:href="http://www.longevitygenomics.org/project2"
-       target="http://www.longevitygenomics.org/project2">
+       xlink:href="http://www.longevitygenomics.org/projects2"
+       target="http://www.longevitygenomics.org/projects2">
       <text
          sodipodi:linespacing="125%"
          id="text10271"
@@ -701,7 +707,8 @@
     </a>
     <a
        id="a4435"
-       xlink:href="http://www.longevitygenomics.org/project3">
+       xlink:href="http://www.longevitygenomics.org/projects3"
+       target="http://www.longevitygenomics.org/projects3">
       <rect
          y="839.76807"
          x="301.17773"
@@ -710,21 +717,26 @@
          id="rect10121"
          style="fill:#00800d;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="325.21014"
-       y="862.8761"
-       id="text10123"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10125"
+    <a
+       id="a4446"
+       xlink:href="http://www.longevitygenomics.org/projects3"
+       target="http://www.longevitygenomics.org/projects3">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10123"
+         y="862.8761"
          x="325.21014"
-         y="862.8761">eQTL,</tspan><tspan
-         sodipodi:role="line"
-         x="325.21014"
-         y="878.5011"
-         id="tspan10127">GTEx</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="862.8761"
+           x="325.21014"
+           id="tspan10125"
+           sodipodi:role="line">eQTL,</tspan><tspan
+           id="tspan10127"
+           y="878.5011"
+           x="325.21014"
+           sodipodi:role="line">GTEx</tspan></text>
+    </a>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.94567901;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13311)"
        d="m 474.95045,900.77326 68.89556,0"
@@ -747,7 +759,8 @@
          id="tspan4405">GWAS</tspan></text>
     <a
        id="a4441"
-       xlink:href="http://www.longevitygenomics.org/project4">
+       xlink:href="http://www.longevitygenomics.org/projects4"
+       target="http://www.longevitygenomics.org/projects4">
       <rect
          y="969.17316"
          x="138.79974"
@@ -761,42 +774,47 @@
        d="m 221.48107,963.62719 0,-32.35129"
        id="path4555"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4512"
-       transform="translate(2,0)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4500"
-         y="986.73529"
-         x="218.84227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="986.73529"
+    <a
+       id="a4455"
+       xlink:href="http://www.longevitygenomics.org/projects4"
+       target="http://www.longevitygenomics.org/projects4">
+      <g
+         transform="translate(2,0)"
+         id="g4512">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="218.84227"
-           id="tspan4502"
-           sodipodi:role="line">Drugs matching</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4504"
-         y="1004.3731"
-         x="218.59508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1004.3731"
+           y="986.73529"
+           id="text4500"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4502"
+             x="218.84227"
+             y="986.73529">Drugs matching</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="218.59508"
-           id="tspan4506"
-           sodipodi:role="line">LAG expression profile</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4508"
-         y="1022.0109"
-         x="218.72935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1022.0109"
+           y="1004.3731"
+           id="text4504"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4506"
+             x="218.59508"
+             y="1004.3731">LAG expression profile</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="218.72935"
-           id="tspan4510"
-           sodipodi:role="line">or targeting LAG activity</tspan></text>
-    </g>
+           y="1022.0109"
+           id="text4508"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4510"
+             x="218.72935"
+             y="1022.0109">or targeting LAG activity</tspan></text>
+      </g>
+    </a>
   </g>
 </svg>
