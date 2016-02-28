@@ -38,6 +38,10 @@ Will appear here.
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23177740){:target="_blank"}
 0. Horvath S (2013) DNA methylation age of human tissues and cell types. Genome Biol 14: R115
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24138928){:target="_blank"}
+0. Lamb J, Crawford ED, Peck D, Modell JW, Blat IC, Wrobel MJ, Lerner J, Brunet
+JP, Subramanian A, Ross KN, Reich M, Hieronymus H, Wei G, Armstrong SA, Haggarty 
+SJ, Clemons PA, Wei R, Carr SA, Lander ES, Golub TR (2006) The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease. Science 313(5795):1929-35.
+[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/17008526){:target="_blank"}
 
 
 
