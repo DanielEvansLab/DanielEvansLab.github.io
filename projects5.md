@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Project 5 - Drugs targeting LAGs
+title: Project 5 - LADs
 ---
 
+# Lifespan-affecting Drugs (LADs)
 
 ### Background
 
