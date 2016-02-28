@@ -22,7 +22,7 @@ The age-related query signatures are from recent publications such as [Peters et
 
 ### Software
 
-We are currently developing the [longevityTools R Package on GitHub)](https://github.com/tgirke/longevityTools){:target="_blank"}, and preliminary vignettes are available at the [longevityTools website](http://girke.bioinformatics.ucr.edu/longevityTools/mydoc/home.html){:target="_blank"}.
+We are currently developing the [longevityTools R Package on GitHub](https://github.com/tgirke/longevityTools){:target="_blank"}, and preliminary vignettes are available at the [longevityTools website](http://girke.bioinformatics.ucr.edu/longevityTools/mydoc/home.html){:target="_blank"}.
 
 ### Example results
 
