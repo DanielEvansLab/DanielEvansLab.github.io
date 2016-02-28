@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Project 4 Mendelian Randomization
+title: Project 4 - Genetic Instumental Variables and Mendelian Randomization
 ---
-
 
 ### Background
 
@@ -23,6 +22,12 @@ MR is an approach that is designed to largely avoid the influence of confounders
 
 We will also share our phenotype harmonization approaches that will enable us and others to analyze meaningful human aging traits. These resources will be provided directly through this website or through links to external resources. We will direct users to external resources that store data collected from longitudinal cohort studies with genome-wide genotype and sequence data. 
 
+* **Genetic Instrumental Variables (gIVs) for LAGs**
 
+Genetic predictors of LAG expression can be used as genetic Instrumental Variables (gIVs) to be later used in MR analysis. Tissue-specific gIVs for LAGs will be identified using various eQTL resources, including GTEx.
+
+* **Mendelian Randomization (MR) analysis**
+
+Mendelian Randomization analysis will utilize gIVs to identify causal associations between gene products and healthy aging. Healthy aging phenotypes will be based on data from longitudinal cohort studies, which will include incident disability, incident disease and chronic conditions, and change in physical and cognitive function. 
 
 

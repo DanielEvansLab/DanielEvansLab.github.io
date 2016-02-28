@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Project 3 Functional annotation based gene prioritization
+title: Project 3 - LAG identification from gene expression or model organisms
 ---
-
-
 
 * **LAG identification from gene expression**
 
@@ -13,16 +11,6 @@ Published reports of gene expression profiles associated with age and age-relate
 
 Human orthologs of genes associated with lifespan extension in model organisms.
 
-
-### Rationale
-
-### Approach
-
-### Data
-
-### Software
-
-### Example results
-
+* **More updates to come**
 
 

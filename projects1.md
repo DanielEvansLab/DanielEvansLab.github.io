@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1 LAV identification
+title: Project 1 - LAV identification
 ---
 
 * **Identification of longevity-associated variants (LAVs) from GWAS of longevity**
@@ -11,15 +11,6 @@ LAVs are identified using published genome-wide association studies (GWAS) of hu
 
 To further contribute to LAV identification, we will search for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
 
-### Rationale
-
-### Approach
-
-### Data
-
-### Software
-
-### Example results
 
 
 

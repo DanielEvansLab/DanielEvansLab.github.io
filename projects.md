@@ -4,29 +4,11 @@ title: Project overview
 header: Project overview
 group: navigation
 ---
-Our overall approach is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. 
+Our overall approach to develop translational strategies is to employ multiple approaches to identify potential longevity-associated genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, small molecule compounds that target LAGs are identified. 
 
-The flowchart below describes the steps we take to move from longevity-associated variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization Our projects are denoted in green.
+The flowchart below describes the steps we take to move from longevity-associated variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization. Please click on green icons to learn more about specific projects.
 
 <object data="/public/images/overallFlowchart.svg"></object>
-
-
-
-
-
-* **Genetic Instrumental Variables (gIVs) for LAGs**
-
-Genetic predictors of LAG expression can be used as genetic Instrumental Variables (gIVs) to be later used in MR analysis. Tissue-specific gIVs for LAGs will be identified using various eQTL resources, including GTEx.
-
-* **Mendelian Randomization (MR) analysis**
-
-Mendelian Randomization analysis will utilize gIVs to identify causal associations between gene products and healthy aging. Healthy aging phenotypes will be based on data from longitudinal cohort studies, which will include incident disability, incident disease and chronic conditions, and change in physical and cognitive function. 
-
-* **Drug identification for translational strategies**
-
-Convincing evidence linking LAGs to longevity will serve as a foundation for the search for small molecule compounds that might mimic the collective effect of genetic instrumental variables. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and pilot studies can be designed. These findings will be disseminated to the research community.
-
-![overallFlowchart](/public/images/cluster_image.svg){: .center-image }
 
 ## Collaboration and Open Access
 
@@ -37,19 +19,4 @@ At a later stage, suitable components will be contributed to the Bioconductor pr
 source of documentation for both users and developers are the vignettes and help files provided by the R packages.
 All analysis results can be fully reproduced by rerunning the commands given in the vignettes. Instead of regenerating result files from scratch, users will also be able to download them via URLs provided in the corresponding sections of the vignettes or directly from this site. While improving transparency for external users, the chosen analysis strategy greatly facilitates collaborations among the different teams and members of this project. Where appropriate, finalized summary results will be made accessible via web-based solutions in the future such as [Shiny](http://shiny.rstudio.com/){:target="_blank"} and
 [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html){:target="_blank"}.
-
-## Current projects
-
-1. **Pleiotropy analysis to identify LAVs**
-
-2. **Prioritize LAGs within association regions using functional genomic annotation**
-
-3. **Identification of gIVs and performing MR analysis of eSNPs and longevity**
-
-4. **Connecting drug- and age-related gene expression signatures**
-
-5. **Longevity drug collection** 
-This collection will consist of drugs identified in the "Connecting drug- and age-related gene expression signatures" project, as well as drugs that target gene products identified in the "MR analysis of eSNPs and longevity" project. 
-
-
 
