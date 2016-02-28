@@ -30,7 +30,9 @@ Below is an example figure demonstrating the linkage between small molecule acti
 
 ![Cluster Image](/public/images/cluster_image.svg){: .center-image }
 
-**Longevity drug collection** 
+### Longevity drug collection
+
+**To be updated**
 This collection will consist of drugs identified in the "Connecting drug- and age-related gene expression signatures" project, as well as drugs that target gene products identified in the "MR analysis of eSNPs and longevity" project. 
 
 
