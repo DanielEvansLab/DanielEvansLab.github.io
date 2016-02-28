@@ -26,7 +26,7 @@ We are currently developing the [longevityTools R Package on GitHub)](https://gi
 
 ### Example results
 
-Below is an example figure demonstrating linkage between small molecule activity and gene expression. 
+Below is an example figure demonstrating the linkage between small molecule activity and gene expression, followed by cluster analysis of chemical structure. 
 
 ![Cluster Image](/public/images/cluster_image.svg){: .center-image }
 
