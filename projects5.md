@@ -23,7 +23,7 @@ This component of the Longevity Genomics project will focus on the integration a
 
 4. As integral part of this project we are developing the [longevityTools R Package](https://github.com/tgirke/longevityTools){:target="_blank"}, and preliminary analysis workflows in from of online vignettes are available at the [longevityTools website](http://girke.bioinformatics.ucr.edu/longevityTools/mydoc/home.html){:target="_blank"}. Finalized components of the software will be submitted to the Bioconductor project.
 
-Below is an illustration demonstrating the linkage between small molecule activity and gene expression, followed by cluster analysis of chemical structure and bioactivity fingerprints generated from data obtained from public screening databases such as PubChem Bioassay. 
+Below is an illustration demonstrating the linkage between small molecule bioactivity, structure and gene expression using non-supervised clustering. Chemical structures, bioactivity and gene expression fingerprints can be obtained from public databases including PubChem, PubChem Bioassay and GEO, respectively. 
 
 ![Cluster Image](/public/images/cluster_image.svg){: .center-image }
 
