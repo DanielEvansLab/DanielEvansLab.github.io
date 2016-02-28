@@ -17,7 +17,7 @@ Candidate chemical interventions could either modulate the activity of the prote
 
 This component of the Longevity Genomics project will focus on the analysis and integration of existing community data related to drug-like small molecules with longevity promoting properties. The assembly of this **Longevity Drug** data set will be based on the following activities:
 
-1. Identify target proteins, pathways and biological networks affiliated with longevity in humans and other organisms. The candidate set of longevity-affecting genes (LAGs) will be obtained from existing community data sets including the research outcomes from the other projects of the Longevity Genomics consortium (projects 1-4).
+1. Identify target proteins, pathways and biological networks associated with longevity in humans and other organisms. The candidate set of LAGs will be obtained from existing community data sets including the research outcomes from the other projects of the Longevity Genomics consortium (projects 1-4).
 2. Systematically identify LAG-modulating small molecules by integrating several large-scale community data sources such as data from drug databases (_e.g._ Drugbank), bioassay databases (_e.g._ PubChem Bioassay, ChEMBL), literature, drug-related gene expression fingerprints (_e.g._ LINCS), genetic (_e.g._ GWAS) and phenotype resources. This will also include nearest neighbors of LADs sharing with them structural, physicochemical or biological properties. 
 3. The **Longevity Drugs** collection will be shared with the community in form of a Bioconductor data package (portable SQLite database) containing the LAD structures, activity data, property descriptors and evidence classifications.  
 
