@@ -4,9 +4,7 @@ title: Project overview
 header: Project overview
 group: navigation
 ---
-Our overall approach to develop translational strategies is to employ multiple approaches to identify potential Longevity-Associated Genes (LAGs), followed by Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. To provide a means through which LAG activity can be modulated, Longevity-Associated Drugs (LADs) that target LAGs are identified. 
-
-The flowchart below describes the steps we take to move from Longevity-Associated Variants (LAVs) to candidate LAGs, which are then evaluated as translational targets using Mendelian Randomization. Please click on green icons to learn more about specific projects.
+Our overall approach, as outlined in the flowchart below, is to use **Longevity-Associated Variants (LAVs)**, gene-expression studies, and evidence from model organisms to identify **Longevity-Associated Genes (LAGs)**. **Mendelian Randomization (MR)** analysis will evaluate the potential impact modulating LAG activity might have on longevity, and candidate **Longevity-Associated Drugs (LADs)** targeting LAGs will be identified. To learn more about specific projects, please click on the green icons below or click on individual projects in the navigation menu.
 
 <object data="/public/images/overallFlowchart.svg"></object>
 
