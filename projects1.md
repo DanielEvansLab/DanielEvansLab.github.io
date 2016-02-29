@@ -27,6 +27,8 @@ GWAS summary results from [Broer et al.](http://www.ncbi.nlm.nih.gov/pubmed/2519
 
 Genome-wide association statistics for reaching age 90. 
 
+---
+
 ## <a name="pleiotropy"></a> Identification of LAVs using pleiotropy analysis
 
 ### Rationale/Background
@@ -39,10 +41,23 @@ The CHARGE Aging and Longevity phenotype working group, led by Dr. Murabito, is 
 
 ### Data
 
+CHARGE Aging GWAS results
+[GEFOS](www.gefos.org){:target="_blank"}
+[International Consortium for Blood Pressure](http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000585.v1.p1&phv=&phd=&pha=3589&pht=&phvf=&phdf=&phaf=1&phtf=&dssp=1&consent=&temp=1){:target="_blank"}
+[DIAGRAM, T2D](http://diagram-consortium.org/downloads.html){:target="_blank"}
+[MAGIC, diabetes-related traits](http://www.magicinvestigators.org/downloads/){:target="_blank"}
+[GIANT, anthropometric traits](http://www.broadinstitute.org/collaboration/giant/index.php/GIANT_consortium_data_files#GIANT_Consortium_2010_GWAS_Metadata_is_Available_Here_for_Download){:target="_blank"}
+[Global Lipids Genetics Consortium](http://www.broadinstitute.org/mpg/pubs/lipids2010/){:target="_blank"}
+[CARDIoGRAMplusC4D](http://www.cardiogramplusc4d.org/downloads/){:target="_blank"}
+[CKDGen Consortium](http://www.type2diabetesgenetics.org/home/portalHome){:target="_blank"}
+[Psychiatric Genetics Consortium](https://www.nimhgenetics.org/available_data/data_biosamples/pgc_public.php){:target="_blank"}
+
 ### Software
 
 [TATES](http://ctg.cncr.nl/software/tates){:target="_blank"}
 
+### Expected results
 
+SNPs with evidence for pleiotropic effects. 
 
 
