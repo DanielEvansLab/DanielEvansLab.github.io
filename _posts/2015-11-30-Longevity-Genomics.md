@@ -5,11 +5,11 @@ title: Longevity genomics
 
 ### Welcome
 
-You have reached the website for the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Through the navigation menu **☰** in the top corner, you will find pages describing our members, research projects, and open source data, tools, and resources that enable us and others to take genetic variants associated with longevity and move them into translational strategies to promote healthy human aging. 
+You have reached the website for the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Through the navigation menu **☰** in the top corner, you will find pages describing our members, research projects, and open source data, tools, and resources that enable us and others to design translational strategies to promote healthy human aging based on genetic variants associated with longevity. 
 
 ### Project Summary
 
-Our overall approach is outlined in the flowchart below. Click on green icons to learn more about specific projects, and visit our [project overview]({{site.baseurl}}/projects/) page. We use Mendelian Randomization (MR) analysis to evaluate the potential impact modulating LAG activity might have on longevity. 
+Our overall approach, as outlined in the flowchart below, is to use **longevity-associated variants (LAVs)**, gene-expression studies, and evidence from model organisms to identify **longevity-associated genes (LAGs)**. **Mendelian Randomization (MR)** analysis will evaluate the potential impact modulating LAG activity might have on longevity, and candidate **longevity-associated drugs (LADs)** targeting LAGs will be identified. To learn more about specific projects, please click on the green icons and visit our [project overview]({{site.baseurl}}/projects/) page. 
 
 <object data="/public/images/overallFlowchart.svg"></object>
 

@@ -9,7 +9,7 @@ LAVs are identified using published genome-wide association studies (GWAS) of hu
 
 * **Identification of LAVs from pleiotropy analysis**
 
-To further contribute to LAV identification, we will search for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
+LAVs are expected to impact the fundamental process of aging, and as such, should have the property of being associated with multiple age-related traits and diseases.  To further contribute to LAV identification, we will search for variants with evidence of pleiotropic effects on subclinical risk factors for age-associated diseases and for age-related diseases. 
 
 
 
