@@ -13,6 +13,10 @@ Will appear here.
 
 ## Selected Publications Related to this Project 
 
+0. Deelen J, Beekman M, Uh HW, Broer L, Ayers KL, et al. (2014) Genome-wide association meta-analysis of human longevity identifies a novel locus conferring survival beyond 90 years of age. Hum Mol Genet, 23:4420-32. 
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24688116){:target="_blank"}
+0. Broer, L, Buchman, AS, Deelen, J, Evans, DS, Faul, JD, et al. (2014). GWAS of Longevity in CHARGE Consortium Confirms APOE and FOXO3 Candidacy. J Gerontol A Biol Sci Med Sci, 70(1):110-118.
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25199915){:target="_blank"}
 0. Fortney K, Dobriban E, Garagnani P, Pirazzini C, Monti D, Mari D, Atzmon G, Barzilai N, Franceschi C, Owen AB, et al (2015) Genome-Wide Scan Informed by Age-Related Disease Identifies Loci for Exceptional Human Longevity. PLoS Genet 11: e1005728
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26677855){:target="_blank"}
 0. Pilling LC, Atkins JL, Bowman K, Jones SE, Tyrrell J, Beaumont RN, Ruth KS, Tuke MA, Yaghootkar H, Wood AR, et al (2016) Human Longevity is Influenced by Many Genetic Variants: Evidence from 75,000 UK Biobank Participants. bioRxiv 038430
