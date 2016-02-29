@@ -9,7 +9,7 @@ You have reached the website for the [Longevity Genomics](http://www.longevityge
 
 ### Project Summary
 
-Our overall approach, as outlined in the flowchart below, is to use **longevity-associated variants (LAVs)**, gene-expression studies, and evidence from model organisms to identify **longevity-associated genes (LAGs)**. **Mendelian Randomization (MR)** analysis will evaluate the potential impact modulating LAG activity might have on longevity, and candidate **longevity-associated drugs (LADs)** targeting LAGs will be identified. To learn more about specific projects, please click on the green icons and visit our [project overview]({{site.baseurl}}/projects/) page. 
+Our overall approach, as outlined in the flowchart below, is to use **Longevity-Associated Variants (LAVs)**, gene-expression studies, and evidence from model organisms to identify **Longevity-Associated Genes (LAGs)**. **Mendelian Randomization (MR)** analysis will evaluate the potential impact modulating LAG activity might have on longevity, and candidate **Longevity-Associated Drugs (LADs)** targeting LAGs will be identified. To learn more about specific projects, please click on the green icons and visit our [project overview]({{site.baseurl}}/projects/) page. 
 
 <object data="/public/images/overallFlowchart.svg"></object>
 

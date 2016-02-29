@@ -3,13 +3,13 @@ layout: page
 title: Project 5 - LAD
 ---
 
-# Lifespan-affecting Drugs (LAD)
+# Longevity-Associated Drugs (LAD)
 
 ### Background
 
 **Drug identification for translational strategies**
 
-Convincing evidence linking longevity-affecting genes (LAGs) to longevity will serve as a foundation for the search for small molecule compounds that might mimic the effect of LAGs. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and pilot studies can be designed. These findings will be disseminated to the research community.
+Convincing evidence linking Longevity-Associated Genes (LAGs) to longevity will serve as a foundation for the search for small molecule compounds that might mimic the effect of LAGs. By identifying small molecules based on therapeutic hypotheses relating molecular function to healthy aging, effective translational research strategies can be developed and pilot studies can be designed. These findings will be disseminated to the research community.
 
 Candidate chemical interventions could either modulate the activity of the protein encoded by a LAG or could induce a gene expression pattern associated with healthy aging. 
 
