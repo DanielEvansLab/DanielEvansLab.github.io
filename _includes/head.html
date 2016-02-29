@@ -14,7 +14,27 @@
     {% endif %}
   </title>
 
+  <!-- JS -->
+  <script src="{{ site.baseurl }}/public/js/jquery-1.12.1.min.js"></script>
+  <script src="{{ site.baseurl }}/public/js/jquery.reject.js"></script>
+  <script>
+$(document).ready(function() {  
+    $.reject({  
+        reject: {  
+            msie: true // Microsoft Internet Explorer  
+        },
+        header: 'Your browser is not supported', // Header Text  
+        paragraph1: 'You are currently using an unsupported browser', // Paragraph 1  
+        paragraph2: 'Please use one of the optional browsers listed below to proceed',  
+	display: ['firefox','chrome','safari'],
+	closeCookie: true,
+	imagePath: '{{ site.baseurl }}/public/images/browsers/'  
+    }); 
+});  
+  </script>
+
   <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/jquery.reject.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css">
