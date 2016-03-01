@@ -20,7 +20,7 @@ All analysis results can be fully reproduced by rerunning the commands given in 
 
 ## Pilot studies
 
-We organize annual in-person meetings for project members in Washington DC to discuss our analysis methods and translational strategies. Together with our [Research Planning Committee]({{site.baseurl}}/members#RPC), we will design pilot studies to test the feasibility of prioritized translational strategies and we will provide small funding opportunities for scientists to perform these pilot studies. Following each meeting, we will post information about our prioritized translational strategies and pilot studies on this website.
+We organize annual in-person meetings for project members in Washington DC to discuss our analysis methods and translational strategies. Together with our [Research Planning Committee]({{site.baseurl}}/members#RPC), we will design pilot studies to test the feasibility of prioritized translational strategies and we will provide small funding opportunities for scientists to perform these pilot studies. Following each meeting, we will post information about our prioritized translational strategies and pilot studies on the [Publications]({{site.baseurl}}/pubs) page of this website.
 
 <br>
 <p align="center"> 
