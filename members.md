@@ -282,3 +282,5 @@ My laboratory applies genetics and genome science to drug discovery and developm
 <img align="right" title="John Irwin" src="/public/images/members/irwin.jpg"><img/>
 John Irwin is Adjunct Associate Professor in the Department of Pharmaceutical Chemistry at the University of California San Francisco. John works on methods to discover new reagents for biological targets using target- and ligand-based methods. He applies these methods to various projects, and particiates in numerous collaborations. John develops the ZINC database of commercially available compounds for virtual screening, the DUDE database for benchmarking virtual screening methods, the DOCK Blaster family of products for web-based virtual screening, and the SEA method of comparing proteins by the ligands they bind. 
 
+
+<object data="/public/images/logos/InstitutionLogos.svg"></object>

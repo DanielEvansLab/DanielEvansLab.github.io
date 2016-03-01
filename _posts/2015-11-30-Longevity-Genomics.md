@@ -38,3 +38,6 @@ This project is funded by NIH grant U24AG051129 awarded by the National Institut
 ### Contact
 
 Researchers interested in learning more about the Longevity Genomics project can contact Dan Evans <devans@psg.ucsf.edu>
+
+
+<object data="/public/images/logos/InstitutionLogos.svg"></object>
