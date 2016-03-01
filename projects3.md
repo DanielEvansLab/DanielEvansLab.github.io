@@ -21,7 +21,7 @@ Once LAGs are identified using gene expression, at least two analyses are perfor
 
 ### Data
 
-[Sood 150 probe set]({{site.baseurl}}/data#Sood150)
+[Sood 150 probe set]({{site.baseurl}}/data#Sood150){:target="_blank"}
 
 [Peters 1497 gene set](http://www.ncbi.nlm.nih.gov/pubmed/26490707){:target="_blank"}
 
