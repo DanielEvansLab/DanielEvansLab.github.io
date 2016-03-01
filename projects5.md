@@ -31,8 +31,10 @@ Below is an illustration demonstrating the linkage between small molecule bioact
 
 Here we analyze drug- and age-related genome-wide expression data from public microarray and RNA-Seq experiments. One of the main objective is the identification drug candidates modulating the expression of longevity genes and pathways. For this, we compare age-related expression signatures with those from drug treamtments. The age-related query signatures are from recent publications such as [Peters et al. (2015)](http://www.ncbi.nlm.nih.gov/pubmed/26490707){:target="_blank"} and  [Sood et al. (2015)](http://www.ncbi.nlm.nih.gov/pubmed/26343147){:target="_blank"}, while the drug-related reference signatures are from the Connectivity Map (CMAP) and LINCS projects [(Lamb et al. (2006)](http://www.ncbi.nlm.nih.gov/pubmed/17008526){:target="_blank"}.
 
-
-
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>
 
 
 

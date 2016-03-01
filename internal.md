@@ -14,3 +14,7 @@ of this project.
 
 * [Internal site](https://sites.google.com/site/longevitygenomics/){:target="_blank"} 
 
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>

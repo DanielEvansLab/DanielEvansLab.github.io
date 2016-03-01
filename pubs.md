@@ -47,8 +47,10 @@ JP, Subramanian A, Ross KN, Reich M, Hieronymus H, Wei G, Armstrong SA, Haggarty
 SJ, Clemons PA, Wei R, Carr SA, Lander ES, Golub TR (2006) The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease. Science 313(5795):1929-35.
 [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/17008526){:target="_blank"}
 
-
-
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>
 
 
 

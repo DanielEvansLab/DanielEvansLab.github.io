@@ -40,3 +40,8 @@ We will also share our phenotype harmonization approaches that will enable us an
 ### Expected results
 
 Causal associations between intermediate phenotypes and human longevity. These associations will form the basis of translational strategies. 
+
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>

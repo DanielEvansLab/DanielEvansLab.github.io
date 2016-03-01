@@ -23,3 +23,8 @@ group: navigation
 
 * [PLINK](http://pngu.mgh.harvard.edu/~purcell/plink/){:target="_blank"}
 * [DrugVsDisease](http://bioconductor.org/packages/release/bioc/html/DrugVsDisease.html){:target="_blank"}
+
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>

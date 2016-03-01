@@ -69,4 +69,7 @@ CHARGE Aging GWAS results
 
 SNPs with evidence for pleiotropic effects. 
 
-
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>

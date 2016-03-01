@@ -41,4 +41,7 @@ Identify tissues that are enriched for overlap between associated SNPs and funct
 
 Prioritized LAGs from LAVs.
 
-
+<br>
+<p align="center"> 
+  <a href="{{ site.baseurl }}/">Home</a> 
+</p>
