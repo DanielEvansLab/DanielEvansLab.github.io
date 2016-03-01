@@ -18,6 +18,10 @@ source of documentation for both users and developers are the vignettes and help
 All analysis results can be fully reproduced by rerunning the commands given in the vignettes. Instead of regenerating result files from scratch, users will also be able to download them via URLs provided in the corresponding sections of the vignettes or directly from this site. While improving transparency for external users, the chosen analysis strategy greatly facilitates collaborations among the different teams and members of this project. Where appropriate, finalized summary results will be made accessible via web-based solutions in the future such as [Shiny](http://shiny.rstudio.com/){:target="_blank"} and
 [ReportingTools](http://bioconductor.org/packages/release/bioc/html/ReportingTools.html){:target="_blank"}.
 
+## Pilot studies
+
+We organize annual in-person meetings for project members in Washington DC to discuss our analysis methods and translational strategies. Together with our [Research Planning Committee]({{site.baseurl}}/members#RPC), we will design pilot studies to test the feasibility of prioritized translational strategies and we will provide small funding opportunities for scientists to perform these pilot studies. Following each meeting, we will post information about our prioritized translational strategies and pilot studies on this website.
+
 <br>
 <p align="center"> 
   <a href="{{ site.baseurl }}/">Home</a> 
