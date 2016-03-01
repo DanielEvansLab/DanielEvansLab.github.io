@@ -23,5 +23,5 @@ group: navigation
 
 <iframe width='100%' height='800' src="https://docs.google.com/spreadsheets/d/1sQS4yuAK1S40_oxFKiRbDys2RgVRAGkGAKs7QAxrV80/pubhtml?widget=true&amp;headers=false"></iframe>
 
-<p align="center"> <a href="www.longevitygenomics.org">Home</a> </p>
+<p align="center"> <a href="{{ site.baseurl }}/">Home</a> </p>
 
