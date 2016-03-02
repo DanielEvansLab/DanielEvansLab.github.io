@@ -167,11 +167,10 @@ Andrew Johnson earned a B.S. in vertebrate physiology from the Pennsylvania Stat
 ### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/){:target="_blank"} - University of California, Riverside (UCR)
 
 <img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
-Tyler Backman is a graduate student at the Bioengineering program at the
-University California, Riverside.
+Tyler Backman is a PhD candidate in the UC Riverside Bioengineering program.
 His research interests include computational drug design and discovery,
 mathematical modeling of biological feedback systems, and inference from weak
-and noisy data. I am currently developing computational tools to identify new
+and noisy data. He is currently developing computational tools to identify new
 small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
