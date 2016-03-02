@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 4 - Genetic Instumental Variables and Mendelian Randomization
+title: Project 4 - Genetic Instrumental Variables and Mendelian Randomization
 ---
 
 ### Background
