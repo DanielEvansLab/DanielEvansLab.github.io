@@ -13,7 +13,7 @@ Will appear here.
 
 ## Selected Publications Related to this Project 
 
-[ [PubMed Search](http://goo.gl/IX7esc){:target="_blank"} ] 
+[ [PubMed Search](http://goo.gl/y0dUwr){:target="_blank"} ] 
 
 0. Deelen J, Beekman M, Uh HW, Broer L, Ayers KL, et al. (2014) Genome-wide association meta-analysis of human longevity identifies a novel locus conferring survival beyond 90 years of age. Hum Mol Genet, 23:4420-32. 
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24688116){:target="_blank"}
