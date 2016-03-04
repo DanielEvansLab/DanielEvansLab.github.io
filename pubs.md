@@ -15,6 +15,12 @@ Will appear here.
 
 [ [PubMed Search](http://goo.gl/y0dUwr){:target="_blank"} ] 
 
+0. Brion M-JA, Shakhbazov K, Visscher PM (2013) Calculating statistical power in Mendelian randomization studies. Int J Epidemiol 42: 1497–1501
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24159078){:target="_blank"}
+0. Sheehan NA, Didelez V, Burton PR, Tobin MD (2008) Mendelian randomisation and causal inference in observational epidemiology. PLoS Med 5: e177
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18752343){:target="_blank"}
+0. Smith GD, Ebrahim S (2004) Mendelian randomization: prospects, potentials, and limitations. Int J Epidemiol 33: 30–42
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15075143){:target="_blank"}
 0. Deelen J, Beekman M, Uh HW, Broer L, Ayers KL, et al. (2014) Genome-wide association meta-analysis of human longevity identifies a novel locus conferring survival beyond 90 years of age. Hum Mol Genet, 23:4420-32. 
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24688116){:target="_blank"}
 0. Broer, L, Buchman, AS, Deelen, J, Evans, DS, Faul, JD, et al. (2014). GWAS of Longevity in CHARGE Consortium Confirms APOE and FOXO3 Candidacy. J Gerontol A Biol Sci Med Sci, 70(1):110-118.
