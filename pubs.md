@@ -9,7 +9,8 @@ group: navigation
 
 ## Publications of this Project 
 
-Will appear here. 
+0. Backman TW, Girke T (2016) bioassayR: Cross-Target Analysis of Small Molecule Bioactivity. *J Chem Inf Model*: Epub ahead of print.
+[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27367556){:target="_blank"}
 
 ## Selected Publications Related to this Project 
 
