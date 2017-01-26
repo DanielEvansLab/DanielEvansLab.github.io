@@ -17,7 +17,9 @@ group: navigation
 ### Links to miscellaneous resources
 
 * [LongevityMap](http://genomics.senescence.info/longevity){:target="_blank"}
-* [GeneAge](http://genomics.senescence.info/genes/){:target="_blank"}
+* [GeneAge DB](http://genomics.senescence.info/genes/){:target="_blank"}
+* [Digital Aging Atlas (DAA)](http://ageing-map.org){:target="_blank"} 
+* [Biomarkers of human mortality](http://mortalitypredictors.org/){:target="_blank"} 
 
 ### <a name="Sood150"></a> Sood et al. (2015) data 
 

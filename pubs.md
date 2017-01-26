@@ -9,8 +9,9 @@ group: navigation
 
 ## Publications of this Project 
 
-0. Backman TW, Girke T (2016) bioassayR: Cross-Target Analysis of Small Molecule Bioactivity. *J Chem Inf Model*: Epub ahead of print.
-[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27367556){:target="_blank"}
+0. Backman T, Evans D, Girke T (2017) Large-scale Bioactivity Analysis of the Small-Molecule Assayed Proteome. *PLoS ONE*, in print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/){:target="_blank"}
+0. Backman TW, Girke T (2016) systemPipeR: NGS workflow and report generation environment. *BMC Bioinformatics*: 17, 1-8. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27650223){:target="_blank"}
+0. Backman TW, Girke T (2016) bioassayR: Cross-Target Analysis of Small Molecule Bioactivity. *J Chem Inf Model*: Epub ahead of print. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/27367556){:target="_blank"}
 
 ## Selected Publications Related to this Project 
 
