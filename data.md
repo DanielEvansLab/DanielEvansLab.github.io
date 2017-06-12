@@ -28,7 +28,7 @@ group: navigation
 
 ### MR Data
 
-<iframe src="https://tgirke.shinyapps.io/longevitygenomics/" style="border: none; width: 880px; height: 900px"></iframe>
+<iframe src="https://tgirke.shinyapps.io/longevitygenomics/" style="border: none; width: 1200px; height: 1200px"></iframe>
 
 <br>
 <p align="center"> 
