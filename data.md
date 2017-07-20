@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Data
-header: Data
+title: Data and Results
+header: Data and Results
 group: navigation
 ---
 
-> This page provides downloads of resources generated or used by this project. 
+> This page provides links to results and downloads of resources generated or used by this project. 
+
+### Mendelian Randomization (MR) results
+
+* [Interactive tables displaying results of MR analyses of longevity and age-related diseases](http://www.longevitygenomics.org/results){:target="_blank"}
 
 ### Reference data sets
 
@@ -26,11 +30,6 @@ group: navigation
 <iframe width='100%' height='800' src="https://docs.google.com/spreadsheets/d/1sQS4yuAK1S40_oxFKiRbDys2RgVRAGkGAKs7QAxrV80/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
-### MR Data
-
-To view this data on a separate page, go [here](https://tgirke.shinyapps.io/longevitygenomics/).
-
-<iframe src="https://tgirke.shinyapps.io/longevitygenomics/" style="border: none; width: 1400px; height: 1000px"></iframe>
 
 <br>
 <p align="center"> 
