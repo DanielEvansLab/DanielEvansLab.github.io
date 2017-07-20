@@ -25,12 +25,10 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Joanne Murabito]({{site.baseurl}}/members#murabito) - Boston University School of Medicine
 * [Kathryn Lunetta]({{site.baseurl}}/members#lunetta) - Boston University School of Public Health
 * [Douglas Kiel]({{site.baseurl}}/members#kiel) - Institute for Aging Research, Hebrew SeniorLife and Department of Medicine, Beth Israel Deaconess Medical Center and Harvard Medical School 
-* [Andrew Johnson]({{site.baseurl}}/members#johnson) - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
 
 ### <a name="CIC"></a> Computational Informatics Committee (CIC)
 * PI: [Nik Schork]({{site.baseurl}}/members#nikschork) - J. Craig Venter Institute (JCVI)
 * [Dan Evans]({{site.baseurl}}/members#danevans) - California Pacific Medical Center Research Institute (CPMCRI)
-* [Tyler Backman]({{site.baseurl}}/members#tylerbackman) - University of California, Riverside (UCR)
 * [Thomas Girke]({{site.baseurl}}/members#thomasgirke) - University of California, Riverside (UCR)
 
 ### <a name="RPC"></a> Research Planning Committee (RPC)
@@ -43,9 +41,9 @@ Longevity Genomics Research Group members include experts in human and model org
 * [Dan Tagle]({{site.baseurl}}/members#tagle) - National Center for Advancing Translational Sciences (NCATS)/National Institutes of Health (NIH)
 
 ### <a name="EAB"></a> External Advisory Board
+* EAB Chair: [Nadeem Sarwar]({{site.baseurl}}/members#sarwar) - Eisai Co., Ltd.
 * [Michael Snyder]({{site.baseurl}}/members#snyder) - Stanford University
 * [Maria Glymour]({{site.baseurl}}/members#glymour) - University of California, San Francisco (UCSF)
-* [Nadeem Sarwar]({{site.baseurl}}/members#sarwar) - Eisai Co., Ltd.
 * [John Carulli]({{site.baseurl}}/members#carulli) - Biogen
 * [John Irwin]({{site.baseurl}}/members#irwin) - University of California, San Francisco (UCSF)
 
@@ -155,23 +153,6 @@ Kathryn L. Lunetta, Ph.D. joined the Department of Biostatistics in the fall of 
 <img align="right" title="Douglas Kiel" src="/public/images/members/kiel.jpg"><img/>
 Douglas P. Kiel is a Geriatrician and Professor of Medicine at Harvard Medical School. He serves as the Director of the Musculoskeletal Research Center at the Institute for Aging Research, Hebrew SeniorLife. He is an Associate Member of the Broad Institute of MIT and Harvard. He leads the Musculoskeletal Working Group of the Cohorts for Heart and Aging Research in Genomic Epidemiology (“CHARGE”) Consortium, is a member of the Genetic Factors for Osteoporosis (“GEFOS”) Consortium Steering Committee, and is a co-convener of the Bone Mineralization Working Group of the Trans-Omics for Precision Medicine (TOPMed) Program. His genetics research focuses on diseases of the musculoskeletal system and diseases of aging.
 
----
-
-### <a name="johnson"></a> [Andrew Johnson](http://www.nhlbi.nih.gov/research/intramural/researchers/pi/johnson-andrew){:target="_blank"} - National Heart, Lung, and Blood Institute (NHLBI)/National Institutes of Health (NIH)
-
-<img align="right" title="Andrew Johnson" src="/public/images/members/johnson.jpg"><img/>
-Andrew Johnson earned a B.S. in vertebrate physiology from the Pennsylvania State University in 1998. He subsequently worked on gene regulatory research in C. elegans and neuroelectrophysiology in rodents before entering graduate school in 2003. He earned a Ph.D. in biomedical sciences from Ohio State University in 2007 with dual emphases in bioinformatics and pharmacogenomics. He came to the NIH for post-doctoral training in 2007 and became a tenure track investigator in 2012. Dr. Johnson has been nominated for and received numerous awards including the NHLBI Lenfant Fellowship and Genome Technology’s Young Investigator Award, and was elected as a Fellow of the American Heart Association. He has published more than 100 papers and has served as a reviewer for more than 20 journals. Dr. Johnson is active on several committees of the Functional Genomics and Translational Biology Council of the American Heart Association. He is also a member of the American Society for Human Genetics and the International Society for Computational Biology. Dr. Johnson is interested in the pharmacogenetics of anti-platelet treatments and resulting CVD outcomes. His laboratory applies population-scale approaches to the problem including genetic studies, collaboration with clinician-scientists, studies of gene expression variability in human tissues, and bioinformatics and systems biology approaches. His group makes particular use of the Framingham Heart Study and the rich amount of epidemiologic and genetic data it has accumulated over the years. Additionally, the Johnson laboratory creates and applies cutting edge genomic and bioinformatics resources. To date these resources include [SNAP](http://www.broadinstitute.org/mpg/snap/){:target="_blank"}, a fast human linkage disequilibrium query and annotation interface for worldwide population genetic samples; and [GRASP](http://grasp.nhlbi.nih.gov/Overview.aspx){:target="_blank"}, one of the largest and deepest databases of human genetic associations.
-
----
-
-### <a name="tylerbackman"></a> [Tyler Backman](http://girke.bioinformatics.ucr.edu/members/tyler-backman/){:target="_blank"} - University of California, Riverside (UCR)
-
-<img align="right" title="Tyler Backman" src="/public/images/members/tyler_backman.png"><img/>
-Tyler Backman is a PhD candidate in the UC Riverside Bioengineering program.
-His research interests include computational drug design and discovery,
-mathematical modeling of biological feedback systems, and inference from weak
-and noisy data. He is currently developing computational tools to identify new
-small molecule drugs and drug targets for the treatment of human disease.
 
 --- 
 
@@ -247,6 +228,14 @@ Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State Univ
 
 ---
 
+### <a name="sarwar"></a> Nadeem Sarwar - Eisai Co., Ltd.
+
+<img align="right" title="Nadeem Sarwar" src="/public/images/members/nadeem.jpg"><img/>
+Nadeem is the founder and president of the Eisai AiM Institute, an industry unique discovery innovation unit within the greater Boston biopharma hub of 90 integrated scientists at a dedicated state-of-the-art research facility in Andover, MA. The AiM (Andover innovative Medicines) Institute’s exclusive mission is to realize human genetic driven drug discovery, with a predominant focus on delivering precision medicines for the subset of patients with immune-driven pathology in dementia (immunodementia) and oncology (immunooncology). 
+Nadeem’s expertise is in human genetics guided drug discovery and precision medicine. He has executive-level experience in academia (Tenured Faculty, University of Cambridge, UK), big-pharma (Senior Director, Pfizer Inc.), mid-size pharma (Vice President, Genetics & Human Biology, Eisai Inc.) and biotech-like organizations (President, Eisai AiM Institute). 
+
+---
+
 ### <a name="snyder"></a> [Michael Snyder](http://snyderlab.stanford.edu/){:target="_blank"} - Stanford University
 
 <img align="right" title="Michael Snyder" src="/public/images/members/snyder.jpg"><img/>
@@ -260,12 +249,6 @@ Michael Snyder is the Stanford Ascherman Professor and Chair of Genetics and the
 My research focuses on how social factors experienced across the lifecourse, from infancy to adulthood, influence cognitive function, dementia, stroke, and other health outcomes in old age. A separate theme of my research focuses on overcoming methodological challenges encountered in analyses of social determinants of health, and cognitive outcomes in particular. Many of these challenges are being addressed in the MELODEM (MEthods in LOngitudinal research on DEMentia) initiative, an international group of researchers focusing on analytic challenges in research on dementia and cognitive aging. MELODEM is organized into working groups on measurement, selection/survival, time-scale definitions, complex confounding, high-dimensional data. 
 
 I have advocated the use of causal directed acyclic graphs (DAGs) as a standard research tool to represent our causal hypotheses and help elucidate potential biases in proposed analyses. In other cases, the methodological problems require more analytical solutions that have been developed elsewhere in epidemiology or in other disciplines, but are rarely applied to these research questions. Instrumental variables analyses of natural or induced experiments are one promising example. Genetic variations have recently been advanced as possible instrumental variables to estimate the health effects of a wide range of phenotypes, an approach sometimes called “Mendelian Randomization.” Using genetic polymorphisms as instrumental variables could provide a very powerful tool for social epidemiology, but the inferences from such analyses rest on strong assumptions. Thus I am currently working with a team to explore approaches to evaluating the plausibility of those assumptions in applications for social epidemiology. 
-
----
-
-### <a name="sarwar"></a> Nadeem Sarwar - Eisai Co., Ltd.
-
-Nadeem Sarwar is the Director of the Integrated Human Genomics (IHGx) Research Unit of Eisai. Eisai's IHGx Research Unit combines dedicated quantitative, wet-lab biology and chemistry expertise and resources within an autonomous and highly collaborative R&D innovation unit. IHGx focuses predominantly on neurodegenerative diseases, auto-immune diseases and cancer immunity, employing entrepreneurial and collaborative business models, to catalyze delivery of novel and targeted therapeutics from human genetics to patients.
 
 ---
 
