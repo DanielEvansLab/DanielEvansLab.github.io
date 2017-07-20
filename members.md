@@ -228,7 +228,7 @@ Tagle obtained his Ph.D. in molecular biology and genetics from Wayne State Univ
 
 ---
 
-### <a name="sarwar"></a> Nadeem Sarwar - Eisai AiM Institute
+### <a name="sarwar"></a> EAB Chair: Nadeem Sarwar - Eisai AiM Institute
 
 <img align="right" title="Nadeem Sarwar" src="/public/images/members/nadeem.jpg"><img/>
 Nadeem is the founder and president of the Eisai AiM Institute, an industry unique discovery innovation unit within the greater Boston biopharma hub of 90 integrated scientists at a dedicated state-of-the-art research facility in Andover, MA. The AiM (Andover innovative Medicines) Institute’s exclusive mission is to realize human genetic driven drug discovery, with a predominant focus on delivering precision medicines for the subset of patients with immune-driven pathology in dementia (immunodementia) and oncology (immunooncology). 
