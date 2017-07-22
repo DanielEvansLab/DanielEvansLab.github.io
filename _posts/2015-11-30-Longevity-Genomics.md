@@ -25,7 +25,7 @@ Our overall approach, as outlined in the flowchart below, is to use **Longevity-
 
 ### Updates
 
-Users should be aware that this site is still a work in progress due to the early stage of the project (the project was funded in September, 2015). Many components of this site are under heavy development. In the coming months, genomic resources and analytical approaches will be made available on this website that will enable others in the field to perform in-depth integrative genomic analyses using their own data. 
+Users should be aware that this site is still a work in progress. Many components of this site are under heavy development. 
 
 ### <a name="funding"></a> Funding
 
