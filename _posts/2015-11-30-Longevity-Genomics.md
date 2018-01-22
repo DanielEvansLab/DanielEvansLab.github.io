@@ -3,6 +3,8 @@ layout: post
 title: Longevity genomics
 ---
 
+<font color="red">A new verion of this website is available [here](http://drupalbeansta-4r78u-env.us-east-2.elasticbeanstalk.com/).</font>
+
 ### Welcome
 
 You have reached the website for the [Longevity Genomics](http://www.longevitygenomics.org/) research group, an [NIA funded resource-related cooperative agreement]({{site.baseurl}}/#funding). Through the navigation menu **☰** in the top corner, you will find pages describing our members, research projects, and open source data, tools, and resources that enable us and others to design translational strategies to promote healthy human aging based on genetic variants associated with longevity. 
