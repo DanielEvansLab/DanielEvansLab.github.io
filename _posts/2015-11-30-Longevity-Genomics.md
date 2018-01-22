@@ -3,7 +3,7 @@ layout: post
 title: Longevity genomics
 ---
 
-<font color="red">A new verion of this website is available <a href="http://drupalbeansta-4r78u-env.us-east-2.elasticbeanstalk.com/">here.</a></font>
+<font color="red">A new version of this website is available <a href="http://drupalbeansta-4r78u-env.us-east-2.elasticbeanstalk.com/">here.</a></font>
 
 ### Welcome
 
